@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="64"
+   height="64"
+   color-interpolation="linearRGB"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="mail-message-new.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata46">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs44">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 32 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="64 : 32 : 1"
+       inkscape:persp3d-origin="32 : 21.333333 : 1"
+       id="perspective48" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="668"
+     inkscape:window-width="640"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="7.25"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:current-layer="svg2" />
+  <g
+     id="g4">
+    <path
+       style="fill:#010101; fill-opacity:0.4039"
+       d="M37 59L40 60L54 46C54 46 64 42 64 40C64 38 54 32 54 32L37 59z"
+       id="path6" />
+    <path
+       style="fill:none; stroke:#000000; stroke-width:4; stroke-linejoin:round"
+       d="M4 43L36 59L56 39C56 39 46 18 42 18C38 18 24 26 24 26L4 43z"
+       id="path8" />
+    <path
+       style="fill:#a0893c"
+       d="M24 26L56 39L34 42L26 39L24 26z"
+       id="path10" />
+    <linearGradient
+       id="gradient0"
+       gradientUnits="userSpaceOnUse"
+       x1="77.61"
+       y1="31.7"
+       x2="75.33"
+       y2="42.91">
+      <stop
+         offset="0"
+         stop-color="#ece986"
+         id="stop13" />
+      <stop
+         offset="1"
+         stop-color="#c9c55c"
+         id="stop15" />
+    </linearGradient>
+    <path
+       style="fill:url(#gradient0)"
+       d="M56 39C56 39 46 18 42 18C38 18 24 26 24 26L56 39z"
+       id="path17" />
+    <path
+       style="fill:none; stroke:#000000; stroke-width:2"
+       d="M28 27L51 35L37 49L17 39L28 27z"
+       id="path19" />
+    <linearGradient
+       id="gradient1"
+       gradientUnits="userSpaceOnUse"
+       x1="11.06"
+       y1="14.86"
+       x2="29.36"
+       y2="9.15">
+      <stop
+         offset="0"
+         stop-color="#d6d6d6"
+         id="stop22" />
+      <stop
+         offset="1"
+         stop-color="#ffffff"
+         id="stop24" />
+    </linearGradient>
+    <path
+       style="fill:url(#gradient1)"
+       d="M28 27L51 35L37 49L17 39L28 27z"
+       id="path26" />
+    <path
+       style="fill:none; stroke:#000000; stroke-width:4; stroke-linejoin:round"
+       d=""
+       id="path28" />
+    <linearGradient
+       id="gradient2"
+       gradientUnits="userSpaceOnUse"
+       x1="83.05"
+       y1="-5.55"
+       x2="103.7"
+       y2="26.91">
+      <stop
+         offset="0"
+         stop-color="#fffcac"
+         id="stop31" />
+      <stop
+         offset="1"
+         stop-color="#e6e27c"
+         id="stop33" />
+    </linearGradient>
+    <path
+       style="fill:url(#gradient2)"
+       d="M24 26V40L33 44L56 39L36 59L4 43L24 26z"
+       id="path35" />
+    <path
+       style="fill:#a07d33"
+       d="M24 26V40L33 44L56 39L34 42L26 39L24 26z"
+       id="path37" />
+  </g>
+</svg>

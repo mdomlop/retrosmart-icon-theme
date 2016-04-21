@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="64"
+   height="64"
+   color-interpolation="linearRGB"
+   id="svg2"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="application-x-executable.svg">
+  <metadata
+     id="metadata77">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs75">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 32 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="64 : 32 : 1"
+       inkscape:persp3d-origin="32 : 21.333333 : 1"
+       id="perspective79" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="739"
+     inkscape:window-height="501"
+     id="namedview73"
+     showgrid="false"
+     inkscape:zoom="3.6875"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-x="137"
+     inkscape:window-y="111"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <g
+     id="g4">
+    <path
+       style="fill:#010101; fill-opacity:0.4549"
+       d="M19 60H25L33 52L47 60H53L64 49L57 45L30 49L19 60z"
+       id="path6" />
+    <path
+       style="fill:none; stroke:#000000; stroke-width:4"
+       d="M18 14V30L34 38L44 28V12L29 6L18 14z"
+       transform="matrix(1,0,0,1,-16,20)"
+       id="path8" />
+    <linearGradient
+       id="gradient0"
+       gradientUnits="userSpaceOnUse"
+       x1="26.68"
+       y1="46.52"
+       x2="34.48"
+       y2="36.39">
+      <stop
+         offset="0"
+         stop-color="#c6d7f5"
+         id="stop11" />
+      <stop
+         offset="1"
+         stop-color="#6b94dd"
+         id="stop13" />
+    </linearGradient>
+    <path
+       style="fill:url(#gradient0)"
+       d="M18 14V30L34 38V21L18 14z"
+       transform="matrix(1,0,0,1,-16,20)"
+       id="path15" />
+    <path
+       style="fill:#003cb0"
+       d="M34 21V38L44 28V12L34 21z"
+       transform="matrix(1,0,0,1,-16,20)"
+       id="path17" />
+    <path
+       style="fill:#0d2964"
+       d="M24 34L28 45V36L24 34z"
+       transform="matrix(1,0,0,1,0,1)"
+       id="path19" />
+    <linearGradient
+       id="gradient1"
+       gradientUnits="userSpaceOnUse"
+       x1="26.68"
+       y1="46.52"
+       x2="34.48"
+       y2="36.39">
+      <stop
+         offset="0"
+         stop-color="#c6d7f5"
+         id="stop22" />
+      <stop
+         offset="1"
+         stop-color="#6b94dd"
+         id="stop24" />
+    </linearGradient>
+    <path
+       style="fill:url(#gradient1)"
+       d="M2 34L18 41L28 32L13 26L2 34z"
+       id="path26" />
+    <path
+       style="fill:none; stroke:#000000; stroke-width:4"
+       d="M18 14V30L34 38L44 28V12L29 6L18 14z"
+       transform="matrix(1,0,0,1,12,20)"
+       id="path28" />
+    <path
+       style="fill:#ec6666"
+       d="M34 43L33.99 51.99L46 58V41L41.07 38.84L34 43z"
+       id="path30" />
+    <path
+       style="fill:#cd4d4d"
+       d="M30 34V50L33.99 51.99L34 43L41.07 38.84L30 34z"
+       id="path32" />
+    <linearGradient
+       id="gradient2"
+       gradientUnits="userSpaceOnUse"
+       x1="70.4"
+       y1="34.52"
+       x2="71.08"
+       y2="50.83">
+      <stop
+         offset="0"
+         stop-color="#a3043c"
+         id="stop35" />
+      <stop
+         offset="1"
+         stop-color="#ffdce6"
+         id="stop37" />
+    </linearGradient>
+    <path
+       style="fill:url(#gradient2)"
+       d="M34 21V38L44 28V12L34 21z"
+       transform="matrix(1,0,0,1,12,20)"
+       id="path39" />
+    <path
+       style="fill:#ffacac"
+       d="M41.07 38.84L46 41L56 32L50.99 29.99L41.07 38.84z"
+       id="path41" />
+    <linearGradient
+       id="gradient3"
+       gradientUnits="userSpaceOnUse"
+       x1="138.84"
+       y1="49.93"
+       x2="86.24"
+       y2="116.1">
+      <stop
+         offset="0"
+         stop-color="#c13e3e"
+         id="stop44" />
+      <stop
+         offset="1"
+         stop-color="#e27a7a"
+         id="stop46" />
+    </linearGradient>
+    <path
+       style="fill:url(#gradient3)"
+       d="M30 34L41.07 38.84L50.99 29.99L41 26L30 34z"
+       id="path48" />
+    <path
+       style="fill:none; stroke:#000000; stroke-width:4"
+       d="M18 14V30L34 38L44 28V12L29 6L18 14z"
+       id="path50" />
+    <linearGradient
+       id="gradient4"
+       gradientUnits="userSpaceOnUse"
+       x1="-19.87"
+       y1="-1.53"
+       x2="5.48"
+       y2="-26.29">
+      <stop
+         offset="0"
+         stop-color="#ffec4b"
+         id="stop53" />
+      <stop
+         offset="1"
+         stop-color="#f0a506"
+         id="stop55" />
+    </linearGradient>
+    <path
+       style="fill:url(#gradient4)"
+       d="M18 14V30L34 38V21L18 14z"
+       id="path57" />
+    <linearGradient
+       id="gradient5"
+       gradientUnits="userSpaceOnUse"
+       x1="30.5"
+       y1="-22.81"
+       x2="56.01"
+       y2="-9.13">
+      <stop
+         offset="0"
+         stop-color="#ffffff"
+         id="stop60" />
+      <stop
+         offset="1"
+         stop-color="#fff289"
+         id="stop62" />
+    </linearGradient>
+    <path
+       style="fill:url(#gradient5)"
+       d="M18 14L34 21L44 12L29 6L18 14z"
+       id="path64" />
+    <linearGradient
+       id="gradient6"
+       gradientUnits="userSpaceOnUse"
+       x1="53.01"
+       y1="-9.55"
+       x2="69.94"
+       y2="3.43">
+      <stop
+         offset="0"
+         stop-color="#f99b05"
+         id="stop67" />
+      <stop
+         offset="1"
+         stop-color="#fcb23d"
+         id="stop69" />
+    </linearGradient>
+    <path
+       style="fill:url(#gradient6)"
+       d="M34 21V38L44 28V12L34 21z"
+       id="path71" />
+  </g>
+</svg>

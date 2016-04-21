@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="64"
+   height="64"
+   id="svg2">
+  <metadata
+     id="metadata52">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs50" />
+  <g
+     id="g4">
+    <linearGradient
+       x1="22"
+       y1="14"
+       x2="22"
+       y2="2"
+       id="gradient0"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop7"
+         style="stop-color:#ff0505;stop-opacity:0"
+         offset="0.33329999" />
+      <stop
+         id="stop9"
+         style="stop-color:#ff0606;stop-opacity:0"
+         offset="0.82569999" />
+      <stop
+         id="stop11"
+         style="stop-color:#ff0606;stop-opacity:1"
+         offset="0.48859999" />
+    </linearGradient>
+    <path
+       d="m 28,2 c -3,0 -6,3 -6,6 0,3 3,6 6,6 3,0 6,-3 6,-6 0,-3 -3,-6 -6,-6 z"
+       transform="matrix(3.7023,0,0,3.7023,-75.6666,-21.619)"
+       id="path13"
+       style="fill:none;stroke:url(#gradient0);stroke-width:4" />
+    <path
+       d="m 8,52 52,6 -28,4 M 26,42 60,58 48,48 m 11,8 c -4,0 -4,4 0,4 4,0 4,-4 0,-4 z"
+       id="path15"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.447" />
+    <path
+       d="M 32,62 28,10 48,48 M 32,54 44,42 H 30 l 10,-8 -10,-2 6,-6 h -6 l 3,-5 -3,-1 2,-2"
+       id="path17"
+       style="fill:none;stroke:#010101;stroke-width:6;stroke-linecap:round;stroke-linejoin:round" />
+    <path
+       d="M 8,52 28,10 32,62 M 30,54 12,46 30,42 16,36 28,32 20,28 28,26 23,23 28,20 25,18"
+       id="path19"
+       style="fill:none;stroke:#010101;stroke-width:6;stroke-linecap:round;stroke-linejoin:round" />
+    <radialGradient
+       cx="0"
+       cy="0"
+       r="64"
+       id="gradient1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.1542,-0.0247,-0.0593,-0.3702,39.9635,40.6404)">
+      <stop
+         id="stop22"
+         style="stop-color:#8fa0b1;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop24"
+         style="stop-color:#677788;stop-opacity:1"
+         offset="1" />
+    </radialGradient>
+    <path
+       d="M 32,62 28,10 48,48 M 32,54 44,42 H 30 l 10,-8 -10,-2 6,-6 h -6 l 3,-5 -3,-1 2,-2"
+       id="path26"
+       style="fill:none;stroke:url(#gradient1);stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+    <radialGradient
+       cx="0"
+       cy="0"
+       r="64"
+       id="gradient2"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.1721,0.0536,-0.1393,0.4475,24.8856,26.1233)">
+      <stop
+         id="stop29"
+         style="stop-color:#f0f7fd;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop31"
+         style="stop-color:#aebfd0;stop-opacity:1"
+         offset="1" />
+    </radialGradient>
+    <path
+       d="M 8,52 28,10 32,62 M 30,54 12,46 30,42 16,36 28,32 20,28 28,26 23,23 28,20 25,18"
+       id="path33"
+       style="fill:none;stroke:url(#gradient2);stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+    <path
+       d="m 28,2 c -3,0 -6,3 -6,6 0,3 3,6 6,6 3,0 6,-3 6,-6 0,-3 -3,-6 -6,-6 z"
+       id="path35"
+       style="fill:none;stroke:#010101;stroke-width:4" />
+    <radialGradient
+       cx="0"
+       cy="0"
+       r="64"
+       id="gradient3"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.1406,0,0,0.1406,26,6)">
+      <stop
+         id="stop38"
+         style="stop-color:#677788;stop-opacity:1"
+         offset="0.81809998" />
+      <stop
+         id="stop40"
+         style="stop-color:#8ea5bc;stop-opacity:1"
+         offset="0.61360002" />
+      <stop
+         id="stop42"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0.0037" />
+      <stop
+         id="stop44"
+         style="stop-color:#8ea5bc;stop-opacity:1"
+         offset="1" />
+    </radialGradient>
+    <path
+       d="m 28,2 c -3,0 -6,3 -6,6 0,3 3,6 6,6 3,0 6,-3 6,-6 0,-3 -3,-6 -6,-6 z"
+       id="path46"
+       style="fill:url(#gradient3)" />
+  </g>
+</svg>

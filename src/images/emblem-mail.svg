@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#010101; fill-opacity:0.4039"
+        d="M37 59L40 60L54 46C54 46 64 42 64 40C64 38 54 32 54 32L37 59z"
+  />
+  <path style="fill:none; stroke:#000000; stroke-width:4; stroke-linejoin:round"
+        d="M4 43L36 59L56 39C56 39 46 18 42 18C38 18 24 26 24 26L4 43z"
+  />
+  <path style="fill:#a0893c"
+        d="M24 26L56 39L34 42L26 39L24 26z"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="77.61" y1="31.7" x2="75.33" y2="42.91">
+   <stop offset="0" stop-color="#ece986"/>
+   <stop offset="1" stop-color="#c9c55c"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M56 39C56 39 46 18 42 18C38 18 24 26 24 26L56 39z"
+  />
+  <path style="fill:none; stroke:#000000; stroke-width:2"
+        d="M28 27L51 35L37 49L17 39L28 27z"
+  />
+  <linearGradient id="gradient1" gradientUnits="userSpaceOnUse" x1="11.06" y1="14.86" x2="29.36" y2="9.15">
+   <stop offset="0" stop-color="#d6d6d6"/>
+   <stop offset="1" stop-color="#ffffff"/>
+  </linearGradient>
+  <path style="fill:url(#gradient1)"
+        d="M28 27L51 35L37 49L17 39L28 27z"
+  />
+  <path style="fill:none; stroke:#000000; stroke-width:4; stroke-linejoin:round"
+        d=""
+  />
+  <linearGradient id="gradient2" gradientUnits="userSpaceOnUse" x1="83.05" y1="-5.55" x2="103.7" y2="26.91">
+   <stop offset="0" stop-color="#fffcac"/>
+   <stop offset="1" stop-color="#e6e27c"/>
+  </linearGradient>
+  <path style="fill:url(#gradient2)"
+        d="M24 26V40L33 44L56 39L36 59L4 43L24 26z"
+  />
+  <path style="fill:#a07d33"
+        d="M24 26V40L33 44L56 39L34 42L26 39L24 26z"
+  />
+  <path style="fill:none; stroke:#fcc506; stroke-width:4"
+        d="M30 6L26 10L32 14L33 23L36 12L30 10V6z"
+  />
+  <path style="fill:#fffdc7"
+        d="M30 6L26 10L32 14L33 23L36 12L30 10V6z"
+  />
+ </g>
+</svg>

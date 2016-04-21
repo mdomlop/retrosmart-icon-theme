@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.43"
+   sodipodi:docname="qemu-launcher.svg"
+   version="1.0"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient2207">
+      <stop
+         id="stop2221"
+         offset="0"
+         style="stop-color:#69ff69;stop-opacity:1;" />
+      <stop
+         style="stop-color:#c8ffc8;stop-opacity:1;"
+         offset="0.30000001"
+         id="stop2261" />
+      <stop
+         id="stop2263"
+         offset="0.5"
+         style="stop-color:#abffab;stop-opacity:1;" />
+      <stop
+         style="stop-color:#c8ffc8;stop-opacity:1;"
+         offset="0.69999999"
+         id="stop2259" />
+      <stop
+         style="stop-color:#69ff69;stop-opacity:1;"
+         offset="1"
+         id="stop2217" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2207"
+       id="linearGradient4242"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.789979,0,0,0.669564,-1.255164,-6.342344e-3)"
+       x1="49.450001"
+       y1="10.62265"
+       x2="14.049999"
+       y2="53.24765" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="12.125733"
+     inkscape:cx="26.952686"
+     inkscape:cy="22.360057"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1275"
+     inkscape:window-height="970"
+     inkscape:window-x="0"
+     inkscape:window-y="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Qemu Launcher</dc:title>
+        <dc:date>2006-06-11</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Linas Žvirblis</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <path
+       id="path6002"
+       d="M 25.606951,1.5010266 C 16.287966,1.6963034 8.5109489,9.7483529 7.2487183,18.74823 C 5.4935291,28.378724 10.992709,39.173299 20.495329,42.299741 C 23.7288,43.397062 27.278312,43.536572 30.587632,42.694608 C 31.783624,44.429738 32.979618,46.16487 34.17561,47.9 C 36.78791,47.884226 39.40021,47.868452 42.012509,47.852677 C 40.202784,45.218433 38.393059,42.58419 36.583333,39.949945 C 45.961859,33.602495 48.205676,19.553513 41.926883,10.293454 C 38.433758,4.8454106 32.138501,1.2319433 25.606951,1.5010266 z M 25.724978,6.5644536 C 30.689061,6.3496578 33.846525,11.285017 35.050867,15.518986 C 36.795876,21.712751 36.308957,28.835281 32.664884,34.271336 C 31.681336,32.835909 30.69779,31.400483 29.714244,29.965056 C 27.101942,29.988716 24.489641,30.012377 21.877341,30.036038 C 23.718541,32.709717 25.55974,35.383396 27.40094,38.057075 C 22.735419,38.921375 19.218148,34.504888 17.842693,30.564207 C 15.423163,23.708985 15.9157,15.372936 20.507385,9.5226906 C 21.825177,7.9744752 23.650681,6.7246654 25.724978,6.5644536 z "
+       style="opacity:1;color:#000000;fill:#3c3c3c;fill-opacity:0.39215686;fill-rule:evenodd;stroke:none;stroke-width:0.49792188;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.23529412;visibility:visible;display:inline;overflow:visible" />
+    <path
+       style="opacity:1;fill:url(#linearGradient4242);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 23.410408,0.55102558 C 14.091423,0.74630336 6.3144064,8.7983531 5.0521757,17.79823 C 3.2969867,27.428724 8.796166,38.223299 18.298787,41.349741 C 21.532257,42.447062 25.081768,42.586572 28.391088,41.744608 C 29.587082,43.479738 30.783074,45.21487 31.979067,46.95 C 34.591367,46.934226 37.203666,46.918453 39.815966,46.902677 C 38.006241,44.268434 36.196515,41.63419 34.38679,38.999945 C 43.765316,32.652495 46.009134,18.603514 39.730341,9.3434539 C 36.237214,3.8954106 29.941958,0.2819432 23.410408,0.55102558 z M 23.528435,5.6144526 C 28.492518,5.3996578 31.649981,10.335017 32.854325,14.568986 C 34.599334,20.762751 34.112414,27.885281 30.46834,33.321336 C 29.484794,31.885909 28.501246,30.450483 27.5177,29.015057 C 24.9054,29.038716 22.293099,29.062377 19.680798,29.086038 C 21.521998,31.759717 23.363197,34.433396 25.204397,37.107076 C 20.538875,37.971375 17.021605,33.554888 15.64615,29.614207 C 13.226619,22.758986 13.719158,14.422936 18.310842,8.5726907 C 19.628634,7.0244751 21.454137,5.7746653 23.528435,5.6144526 z "
+       id="path2283" />
+  </g>
+</svg>

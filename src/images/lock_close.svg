@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#010101; fill-opacity:0.4431"
+        d="M38 64H48C52 64 60 56 58 54C56 52 46 50 46 50L38 64z"
+  />
+  <path style="fill:none; stroke:#000000; stroke-width:4; stroke-linejoin:round"
+        d="M14 50C14 50 19 53 25 56C31 59 38 62 38 62L46 54V30C46 30 38.81 27.27 32 25C27.15 23.38 22 22 22 22L14 26V50z"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="11.12" y1="5.4" x2="45.96" y2="12.16">
+   <stop offset="0" stop-color="#fffbcc"/>
+   <stop offset="1" stop-color="#f3d048"/>
+   <stop offset="0.7572" stop-color="#d1af27"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M14 50C14 50 19 53 25 56C31 59 38 62 38 62V36C38 36 31 33.5 25 31C19 28.5 14 26 14 26V50z"
+  />
+  <linearGradient id="gradient1" gradientUnits="userSpaceOnUse" x1="42.83" y1="10.16" x2="58.71" y2="12.92">
+   <stop offset="0.1847" stop-color="#9e8707"/>
+   <stop offset="0" stop-color="#b59e04"/>
+   <stop offset="1" stop-color="#eec740"/>
+  </linearGradient>
+  <path style="fill:url(#gradient1)"
+        d="M38 62L46 54V30L38 36V62z"
+  />
+  <linearGradient id="gradient2" gradientUnits="userSpaceOnUse" x1="26.25" y1="15.75" x2="45.75" y2="15.75">
+   <stop offset="0.3695" stop-color="#f6e156"/>
+   <stop offset="0.5833" stop-color="#c9a514"/>
+   <stop offset="1" stop-color="#f7e35d"/>
+   <stop offset="0" stop-color="#c9a515"/>
+  </linearGradient>
+  <path style="fill:url(#gradient2)"
+        d="M24 28H36V33H42L46 30C46 30 34.88 25.96 32 25C30.97 24.65 29.92 24.32 28.91 24.01L26 24L24 28z"
+  />
+  <linearGradient id="gradient3" gradientUnits="userSpaceOnUse" x1="18" y1="-6" x2="46" y2="-6">
+   <stop offset="0" stop-color="#fff8ea"/>
+   <stop offset="1" stop-color="#f5de63"/>
+  </linearGradient>
+  <path style="fill:url(#gradient3)"
+        d="M14 26C14 26 19 28.5 25 31C31 33.5 38 36 38 36L42 33H36V28H24L26 24L28.91 24.01C25.19 22.85 22 22 22 22L14 26z"
+  />
+  <path style="fill:#625a02"
+        d="M25 38C22 37 23 41.43 25 42.43L23 49L27 51L29 54L21 50.25L23 44C21 43 20 36 25 38z"
+  />
+  <path style="fill:#272401"
+        d="M25 38C30 40 29 47 27 46L29 54L27 51L23 49L25 42.43C23 41.43 22 37 25 38z
+           M22 17V25C22 25.66 22.67 26 24 26C25.32 26 26 25.66 26 25V19C26 15 26 9 30 10C34 11 34 18 34 23V30C34 31 34.98 31.03 36 31C36.97 30.97 38 31 38 30V25C38 20 39 8 30 6C23.45 4.54 22 12 22 17z"
+  />
+  <path style="fill:none; stroke:#000000; stroke-width:4; stroke-linecap:round"
+        d="M22 17V25C22 25.66 22.67 26 24 26C25.32 26 26 25.66 26 25V19C26 15 26 9 30 10C34 11 34 18 34 23V30C34 31 34.98 31.03 36 31C36.97 30.97 38 31 38 30V25C38 20 39 8 30 6C23.45 4.54 22 12 22 17z"
+  />
+  <radialGradient id="gradient4" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64" gradientTransform="matrix(0.2161,-0.0247,0.0534,0.4665,30.2118,22.626)">
+   <stop offset="0.2971" stop-color="#bebebe"/>
+   <stop offset="0.6014" stop-color="#ffffff"/>
+   <stop offset="0.3949" stop-color="#767676"/>
+  </radialGradient>
+  <path style="fill:url(#gradient4)"
+        d="M22 17V25C22 25.66 22.67 26 24 26C25.32 26 26 25.66 26 25V19C26 15 26 9 30 10C34 11 34 18 34 23V30C34 31 34.98 31.03 36 31C36.97 30.97 38 31 38 30V25C38 20 39 8 30 6C23.45 4.54 22 12 22 17z"
+  />
+ </g>
+</svg>

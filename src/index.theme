@@ -1,0 +1,12 @@
+[Icon Theme]
+Name=Retrosmart Icon Theme
+Comment=There is only one
+Inherits=gnome
+Directories=scalable
+
+[scalable]
+Size=48
+Context=Applications
+Type=Scalable
+MinSize=0
+MaxSize=2048

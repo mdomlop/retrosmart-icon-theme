@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 9.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20000303 Stylable//EN"   "http://www.w3.org/TR/2000/03/WD-SVG-20000303/DTD/svg-20000303-stylable.dtd" [
+	<!ENTITY st0 "fill-rule:evenodd;clip-rule:evenodd;fill:url(#aigrd1);stroke:none;">
+	<!ENTITY st1 "opacity:0.36;">
+	<!ENTITY st2 "fill:#FFFFFF;stroke:none;">
+	<!ENTITY st3 "opacity:0.36;fill:#FFFFFF;stroke:none;">
+	<!ENTITY st4 "fill:url(#aigrd2);stroke:none;">
+	<!ENTITY st5 "fill:none;stroke:none;">
+	<!ENTITY st6 "fill:#000000;">
+	<!ENTITY st7 "fill-rule:nonzero;clip-rule:nonzero;stroke:#000000;stroke-miterlimit:4;">
+	<!ENTITY st8 "stroke:none;">
+]>
+<svg  width="48pt" height="48pt" viewBox="0 0 48 48" xml:space="preserve">
+	<g id="Layer_x0020_1" style="&st7;">
+		<path style="&st8;" d="M6.4,24.3c0,10,8.1,18.1,18.1,18.1c10,0,18.1-8.1,18.1-18.1c0-10-8.1-18.1-18.1-18.1c-10,0-18.1,8.1-18.1,18.1z"/>
+		<radialGradient id="aigrd1" cx="18.9292" cy="17.7773" r="22.4782" fx="18.9292" fy="17.7773" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#FED182"/>
+			<stop  offset="0.2809" style="stop-color:#FFB310"/>
+			<stop  offset="1" style="stop-color:#996E04"/>
+		</radialGradient>
+		<path style="&st0;" d="M39.5,24.3c0,8.5-6.9,15.4-15.4,15.4c-8.5,0-15.4-6.9-15.4-15.4c0-8.5,6.9-15.4,15.4-15.4c8.5,0,15.4,6.9,15.4,15.4z"/>
+		<path style="&st3;" d="M31.9,32.9c0,2.8-3.4,5-7.5,5c-4.1,0-7.5-2.2-7.5-5c0-2.8,3.4-5,7.5-5c4.1,0,7.5,2.2,7.5,5z"/>
+		<radialGradient id="aigrd2" cx="25.0527" cy="39.5928" r="15.7572" fx="25.0527" fy="39.5928" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#595959"/>
+			<stop  offset="1" style="stop-color:#000000"/>
+		</radialGradient>
+		<path style="&st4;" d="M31.9,32.1c0,2.8-3.4,5-7.5,5c-4.1,0-7.5-2.2-7.5-5c0-2.8,3.4-5,7.5-5c4.1,0,7.5,2.2,7.5,5z"/>
+		<g style="&st2;">
+			<path style="&st1;" d="M21.1,19c0,2-0.9,3.6-2,3.6S17,21,17,19s0.9-3.6,2-3.6s2,1.6,2,3.6z"/>
+			<path style="&st1;" d="M30.8,19c0,2-0.9,3.6-2,3.6s-2-1.6-2-3.6s0.9-3.6,2-3.6s2,1.6,2,3.6z"/>
+			<path style="&st6;" d="M21.1,18.5c0,2-0.9,3.6-2,3.6s-2-1.6-2-3.6s0.9-3.6,2-3.6s2,1.6,2,3.6z"/>
+			<path style="&st6;" d="M30.8,18.5c0,2-0.9,3.6-2,3.6s-2-1.6-2-3.6s0.9-3.6,2-3.6s2,1.6,2,3.6z"/>
+		</g>
+	</g>
+	<g id="Layer_x0020_2" style="&st7;">
+		<path style="&st5;" d="M48,48H0V0h48v48z"/>
+	</g>
+</svg>
