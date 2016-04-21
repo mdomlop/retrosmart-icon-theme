@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#010101; fill-opacity:0.4549"
+        d="M39 64C39 64 44 53 52 51C60 49 64 49 64 49L44 40L35 62L39 64z"
+  />
+  <path style="fill:none; stroke:#010101; stroke-width:4"
+        d="M34 62C34 62 40.43 56.35 42 54C46 48 52.97 31.77 57.52 21.77C59.61 17.17 62 14 62 14L28 6C28 6 21.34 22.13 14 34C8.67 42.59 2 48 2 48L34 62z"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="-67.48" y1="18.77" x2="-50.02" y2="-27.07">
+   <stop offset="0" stop-color="#f6d177"/>
+   <stop offset="0.1654" stop-color="#ffdc89"/>
+   <stop offset="1" stop-color="#e3b043"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M34 62C34 62 40.43 56.35 42 54C46 48 52.97 31.77 57.52 21.77C59.61 17.17 62 14 62 14L28 6C28 6 21.34 22.13 14 34C8.67 42.59 2 48 2 48L34 62z"
+  />
+  <linearGradient id="gradient1" gradientUnits="userSpaceOnUse" x1="-60.94" y1="8.38" x2="-54.7" y2="-13.23">
+   <stop offset="0" stop-color="#c57930"/>
+   <stop offset="1" stop-color="#ae5d0e"/>
+  </linearGradient>
+  <path style="fill:url(#gradient1)"
+        d="M35 11C35 11 31 9 29 10C27 11 26 21 25 23C24 25 19 31 19 31C19 31 25 25 26 23C27 21 29 13 30 12C31 11 35 11 35 11z
+           M49 15C49 15 55.49 16.06 56 18C56.5 19.93 48.81 26.97 48 29C47.18 31.02 44 41 44 41C44 41 46.18 30.02 47 28C47.81 25.97 52.89 19.31 53 18C53.1 16.68 49 15 49 15z
+           M12 45C12 45 7 44 7 46C7 48 21 52 21 52C21 52 30 58 33 58C37 58 35 53 35 53C35 53 35 56 32 56C29 56 21 52 21 52C21 52 13 49 11 47C9 45 12 45 12 45z"
+  />
+  <path style="fill:none; stroke:#572c02; stroke-width:1.5; stroke-linecap:round"
+        d="M35 17L44 20
+           M28 24L44 30
+           M22 34L40 41
+           M15 41L37 50"
+  />
+  <path style="fill:none; stroke:#572c02; stroke-width:1; stroke-linecap:round"
+        d="M30 28L38 31
+           M24 38L34 42
+           M20 46L28 50"
+  />
+  <path style="fill:#d70505"
+        d="M39 15L43.25 16.12C43.25 16.12 48 15 47 13C46 11 43 14.62 43 14.62V11L41 14C41 14 40.78 10.1 39 11C37 12 39 15 39 15z"
+  />
+ </g>
+</svg>
