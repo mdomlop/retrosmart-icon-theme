@@ -2,7 +2,6 @@ abiword.svg abiword_48.svg
 accessories-character-map.svg gnome-character-map.svg gucharmap.svg kcharselect.svg
 accessories-dictionary.svg fantasdic.svg
 accessories.svg accesorios.svg
-accessories-text-editor.svg kedit.svg xfce-edit.svg
 address-book-new.svg stock_new-address-book.svg
 app_bikeshed.svg docker.svg systray.svg
 applets-screenshooter.svg screenshot.svg
@@ -213,7 +212,6 @@ input-mouse.svg gnome-dev-mouse-ball.svg gnome-dev-mouse-optical.svg gnome-dev-m
 internet-mail.svg email.svg redhat-email.svg xfce-mail.svg
 internet-web-browser.svg browser.svg redhat-web-browser.svg
 joystick2.svg amusements.svg
-leafpad.svg gpe-edit.svg mousepad.svg
 list-add.svg add.svg gtk-add.svg
 list-remove.svg gtk-remove.svg remove.svg
 lock_close.svg gdu-encrypted-lock.svg password.svg
@@ -340,7 +338,7 @@ teapot.svg emblem-default.svg rox-xattr.svg
 telegram_logo.svg telegram.svg
 tetera_amarilla.svg geany.svg
 tetera.svg emblem-generic.svg teapot.svg
-text-editor.svg gedit-icon.svg
+text-editor.svg gedit-icon.svg accessories-text-editor.svg kedit.svg xfce-edit.svg leafpad.svg gpe-edit.svg mousepad.svg
 text-html.svg application-vnd.oasis.opendocument.text-web.svg application-x-php.svg html.svg mime-text-html.svg text-vnd.wap.wml.svg www.svg
 text_mode.svg consoleonly.svg modo_texto.svg
 text-x-chdr.svg text-x-c-header.svg
