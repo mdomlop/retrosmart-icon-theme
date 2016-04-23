@@ -5,6 +5,7 @@ accessories.svg accesorios.svg
 address-book-new.svg stock_new-address-book.svg
 app_bikeshed.svg docker.svg systray.svg
 applets-screenshooter.svg screenshot.svg
+desktop-config.svg gnome-desktop-config.svg
 application-7zip.svg application-x-7z-compressed.svg
 application-certificate.svg stock_certificate.svg
 application-exit.svg exit.svg gtk-quit.svg xfce-system-exit.svg
@@ -40,14 +41,14 @@ application-x-sharedlib.svg application-x-shared-library.svg
 application-x-shellscript.svg text-x-csh.svg
 application-zip.svg application-x-zip.svg
 app_midiplayer.svg milkytracker.svg tracker.svg
-appointment-missed.svg stock_appointment-reminder-excl.svg
-appointment-new.svg appointment.svg stock_new-appointment.svg
-appointment-soon.svg stock_appointment-reminder.svg
+appointment-missed.svg stock_appointment-reminder-excl.svg appointment-missed-symbolic.svg
+appointment-new.svg appointment.svg stock_new-appointment.svg appointment-new-symbolic.svg
+appointment-soon.svg stock_appointment-reminder.svg appointment-soon-symbolic.svg
 audio-card.svg yast_soundcard.svg
 audio-input-microphone.svg gnome-stock-mic.svg stock_mic.svg
 audio-midi.svg audio-x-midi.svg
-audio-mpeg.svg audio-x-mp3.svg
-audio-volume-high.svg audio-volume-high-symbolic.svg stock_volume-max.svg stock_volume.svg xfce4-mixer-volume-high.svg xfce4-mixer-volume-very-high.svg
+audio-x-mp3.svg gnome-mime-audio-x-mp3.svg audio-mpeg.svg
+audio-volume-high.svg audio-volume-high-symbolic.svg stock_volume-max.svg stock_volume.svg xfce4-mixer-volume-high.svg xfce4-mixer-volume-very-high.svg stock-volume.svg
 audio-volume-low.svg audio-volume-low-symbolic.svg stock_volume-0.svg stock_volume-min.svg xfce4-mixer-volume-low.svg xfce4-mixer-volume-ultra-low.svg
 audio-volume-medium.svg audio-volume-medium-symbolic.svg stock_volume-med.svg xfce4-mixer-volume-low-medium.svg xfce4-mixer-volume-medium.svg
 audio-volume-muted.svg audio-volume-muted-symbolic.svg stock_volume-mute.svg xfce4-mixer-muted.svg xfce4-mixer-volume-muted.svg
@@ -73,9 +74,11 @@ battery-low.svg xfpm-primary-low.svg battery-low-symbolic.svg
 battery-low-charging.svg battery-low-charging-symbolic.svg
 battery-missing.svg xfpm-primary-missing.svg battery-missing-symbolic.svg
 battery.svg gnome-dev-battery.svg
+app-launcher.svg gnome-panel-launcher.svg
+dock.svg avant-window-navigator.svg awn-manager.svg
 bluetooth.svg bluetooth-active.svg bluetooth-active-symbolic.svg bluetooth-applet.svg
 bluetooth-disabled.svg bluetooth-disabled-symbolic.svg
-bomba.svg emblem-bomb.svg gnome-gnomine.svg gnomine.svg inode-core.svg window-destroy.svg
+bomba.svg emblem-bomb.svg gnome-gnomine.svg gnomine.svg inode-core.svg window-destroy.svg gnome-mines.svg
 bookmark-new.svg bookmark_add.svg bookmarks_list_add.svg stock_add-bookmark.svg stock_help-add-bookmark.svg
 caja_gris.svg classviewer-var.svg openbox.svg
 cajon.svg system-file-manager.svg thunar.svg Thunar.svg
@@ -94,8 +97,9 @@ contact-new.svg stock_new-bcard.svg
 convert.svg giver.svg gtk-convert.svg
 cpu-frequency.svg gnome-cpu-frequency-applet.svg
 cpu.svg gnome-cpu.svg
+dev-autorun.svg cd-autorun.svg autorun.svg
 daemon-music.svg gmpc.svg
-desktop.svg emblem-desktop.svg escritorio.svg perlpanel-applet-showdesktop.svg
+desktop.svg emblem-desktop.svg escritorio.svg perlpanel-applet-showdesktop.svg user-desktop.svg gnome-fs-desktop.svg gnome-ccdesktop.svg
 dialog-apply.svg dialog-ok.svg dialog-yes.svg rox-mounted.svg
 dialog-error.svg dialog_error.svg dialog-error-symbolic.svg error.svg gtk-dialog-error.svg messagebox_critical.svg stock_dialog-error.svg
 dialog-information.svg dialog_information.svg dialog-information-symbolic.svg dialog_info.svg gtk-dialog-info.svg messagebox_info.svg stock_dialog-info.svg
@@ -106,7 +110,10 @@ diana.svg window-center.svg
 disco_duro_hacker.svg gnome-fs-blockdev.svg gnome-fs-filesystem.svg inode-blockdevice.svg
 disco_duro-limpio.svg bleachbit.svg
 disco_duro.svg drive-harddisk.svg gnome-dev-harddisk.svg
-disk-floppy.svg document-save.svg
+floppy-black.svg floppy.svg disk-floppy.svg document-save.svg
+floppy-blue.svg document-save-as.svg gtk-save-as.svg
+floppy-2.svg media-floppy.svg 3floppy_unmount.svg gtk-floppy.svg system-floppy.svg
+floppy-3.svg gnome-dev-floppy.svg
 document-new.svg filenew.svg gtk-new.svg new.svg stock_new-text.svg
 document-open.svg fileopen.svg gtk-open.svg
 document-page-setup.svg stock_print-setup.svg
@@ -149,7 +156,6 @@ faro.svg window-place_again.svg
 file-clock.svg ep-history.svg
 file-generic.svg dnd.svg gtk-file.svg
 file-manager.svg rox.svg
-floppy.svg document-save-as.svg gtk-save-as.svg
 fly.svg guest.svg
 folder-drag-accept.svg gnome-fs-directory-accept.svg
 folder-new.svg folder_new.svg stock_new-dir.svg
@@ -161,6 +167,7 @@ folder-visiting.svg gnome-fs-directory-visiting.svg
 fonts-capplet.svg font-capplet.svg fonts.svg
 font-settings.svg gnome-settings-font.svg
 font-x-generic.svg application-x-font-bdf.svg application-x-font-sunos-news.svg font_bitmap.svg font.svg font_truetype.svg font_type1.svg x-font-afm.svg
+application-x-font.svg application-x-font-afm.svg application-x-font-linux-psf.svg application-x-font-pcf.svg application-x-font-psf.svg application-x-font-speedo.svg
 format-indent-less.svg gnome-stock-text-unindent.svg gtk-indent-rtl.svg gtk-unindent-ltr.svg stock_text_unindent.svg
 format-indent-more.svg gnome-stock-text-indent.svg gtk-indent-ltr.svg gtk-unindent-rtl.svg stock_text_indent.svg
 format-justify-center.svg centrejust.svg gtk-justify-center.svg stock_text_center.svg
@@ -232,7 +239,6 @@ mail.svg claws-mail.svg xfce-newmail.svg
 mail-unread.svg stock_mail-unread.svg
 media-eject.svg eject.svg player_eject.svg stock-media-eject.svg
 media-flash.svg gnome-dev-media-cf.svg gnome-dev-media-sdmmc.svg gnome-dev-media-sm.svg
-media-floppy.svg 3floppy_unmount.svg gtk-floppy.svg system-floppy.svg
 media-optical.svg cdrom_unmount.svg cdwriter_unmount.svg dvd_unmount.svg gnome-dev-disc-cdr.svg gnome-dev-disc-cdrw.svg gnome-dev-disc-dvdram.svg gnome-dev-disc-dvdrom.svg gnome-dev-disc-dvdr-plus.svg gnome-dev-disc-dvdr.svg gnome-dev-disc-dvdrw.svg gtk-cdrom.svg
 media-playback-pause.svg gtk-media-pause.svg player_pause.svg stock_media-pause.svg stock-media-pause.svg
 media-playback-start.svg gtk-media-play-ltr.svg player_play.svg stock_media-play.svg stock-media-play.svg
@@ -328,8 +334,11 @@ system-reboot.svg reboot-cpu.svg
 system-run.svg gnome-run.svg grun.svg gtk-execute.svg
 system-search.svg kfind.svg system-search-32.svg
 system-shutdown.svg gnome-shutdown.svg
-system-software-install.svg system-installer.svg
-system-software-update.svg update-manager.svg zen-icon.svg
+system-software-install.svg system-installer.svg gnome-codec-install.svg
+text-x-install.svg gnome-mime-text-x-install.svg
+system-software-update.svg update-manager.svg zen-icon.svg icon-update.svg
+software-update-urgent.svg software-update-urgent-symbolic.svg
+software-update-available.svg software-update-available-symbolic.svg
 system-suspend.svg gnome-inhibit-applet.svg xfpm-suspend.svg
 system-users.svg config-users.svg kuser.svg redhat-config-users.svg system-config-users.svg
 tag-editor.svg easytag.svg tagtool.svg
@@ -339,7 +348,7 @@ telegram_logo.svg telegram.svg
 tetera_amarilla.svg geany.svg
 tetera.svg emblem-generic.svg teapot.svg
 text-editor.svg gedit-icon.svg accessories-text-editor.svg kedit.svg xfce-edit.svg leafpad.svg gpe-edit.svg mousepad.svg
-text-html.svg application-vnd.oasis.opendocument.text-web.svg application-x-php.svg html.svg mime-text-html.svg text-vnd.wap.wml.svg www.svg
+text-html.svg application-vnd.oasis.opendocument.text-web.svg application-x-php.svg html.svg mime-text-html.svg text-vnd.wap.wml.svg www.svg gnome-mime-text-html.svg
 text_mode.svg consoleonly.svg modo_texto.svg
 text-x-chdr.svg text-x-c-header.svg
 text-x-c++.svg text-x-c++src.svg
@@ -353,7 +362,6 @@ tools-check-spelling.svg gtk-spell-check.svg stock_spellcheck.svg
 tools.svg gtk-preferences.svg herramientas.svg icon-system-tools.svg preferences.svg
 tv.svg me-tv.svg
 user-bookmarks.svg accessories-dictionary.svg
-user-desktop.svg gnome-fs-desktop.svg
 user-home.svg folder_home.svg gnome-fs-home.svg
 user-trash-full.svg gnome-fs-trash-full.svg gnome-stock-trash-full.svg stock_trash_full.svg trashcan_full.svg xfce-trash_full.svg
 user-trash.svg edittrash.svg emptytrash.svg gnome-fs-trash-empty.svg gnome-stock-trash.svg trashcan_empty.svg trash.svg xfce-trash_empty.svg
