@@ -13,7 +13,7 @@
    height="64"
    color-interpolation="linearRGB"
    id="svg2"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="nm-device-wireless.svg">
   <metadata
      id="metadata68">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -215,26 +215,6 @@
        y1="7.25"
        x2="57.8"
        y2="35.03" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3893"
-       id="linearGradient3899"
-       x1="-50.878685"
-       y1="6.688077"
-       x2="-69.488129"
-       y2="4.983954"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.051041,0,0,0.37358491,93.18473,10.888968)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3893"
-       id="linearGradient3903"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-1.051041,0,0,0.37358491,-17.819392,10.888968)"
-       x1="-67.959946"
-       y1="5.6656027"
-       x2="-75.666458"
-       y2="5.6656032" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -245,18 +225,18 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1690"
-     inkscape:window-height="952"
+     inkscape:window-width="1918"
+     inkscape:window-height="1020"
      id="namedview64"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="7.8537962"
-     inkscape:cx="-8.0339"
-     inkscape:cy="53.771044"
-     inkscape:window-x="58"
-     inkscape:window-y="105"
-     inkscape:window-maximized="0"
+     inkscape:zoom="5.8903472"
+     inkscape:cx="96.131315"
+     inkscape:cy="68.79537"
+     inkscape:window-x="2"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <sodipodi:guide
        orientation="0,1"
@@ -331,15 +311,9 @@
      d="m 42.250379,46.110425 7.304615,1.2e-4 0,-4.18206 -7.304615,6e-5 c -1.314638,0 -1.365839,4.18188 0,4.18188 z"
      style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   <path
-     style="fill:url(#linearGradient3899);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 12.22274,2.4482134 0,18.6053696 28.919858,-4.499684 0,-6.442994 z"
-     id="path3891"
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.526196px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 5.2628479,11.100711 9.4434821,0 c 2.441116,0 -0.04096,-4.7262433 2.305139,-4.5806126 2.3461,0.1456312 -0.25341,8.5447326 3.012304,8.4552006 3.265715,-0.08953 -0.86153,-10.2799996 3.012305,-10.1899639 3.873836,0.090035 -1.795301,12.3892919 3.012304,12.2587259 4.807604,-0.130566 -2.403953,-15.9519187 3.012305,-15.950918 5.416257,9.964e-4 -1.805858,15.853035 3.012304,15.983305 4.818163,0.130276 -0.866745,-12.1997708 3.012304,-12.2911129 3.879048,-0.091341 -0.25341,10.1004329 3.012305,10.1899639 3.265714,0.08953 0.630444,-8.1975769 3.012305,-8.4552006 2.381861,-0.2576237 0.143477,4.5806126 2.85735,4.5806126 l 10.719147,0"
+     id="path7517"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     sodipodi:nodetypes="ccccc"
-     inkscape:connector-curvature="0"
-     id="path3901"
-     d="m 63.142598,2.4482134 0,18.6053696 -8.919858,-4.499684 0,-6.442994 z"
-     style="fill:url(#linearGradient3903);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+     sodipodi:nodetypes="cszzzzzzzzzsc" />
 </svg>

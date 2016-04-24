@@ -5,7 +5,10 @@ accessories.svg accesorios.svg
 address-book-new.svg stock_new-address-book.svg
 app_bikeshed.svg docker.svg systray.svg
 applets-screenshooter.svg screenshot.svg
+display-brightness.svg display-brightness-symbolic.svg xfpm-brightness-lcd.svg
+chat.svg internet-group-chat.svg xchat.svg
 desktop-config.svg gnome-desktop-config.svg
+keyboard-brightness.svg keyboard-brightness-symbolic.svg
 application-7zip.svg application-x-7z-compressed.svg
 application-certificate.svg stock_certificate.svg
 application-exit.svg exit.svg gtk-quit.svg xfce-system-exit.svg
@@ -39,7 +42,26 @@ application-xml.svg text-xml.svg
 application-x-object.svg application-x-objectfile.svg
 application-x-sharedlib.svg application-x-shared-library.svg
 application-x-shellscript.svg text-x-csh.svg
-application-zip.svg application-x-zip.svg
+application-zip.svg application-x-zip.svg gnome-mime-application-zip.svg
+application-x-bzip-compressed-tar.svg gnome-mime-application-x-bzip-compressed-tar.svg
+application-x-bzip.svg gnome-mime-application-x-bzip.svg
+application-x-compressed-tar.svg gnome-mime-application-x-compressed-tar.svg
+application-x-compress.svg gnome-mime-application-x-compress.svg
+application-x-deb.svg gnome-mime-application-x-deb.svg
+application-x-gzip.svg gnome-mime-application-x-gzip.svg
+application-x-rar.svg gnome-mime-application-x-rar.svg
+application-x-rpm.svg gnome-mime-application-x-rpm.svg
+audio-x-aiff.svg gnome-mime-audio-x-aiff.svg
+audio-x-wav.svg gnome-mime-audio-x-wav.svg
+image-bmp.svg gnome-mime-image-bmp.svg
+image-gif.svg gnome-mime-image-gif.svg
+image-jpeg.svg gnome-mime-image-jpeg.svg
+image-png.svg gnome-mime-image-png.svg
+image.svg gnome-mime-image.svg emblem-photos.svg emblem-pictures.svg image-x-generic.svg
+video-mpeg.svg gnome-mime-video-mpeg.svg
+video-quicktime.svg gnome-mime-video-quicktime.svg
+video-x-ms-asf.svg gnome-mime-video-x-ms-asf.svg
+video-x-msvideo.svg gnome-mime-video-x-msvideo.svg
 app_midiplayer.svg milkytracker.svg tracker.svg
 appointment-missed.svg stock_appointment-reminder-excl.svg appointment-missed-symbolic.svg
 appointment-new.svg appointment.svg stock_new-appointment.svg appointment-new-symbolic.svg
@@ -207,10 +229,9 @@ help-contents.svg gtk-help.svg stock_help.svg
 home.svg go-home.svg gohome.svg
 content-loading.svg content-loading-symbolic.svg image-loading.svg gnome-fs-loading-icon.svg
 image-missing.svg brokenimage.svg gtk-missing-image.svg
-image.svg emblem-photos.svg emblem-pictures.svg image-x-generic.svg
 image-xcf.svg image-x-xcf.svg
 image-x-generic.svg imagen.svg
-im.svg chat.svg comunicacion.svg pidgin.svg
+im.svg comunicacion.svg pidgin.svg
 information.svg info.svg window-identify.svg
 info.svg metadata.svg
 input-gaming.svg gnome-joystick.svg joystick.svg
@@ -221,30 +242,30 @@ internet-web-browser.svg browser.svg redhat-web-browser.svg
 joystick2.svg amusements.svg
 list-add.svg add.svg gtk-add.svg
 list-remove.svg gtk-remove.svg remove.svg
-lock_close.svg gdu-encrypted-lock.svg password.svg
-lock_open.svg gdu-encrypted-unlock.svg
+lock_close.svg gdu-encrypted-lock.svg password.svg changes-prevent.svg changes-prevent-symbolic.svg channel-secure.svg channel-secure-symbolic.svg
+lock_open.svg gdu-encrypted-unlock.svg changes-allow.svg changes-allow-symbolic.svg
 lupa.svg find.svg viewer.svg view.svg zoom.svg
 magnet.svg uget-icon.svg
-mail-attachment.svg stock_attach.svg
+mail-attachment.svg stock_attach.svg mail-attachment-symbolic.svg
 mail-forward.svg gnome-stock-mail-fwd.svg mail_forward.svg stock_mail-forward.svg
 mail-mark-junk.svg mail_spam.svg
 mail-message-new.svg gnome-stock-mail-new.svg mail_new.svg stock_mail-compose.svg
-mail-read.svg internet-mail.svg mail_generic.svg stock_mail-open.svg
-mail-replied.svg stock_mail-replied.svg
+mail-read.svg mail-read-symbolic.svg internet-mail.svg mail_generic.svg stock_mail-open.svg
+mail-replied.svg mail-replied-symbolic.svg stock_mail-replied.svg
 mail-reply-all.svg mail_replyall.svg stock_mail-reply-to-all.svg
 mail-reply-sender.svg gnome-stock-mail-rpl.svg mail_reply.svg stock_mail-reply.svg
 mail-send-receive.svg stock_mail-send-receive.svg
 mail-send.svg gnome-stock-mail-snd.svg mail_send.svg stock_mail-send.svg
 mail.svg claws-mail.svg xfce-newmail.svg
-mail-unread.svg stock_mail-unread.svg
+mail-unread.svg stock_mail-unread.svg mail-unread-symbolic.svg
 media-eject.svg eject.svg player_eject.svg stock-media-eject.svg
 media-flash.svg gnome-dev-media-cf.svg gnome-dev-media-sdmmc.svg gnome-dev-media-sm.svg
 media-optical.svg cdrom_unmount.svg cdwriter_unmount.svg dvd_unmount.svg gnome-dev-disc-cdr.svg gnome-dev-disc-cdrw.svg gnome-dev-disc-dvdram.svg gnome-dev-disc-dvdrom.svg gnome-dev-disc-dvdr-plus.svg gnome-dev-disc-dvdr.svg gnome-dev-disc-dvdrw.svg gtk-cdrom.svg
 media-playback-pause.svg gtk-media-pause.svg player_pause.svg stock_media-pause.svg stock-media-pause.svg
 media-playback-start.svg gtk-media-play-ltr.svg player_play.svg stock_media-play.svg stock-media-play.svg
 media-playback-stop.svg gtk-media-stop.svg player_stop.svg stock_media-stop.svg stock-media-stop.svg
-media-playlist-repeat.svg stock_repeat.svg
-media-playlist-shuffle.svg stock_shuffle.svg
+media-playlist-repeat.svg stock_repeat.svg media-playlist-repeat-symbolic.svg
+media-playlist-shuffle.svg stock_shuffle.svg media-playlist-shuffle-symbolic.svg
 media-record.svg gtk-media-record.svg player_record.svg stock_media-rec.svg
 media-seek-backward.svg gtk-media-forward-rtl.svg gtk-media-rewind-ltr.svg player_rew.svg stock-media-rewind.svg stock_media-rew.svg
 media-seek-forward.svg gtk-media-forward-ltr.svg gtk-media-rewind-rtl.svg player_fwd.svg stock-media-ffwd.svg stock_media-fwd.svg
@@ -262,15 +283,15 @@ multimedia-player.svg gnome-dev-ipod.svg ipod_mount.svg
 multimedia-volume-control.svg arts.svg gnome-alsamixer.svg gnome-mixer.svg gnome-volume-control.svg kcmsound.svg pavucontrol.svg volume-knob.svg volume.svg xfce4-mixer.svg
 music-player.svg audacious.svg
 naipes.svg gnome-games.svg sol.svg
-network-error.svg gnome-netstatus-error.svg
-network-idle.svg connect_established.svg gnome-netstatus-idle.svg
-network-offline.svg connect_no.svg gnome-netstatus-disconn.svg
-network-receive.svg gnome-netstatus-rx.svg
+network-error.svg gnome-netstatus-error.svg network-error-symbolic.svg
+network-idle.svg connect_established.svg gnome-netstatus-idle.svg network-idle-symbolic.svg
+network-offline.svg connect_no.svg gnome-netstatus-disconn.svg network-offline-symbolic.svg
+network-receive.svg gnome-netstatus-rx.svg network-receive-symbolic.svg
 network-server.svg gnome-fs-server.svg gnome-mime-x-directory-nfs-server.svg gnome-mime-x-directory-smb-server.svg redhat-network-server.svg server.svg
-network-transmit-receive.svg connect_creating.svg gnome-netstatus-txrx.svg
-network-transmit.svg gnome-netstatus-tx.svg
+network-transmit-receive.svg connect_creating.svg gnome-netstatus-txrx.svg network-transmit-receive-symbolic.svg
+network-transmit.svg gnome-netstatus-tx.svg network-transmit-symbolic.svg
 network-wired.svg gnome-dev-ethernet.svg
-network-wireless.svg gnome-dev-wavelan.svg nm-adhoc.svg nm-device-wwan.svg
+network-wireless.svg gnome-dev-wavelan.svg nm-device-wwan.svg
 network-workgroup.svg gnome-fs-network.svg gnome-mime-x-directory-smb-workgroup.svg gtk-network.svg network_local.svg
 neurokernel-logo.svg fly-red.svg
 news.svg internet-news-reader.svg
@@ -284,6 +305,7 @@ palomitas.svg gnome-mplayer.svg movie-player.svg totem.svg
 perllscript.svg application-x-perl.svg
 person.svg application-x-person.svg avatar-default.svg avatar-default-symbolic.svg stock_person.svg user.svg
 phone.svg stock_cell-phone.svg
+window-preferences.svg ccsm.svg
 pin-up.svg window-stick.svg
 pirate.svg xkill.svg
 playlist-editor.svg media-playlist.svg
@@ -304,18 +326,20 @@ preferences-system.svg package_settings.svg redhat-system_settings.svg xfce-syst
 preferences-system-windows.svg gnome-window-manager.svg kcmkwm.svg kwin.svg
 prefs_virtualmemory.svg inode-chardevice.svg
 printer.svg gnome-dev-printer.svg kjobviewer.svg printer1.svg printer-remote.svg printmgr.svg print.svg stock_printers.svg xfce-printer.svg yast_printer.svg
+printer-printing.svg printer-printing-symbolic.svg
+printer-error.svg printer-error-symbolic.svg
 process-stop.svg gtk-cancel.svg gtk-stop.svg stock_stop.svg
 procman.svg lxtask.svg xosview.svg
 pulseaudio.svg padevchooser.svg
 red.svg redes.svg
-restar.svg list_remove.svg list-remove.svg
+minus.svg restar.svg list_remove.svg list-remove.svg
 rhythmbox.svg exaile.svg
 salida.svg application-exit.svg logout.svg
 scanner.svg gnome-dev-scanner.svg sane.svg xsane.svg
 script.svg text-x-script.svg text-x-sh.svg
-security-high.svg stock_lock-ok.svg
-security-low.svg stock_lock-broken.svg stock_lock-open.svg
-security-medium.svg stock_lock.svg
+security-high.svg stock_lock-ok.svg security-high-symbolic.svg
+security-low.svg stock_lock-broken.svg stock_lock-open.svg security-low-symbolic.svg
+security-medium.svg stock_lock.svg security-medium-symbolic.svg
 sensors.svg xfce-sensors.svg
 settings.svg ajustes.svg
 shellscript.svg application-x-shellscript.svg
@@ -324,8 +348,10 @@ socket.svg inode-socket.svg xfpm-ac-adapter.svg
 socket_white.svg socket.svg
 sound-recorder.svg audacity.svg gnome-sound-recorder.svg
 sound.svg audio.svg
+task-due.svg task-due-symbolic.svg
+task-past-due.svg task-past-due-symbolic.svg
 start-here.svg distributor-logo.svg gnome-main-menu.svg novell-button.svg
-sumar.svg list-add.svg
+plus.svg sumar.svg list-add.svg
 symlink.svg emblem-symbolic-link.svg rox-symlink.svg
 system-file-manager.svg file-manager.svg kfm.svg redhat-filemanager.svg xfce-filemanager.svg
 system-lock-screen.svg lock.svg xfce-system-lock.svg
@@ -363,7 +389,7 @@ tools.svg gtk-preferences.svg herramientas.svg icon-system-tools.svg preferences
 tv.svg me-tv.svg
 user-bookmarks.svg accessories-dictionary.svg
 user-home.svg folder_home.svg gnome-fs-home.svg
-user-trash-full.svg gnome-fs-trash-full.svg gnome-stock-trash-full.svg stock_trash_full.svg trashcan_full.svg xfce-trash_full.svg
+user-trash-full.svg gnome-fs-trash-full.svg gnome-stock-trash-full.svg stock_trash_full.svg trashcan_full.svg xfce-trash_full.svg user-trash-full-symbolic.svg
 user-trash.svg edittrash.svg emptytrash.svg gnome-fs-trash-empty.svg gnome-stock-trash.svg trashcan_empty.svg trash.svg xfce-trash_empty.svg
 utilities-system-monitor.svg gnome-monitor.svg gnome-system-monitor.svg ksysguard.svg xfce4-taskmanager.svg
 utilities-terminal.svg gnome-terminal.svg konsole.svg lxterminal.svg monitor.svg openterm.svg roxterm.svg sakura.svg terminal.svg Terminal.svg xfce-terminal.svg x-terminal-emulator.svg
@@ -382,7 +408,7 @@ weather-clear-night.svg stock_weather-night-clear.svg weather-clear-night-symbol
 weather-clear.svg stock_weather-sunny.svg sunny.svg weather-clear-symbolic.svg
 weather-few-clouds-night.svg stock_weather-night-few-clouds.svg weather-few-clouds-night-symbolic.svg
 weather-few-clouds.svg stock_weather-few-clouds.svg weather-few-clouds-symbolic.svg
-weather-fog.svg stock_weather-fog.svg
+weather-fog.svg stock_weather-fog.svg weather-fog-symbolic.svg
 weather-overcast.svg stock_weather-cloudy.svg weather-overcast-symbolic.svg
 weather-severe-alert.svg weather-severe-alert-symbolic.svg
 weather-showers-scattered.svg weather-showers-scattered-symbolic.svg
@@ -398,7 +424,7 @@ window-page.svg page.svg
 wizard.svg welcome_wizard.svg
 workspaces.svg gnome-panel-workspace-switcher.svg xfce4-workspaces.svg
 ximian-redhat-config-nfs.svg perlpanel-applets-actions.svg
-xlock.svg gnome-lockscreen.svg
+xlock.svg gnome-lockscreen.svg panel-lockscreen.svg
 x-office-address-book.svg contents2.svg stock_addressbook.svg
 x-office-calendar.svg gnome-mime-text-x-vcalendar.svg plan.svg stock_calendar.svg vcalendar.svg
 x-office-document.svg application-vnd.ms-word.document.macroEnabled.12.svg application-vnd.openxmlformats-officedocument.wordprocessingml.document.svg application-wordperfect.svg application-x-applix-word.svg application-x-scribus.svg document.svg package_wordprocessing.svg wordprocessing.svg
