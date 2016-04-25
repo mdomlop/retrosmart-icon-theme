@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
@@ -13,12 +14,22 @@
    height="48"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.43+devel"
+   inkscape:version="0.91 r13725"
    version="1.0"
-   sodipodi:docbase="/home/lapo/Icone/gnome-panel/scalable"
    sodipodi:docname="gnome-panel-drawer.svg">
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient7581">
+      <stop
+         id="stop7583"
+         offset="0"
+         style="stop-color:#602a00;stop-opacity:1" />
+      <stop
+         id="stop7585"
+         offset="1"
+         style="stop-color:#904408;stop-opacity:1" />
+    </linearGradient>
     <linearGradient
        id="linearGradient3119">
       <stop
@@ -196,24 +207,6 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3030"
-       id="linearGradient3036"
-       x1="2.3864853"
-       y1="34.399788"
-       x2="0.51148534"
-       y2="15.856615"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3048"
-       id="linearGradient3054"
-       x1="11.375"
-       y1="17.493593"
-       x2="11.375"
-       y2="24.053179"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient3040"
        id="linearGradient3068"
        gradientUnits="userSpaceOnUse"
@@ -232,20 +225,9 @@
        r="7"
        gradientTransform="matrix(1.545571,0,-1.698759e-7,0.202484,-10.53632,24.58251)"
        gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3635"
-       id="radialGradient3633"
-       cx="18.972952"
-       cy="32.439533"
-       fx="18.972952"
-       fy="32.439533"
-       r="8"
-       gradientTransform="matrix(1.684665,0,-8.88777e-6,1.004299,-12.93154,-1.141463)"
-       gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3704"
+       xlink:href="#linearGradient7581"
        id="linearGradient3733"
        x1="42.875"
        y1="34.375"
@@ -602,19 +584,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="35.225881"
-     inkscape:cy="5.1677423"
+     inkscape:zoom="8.4852814"
+     inkscape:cx="-6.2850085"
+     inkscape:cy="11.215518"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     gridempspacing="2"
-     gridspacingx="0.5px"
-     gridspacingy="0.5px"
-     inkscape:window-width="1051"
-     inkscape:window-height="738"
-     inkscape:window-x="145"
-     inkscape:window-y="156"
+     inkscape:window-width="1918"
+     inkscape:window-height="1020"
+     inkscape:window-x="2"
+     inkscape:window-y="30"
      inkscape:showpageshadow="false"
      inkscape:grid-points="false"
      inkscape:grid-bbox="true"
@@ -622,7 +601,21 @@
      showborder="false"
      borderlayer="true"
      showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:guide-bbox="true"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       id="GridFromPre046Settings"
+       type="xygrid"
+       originx="0px"
+       originy="0px"
+       spacingx="0.5px"
+       spacingy="0.5px"
+       color="#3f3fff"
+       empcolor="#3f3fff"
+       opacity="0.15"
+       empopacity="0.38"
+       empspacing="2" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -675,7 +668,7 @@
        x="12"
        y="13" />
     <path
-       style="fill:none;fill-opacity:1.0;fill-rule:evenodd;stroke:url(#linearGradient3054);stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        d="M 4.5,22.5 L 11.5,12.5 L 36.5,12.5 L 43.5,22.5 L 4.5,22.5 z "
        id="path2085"
        sodipodi:nodetypes="ccccc" />
@@ -734,7 +727,7 @@
          style="opacity:1;fill:url(#linearGradient3138);fill-opacity:1;stroke:none;stroke-width:1.29999995;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.20000057;stroke-opacity:0" />
     </g>
     <rect
-       style="opacity:1;fill:url(#linearGradient3733);fill-opacity:1.0;stroke:url(#linearGradient3036);stroke-width:1;stroke-linecap:round;stroke-miterlimit:11;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:url(#linearGradient3733);fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:11;stroke-dasharray:none;stroke-opacity:1"
        id="rect1862"
        width="43"
        height="17"
@@ -787,7 +780,7 @@
        rx="0"
        ry="0" />
     <path
-       style="fill:none;fill-opacity:1;stroke:url(#radialGradient3633);stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 30.5,29.46875 C 30.5,30.594062 29.094062,31.5 27.96875,31.5 L 19.53125,31.5 C 18.405938,31.5 17.5,30.594062 17.5,29.46875"
        id="path3599"
        sodipodi:nodetypes="cccc" />
