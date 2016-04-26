@@ -4,6 +4,7 @@ accessories-dictionary.svg fantasdic.svg
 accessories.svg accesorios.svg
 address-book-new.svg stock_new-address-book.svg
 app_bikeshed.svg docker.svg systray.svg
+danger.svg emblem-danger.svg
 arrow-down-green.svg arrow-down.svg navigation_down.svg
 arrow-up-green.svg arrow-up.svg navigation_up.svg
 applets-screenshooter.svg screenshot.svg
@@ -294,6 +295,15 @@ network-server.svg gnome-fs-server.svg gnome-mime-x-directory-nfs-server.svg gno
 network-transmit-receive.svg connect_creating.svg gnome-netstatus-txrx.svg network-transmit-receive-symbolic.svg
 network-transmit.svg gnome-netstatus-tx.svg network-transmit-symbolic.svg
 network-wired.svg gnome-dev-ethernet.svg
+user-offline.svg user-offline-symbolic.svg gaim_offline.svg
+user-away.svg user-away-symbolic.svg
+user-status-pending.svg user-status-pending-symbolic.svg
+user-invisible.svg user-invisible-symbolic.svg
+user-idle.svg user-idle-symbolic.svg
+user-busy.svg user-busy-symbolic.svg
+user-online.svg user-online-symbolic.svg gaim_online.svg user-available.svg user-available-symbolic.svg
+network-wired-offline.svg network-wired-offline-symbolic.svg
+network-wireless-offline.svg network-wireless-offline-symbolic.svg
 network-wireless.svg gnome-dev-wavelan.svg nm-device-wwan.svg
 network-workgroup.svg gnome-fs-network.svg gnome-mime-x-directory-smb-workgroup.svg gtk-network.svg network_local.svg
 neurokernel-logo.svg fly-red.svg
