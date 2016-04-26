@@ -11,6 +11,7 @@ display-brightness.svg display-brightness-symbolic.svg xfpm-brightness-lcd.svg
 chat.svg internet-group-chat.svg xchat.svg
 desktop-config.svg gnome-desktop-config.svg
 keyboard-brightness.svg keyboard-brightness-symbolic.svg
+audio-x-flac.svg audio-flac.svg
 application-7zip.svg application-x-7z-compressed.svg
 application-certificate.svg stock_certificate.svg
 application-exit.svg exit.svg gtk-quit.svg xfce-system-exit.svg
@@ -107,7 +108,9 @@ bomba.svg emblem-bomb.svg gnome-gnomine.svg gnomine.svg inode-core.svg window-de
 bookmark-new.svg bookmark_add.svg bookmarks_list_add.svg stock_add-bookmark.svg stock_help-add-bookmark.svg
 caja_gris.svg classviewer-var.svg openbox.svg
 calculadora.svg accessories-calculator.svg galculator.svg calc.svg calculator.svg gcalctool.svg gnome-calc3.svg gnome-calculator.svg kcalc.svg
-camera.svg video.svg
+camera-video.svg camera.svg video.svg
+camera-video-unmount.svg camera-unmount.svg camera_unmount.svg
+camera-photo.svg emblem-camera.svg
 camera-web.svg gnome-dev-camera.svg skype.svg vanity.svg
 checkmark.svg gtk-apply.svg gtk-ok.svg ok.svg
 check-pressed.svg checkbox-checked.svg checkbox-checked-symbolic.svg
