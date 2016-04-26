@@ -5,8 +5,6 @@ accessories.svg accesorios.svg
 address-book-new.svg stock_new-address-book.svg
 app_bikeshed.svg docker.svg systray.svg
 danger.svg emblem-danger.svg
-arrow-down-green.svg arrow-down.svg navigation_down.svg
-arrow-up-green.svg arrow-up.svg navigation_up.svg
 applets-screenshooter.svg screenshot.svg
 download-from-internet.svg emblem-downloads.svg
 display-brightness.svg display-brightness-symbolic.svg xfpm-brightness-lcd.svg
@@ -217,16 +215,24 @@ gnome-eyes.svg gnome-eyes-applet.svg
 gnome-fs-network.svg red.svg
 gnome-panel-clock.svg awn-applet-digital-clock.svg
 gnote.svg xpad.svg
-go-bottom.svg bottom.svg gtk-goto-bottom.svg stock_bottom.svg
-go-down.svg down.svg gtk-go-down.svg stock_down.svg
-go-first.svg gtk-goto-first-ltr.svg gtk-goto-last-rtl.svg start.svg stock_first.svg
+arrow-down-green.svg arrow-down.svg navigation_down.svg go-down.svg down.svg gtk-go-down.svg stock_down.svg
+arrow-up-green.svg arrow-up.svg navigation_up.svg go-up.svg gtk-go-up.svg stock_up.svg up.svg
+arrow-left-green.svg navigation_left.svg go-previous.svg back.svg gtk-go-back-ltr.svg gtk-go-forward-rtl.svg previous.svg stock_left.svg go-back.svg
+arrow-right-green.svg navigation_right.svg go-next.svg forward.svg gtk-go-back-rtl.svg gtk-go-forward-ltr.svg next.svg stock_right.svg go-forward.svg
+arrow-up-red.svg go-top.svg gtk-goto-top.svg stock_top.svg top.svg
+arrow-down-red.svg go-bottom.svg bottom.svg gtk-goto-bottom.svg stock_bottom.svg
+arrow-left-red.svg go-first.svg gtk-goto-first-ltr.svg gtk-goto-last-rtl.svg start.svg stock_first.svg
+arrow-right-red.svg go-last.svg finish.svg gtk-goto-first-rtl.svg gtk-goto-last-ltr.svg stock_last.svg
+arrow-up-blue.svg
+arrow-down-blue.svg
+arrow-left-blue.svg
+arrow-right-blue.svg
+arrow-up-yellow.svg
+arrow-down-yellow.svg
+arrow-left-yellow.svg
+arrow-right-yellow.svg
 go-home.svg gtk-home.svg kfm_home.svg redhat-home.svg stock_home.svg
 go-jump.svg gtk-jump-to-ltr.svg gtk-jump-to-rtl.svg
-go-last.svg finish.svg gtk-goto-first-rtl.svg gtk-goto-last-ltr.svg stock_last.svg
-go-next.svg forward.svg gtk-go-back-rtl.svg gtk-go-forward-ltr.svg next.svg stock_right.svg
-go-previous.svg back.svg gtk-go-back-ltr.svg gtk-go-forward-rtl.svg previous.svg stock_left.svg
-go-top.svg gtk-goto-top.svg stock_top.svg top.svg
-go-up.svg gtk-go-up.svg stock_up.svg up.svg
 gtk-select-color.svg gcolor2.svg
 help-about.svg stock_about.svg
 help-browser.svg khelpcenter.svg susehelpcenter.svg xfce-man.svg
