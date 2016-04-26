@@ -14,8 +14,8 @@
    height="64"
    color-interpolation="linearRGB"
    id="svg2"
-   inkscape:version="0.47 r22583"
-   sodipodi:docname="document-save.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="downloadmanager.svg">
   <metadata
      id="metadata46">
     <rdf:RDF>
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -832,15 +832,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1106"
-     inkscape:window-height="682"
+     inkscape:window-width="1918"
+     inkscape:window-height="1020"
      id="namedview42"
      showgrid="false"
-     inkscape:zoom="3.6875"
-     inkscape:cx="32"
+     inkscape:zoom="11.0625"
+     inkscape:cx="14.689266"
      inkscape:cy="42.847458"
-     inkscape:window-x="85"
-     inkscape:window-y="43"
+     inkscape:window-x="2"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <g
@@ -946,12 +946,53 @@
        id="path40" />
   </g>
   <g
+     style="overflow:visible"
+     id="g3063"
+     transform="matrix(0.12943246,0,0,0.12943246,23.917461,28.112994)">
+    <path
+       style="font-size:12px"
+       id="path563"
+       d="m 24.599,16.542 0,27.584 L 19.605,43.093 0,60.671 52.687,124.283 104.048,83.554 124.892,64.89 c 0,0 -23.527,-4.871 -27.404,-5.673 0,-4.4 0,-47.951 0,-47.951 L 43.071,0 24.599,16.542 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       style="font-size:12px;fill:url(#XMLID_1_-0)"
+       id="path572"
+       d="M 78.142,76.297 102.114,81.26 118.461,66.622 94.488,61.659 78.142,76.297 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       style="font-size:12px;fill:url(#XMLID_2_-8)"
+       id="path581"
+       d="m 78.142,76.297 16.346,-14.638 0,-47.95 -16.346,14.638 0,47.95 z"
+       inkscape:connector-curvature="0" />
+    <path
+       style="font-size:12px;fill:url(#XMLID_3_-5)"
+       id="path590"
+       d="M 27.612,65.841 4.147,60.982 20.48,46.337 43.945,51.196 27.612,65.841 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       style="font-size:12px;fill:url(#XMLID_4_-1)"
+       id="path599"
+       d="M 27.599,17.883 78.142,28.347 94.488,13.709 43.945,3.245 27.599,17.883 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       style="font-size:12px;fill:url(#XMLID_5_-6)"
+       id="path608"
+       d="m 27.599,17.883 0,47.95 -23.465,-4.857 48.99,59.133 48.99,-38.849 -23.972,-4.963 0,-47.95 -50.543,-10.464 z"
+       inkscape:connector-curvature="0" />
+    <path
+       style="font-size:12px;opacity:0.4;fill:url(#XMLID_6_-6)"
+       id="path617"
+       d="m 77.377,76.92 c 0,0 0,-46.738 0,-47.95 -1.167,-0.242 -47.264,-9.785 -49.014,-10.148 0,1.805 0,47.012 0,47.012 l 0,0.939 c 0,0 -18.724,-3.877 -22.25,-4.606 0.742,0.896 4.83,5.83 10.311,12.446 7.662,-2.759 16.126,-2.521 23.705,0.394 15.539,6.121 32.238,14.27 48.847,15.697 6.053,-4.799 10.647,-8.443 11.382,-9.025 C 97.568,81.1 77.377,76.92 77.377,76.92 Z"
+       a:adobe-blending-mode="screen"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
      inkscape:label="Layer 1"
      id="layer1"
      transform="matrix(0.69391195,0,0,0.69391195,14.532554,-2.3310426)">
     <path
        transform="matrix(1,0,0,1.243244,-0.84975243,-10.27241)"
-       d="m 45.052803,38.908627 c 0,4.128399 -9.045214,7.475128 -20.203051,7.475128 -11.157836,0 -20.2030502,-3.346729 -20.2030502,-7.475128 0,-4.1284 9.0452142,-7.475129 20.2030502,-7.475129 11.157837,0 20.203051,3.346729 20.203051,7.475129 z"
+       d="M 45.052803,38.908627 A 20.203051,7.4751287 0 0 1 24.849752,46.383755 20.203051,7.4751287 0 0 1 4.6467018,38.908627 20.203051,7.4751287 0 0 1 24.849752,31.433498 20.203051,7.4751287 0 0 1 45.052803,38.908627 Z"
        sodipodi:ry="7.4751287"
        sodipodi:rx="20.203051"
        sodipodi:cy="38.908627"
@@ -965,7 +1006,7 @@
        style="fill:#59f0f0;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
        transform="matrix(0.835938,0,0,1,9.1381219,0)"
-       d="m 30.708637,15.271057 c 0,5.132605 -5.788937,9.293404 -12.929952,9.293404 -7.141016,0 -12.929953,-4.160799 -12.929953,-9.293404 0,-5.132605 5.788937,-9.2934035 12.929953,-9.2934035 7.141015,0 12.929952,4.1607985 12.929952,9.2934035 z"
+       d="M 30.708637,15.271057 A 12.929953,9.2934036 0 0 1 17.778685,24.564461 12.929953,9.2934036 0 0 1 4.848732,15.271057 12.929953,9.2934036 0 0 1 17.778685,5.9776535 12.929953,9.2934036 0 0 1 30.708637,15.271057 Z"
        sodipodi:ry="9.2934036"
        sodipodi:rx="12.929953"
        sodipodi:cy="15.271057"
@@ -1269,39 +1310,5 @@
        id="path4122"
        d="m 42.405833,23.485534 c 0,10.16582 -8.241178,18.406906 -18.4056,18.406906 -10.165354,0 -18.4060663,-8.241179 -18.4060663,-18.406906 0,-10.165354 8.2407123,-18.4056 18.4060663,-18.4056 10.164422,0 18.4056,8.240246 18.4056,18.4056 l 0,0 z"
        style="fill:none;stroke:url(#radialGradient4132);stroke-miterlimit:4;stroke-opacity:1" />
-  </g>
-  <g
-     style="overflow:visible"
-     id="g3063"
-     transform="matrix(0.20725739,0,0,0.20725739,19.057605,18.440678)">
-    <path
-       style="font-size:12px"
-       id="path563"
-       d="M 24.599,16.542 V 44.126 L 19.605,43.093 0,60.671 52.687,124.283 104.048,83.554 124.892,64.89 c 0,0 -23.527,-4.871 -27.404,-5.673 0,-4.4 0,-47.951 0,-47.951 L 43.071,0 24.599,16.542 z" />
-    <path
-       style="font-size:12px;fill:url(#XMLID_1_-0)"
-       id="path572"
-       d="M 78.142,76.297 102.114,81.26 118.461,66.622 94.488,61.659 78.142,76.297 z" />
-    <path
-       style="font-size:12px;fill:url(#XMLID_2_-8)"
-       id="path581"
-       d="M 78.142,76.297 94.488,61.659 V 13.709 L 78.142,28.347 v 47.95 z" />
-    <path
-       style="font-size:12px;fill:url(#XMLID_3_-5)"
-       id="path590"
-       d="M 27.612,65.841 4.147,60.982 20.48,46.337 43.945,51.196 27.612,65.841 z" />
-    <path
-       style="font-size:12px;fill:url(#XMLID_4_-1)"
-       id="path599"
-       d="M 27.599,17.883 78.142,28.347 94.488,13.709 43.945,3.245 27.599,17.883 z" />
-    <path
-       style="font-size:12px;fill:url(#XMLID_5_-6)"
-       id="path608"
-       d="m 27.599,17.883 v 47.95 L 4.134,60.976 53.124,120.109 102.114,81.26 78.142,76.297 V 28.347 L 27.599,17.883 z" />
-    <path
-       style="font-size:12px;opacity:0.4;fill:url(#XMLID_6_-6)"
-       id="path617"
-       d="m 77.377,76.92 c 0,0 0,-46.738 0,-47.95 -1.167,-0.242 -47.264,-9.785 -49.014,-10.148 0,1.805 0,47.012 0,47.012 v 0.939 c 0,0 -18.724,-3.877 -22.25,-4.606 0.742,0.896 4.83,5.83 10.311,12.446 7.662,-2.759 16.126,-2.521 23.705,0.394 15.539,6.121 32.238,14.27 48.847,15.697 6.053,-4.799 10.647,-8.443 11.382,-9.025 C 97.568,81.1 77.377,76.92 77.377,76.92 z"
-       a:adobe-blending-mode="screen" />
   </g>
 </svg>

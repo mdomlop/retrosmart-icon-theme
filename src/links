@@ -134,10 +134,11 @@ dialog-password.svg dialog-password-symbolic.svg gtk-dialog-authentication.svg s
 dialog-question.svg dialog_question.svg dialog-question-symbolic.svg gtk-dialog-question.svg stock_dialog-question.svg
 dialog-warning.svg dialog_warning.svg dialog-warning-symbolic.svg gtk-dialog-warning.svg important.svg messagebox_warning.svg stock_dialog-warning.svg
 diana.svg window-center.svg
-disco_duro_hacker.svg gnome-fs-blockdev.svg gnome-fs-filesystem.svg inode-blockdevice.svg
-disco_duro-limpio.svg bleachbit.svg
-disco_duro.svg drive-harddisk.svg gnome-dev-harddisk.svg
+harddisk-label.svg gnome-fs-blockdev.svg gnome-fs-filesystem.svg inode-blockdevice.svg
+harddisk-clean.svg bleachbit.svg
+harddisk.svg drive-harddisk.svg gnome-dev-harddisk.svg
 floppy-black.svg floppy.svg disk-floppy.svg document-save.svg
+harddisk-new.svg disk-new.svg
 floppy-blue.svg document-save-as.svg gtk-save-as.svg
 floppy-2.svg media-floppy.svg 3floppy_unmount.svg gtk-floppy.svg system-floppy.svg
 floppy-3.svg gnome-dev-floppy.svg
