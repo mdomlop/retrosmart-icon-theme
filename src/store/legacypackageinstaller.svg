@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#010101; fill-opacity:0.5019"
+        d="M36 63H41L64 32L58 29L59 33L36 63z"
+  />
+  <path style="fill:none; stroke:#010000; stroke-width:4"
+        d="M2 30V43L36 61L58 32V19L25 7L2 30z"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="13.84" y1="-36.14" x2="58.34" y2="-25.7">
+   <stop offset="0" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#d3d3d3"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M2 30L36 45L58 19L25 7L2 30z"
+  />
+  <linearGradient id="gradient1" gradientUnits="userSpaceOnUse" x1="44.72" y1="-5.9" x2="86.1" y2="12.51">
+   <stop offset="0" stop-color="#474747"/>
+   <stop offset="1" stop-color="#a5a0a0"/>
+  </linearGradient>
+  <path style="fill:url(#gradient1)"
+        d="M36 45V61L58 32V19L36 45z"
+  />
+  <linearGradient id="gradient2" gradientUnits="userSpaceOnUse" x1="22.97" y1="94.59" x2="-14.6" y2="69.29">
+   <stop offset="0" stop-color="#7d7d7d"/>
+   <stop offset="1" stop-color="#d4d4d4"/>
+  </linearGradient>
+  <path style="fill:url(#gradient2)"
+        d="M2 30V43L36 61V45L2 30z"
+  />
+  <linearGradient id="gradient3" gradientUnits="userSpaceOnUse" x1="32.05" y1="11.68" x2="43.48" y2="26.05">
+   <stop offset="0" stop-color="#596756"/>
+   <stop offset="1" stop-color="#ebb2b2"/>
+  </linearGradient>
+  <path style="fill:none; stroke:url(#gradient3); stroke-width:5; stroke-linecap:round"
+        d="M7 37L12.74 39.5"
+  />
+  <path style="fill:none; stroke:#ff0000; stroke-width:2"
+        d="M6 37L9 38"
+        transform="matrix(1,0,0,1,4,1.5)"
+  />
+  <path style="fill:none; stroke:#a7ff00; stroke-width:2"
+        d="M6 37L9 38"
+        transform="matrix(1,0,0,1,0,-0.2549)"
+  />
+  <radialGradient id="gradient4" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64" gradientTransform="matrix(0.2932,0.0465,-0.022,0.1388,32.8227,31.5662)">
+   <stop offset="0" stop-color="#010101" stop-opacity="0.4039"/>
+   <stop offset="1" stop-color="#000001" stop-opacity="0"/>
+  </radialGradient>
+  <path style="fill:url(#gradient4)"
+        d="M3 30L36 45L55 24L21 12L3 30z"
+  />
+  <path style="fill:none; stroke:#010000; stroke-width:4"
+        d="M22 13L18 12L14 14L29 30L42 24L46 20L38 18V5L26 2L22 4V13z"
+  />
+  <linearGradient id="gradient5" gradientUnits="userSpaceOnUse" x1="56.4" y1="-21.28" x2="74.74" y2="8.81">
+   <stop offset="0" stop-color="#a5e0ff"/>
+   <stop offset="1" stop-color="#00aaff"/>
+  </linearGradient>
+  <path style="fill:url(#gradient5)"
+        d="M42 24L29 30L14 14L22.03 16.86L22 4L34 8L34.03 21.15L42 24z"
+  />
+  <linearGradient id="gradient6" gradientUnits="userSpaceOnUse" x1="46.93" y1="-13.38" x2="67.71" y2="3">
+   <stop offset="0" stop-color="#0581c1"/>
+   <stop offset="1" stop-color="#a5e0ff"/>
+  </linearGradient>
+  <path style="fill:url(#gradient6)"
+        d="M34 8V22L38 18V5L34 8z"
+  />
+  <linearGradient id="gradient7" gradientUnits="userSpaceOnUse" x1="13" y1="-28" x2="47" y2="-28">
+   <stop offset="0" stop-color="#ceedff"/>
+   <stop offset="1" stop-color="#b3e5ff"/>
+  </linearGradient>
+  <path style="fill:url(#gradient7)"
+        d="M22 4L34 8L38 5L26 2L22 4z"
+  />
+  <linearGradient id="gradient8" gradientUnits="userSpaceOnUse" x1="13" y1="-28" x2="47" y2="-28">
+   <stop offset="0" stop-color="#ceedff"/>
+   <stop offset="1" stop-color="#b3e5ff"/>
+  </linearGradient>
+  <path style="fill:url(#gradient8)"
+        d="M18 12L14 14L22.03 16.86L22 13.24L18 12z"
+  />
+  <path style="fill:#75c6f1"
+        d="M41 21L46 20L37.83 17.66L34.03 21.15L41 21z"
+  />
+  <linearGradient id="gradient9" gradientUnits="userSpaceOnUse" x1="13" y1="-28" x2="47" y2="-28">
+   <stop offset="0" stop-color="#ceedff"/>
+   <stop offset="1" stop-color="#b3e5ff"/>
+  </linearGradient>
+  <path style="fill:url(#gradient9)"
+        d="M42 24L46 20L41 21L34.03 21.15L42 24z"
+  />
+ </g>
+</svg>

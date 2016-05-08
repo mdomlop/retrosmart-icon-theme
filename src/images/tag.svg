@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <radialGradient id="gradient0" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64" gradientTransform="matrix(0.1386,0,0,0.1523,56.25,6.75)">
+   <stop offset="1" stop-color="#010101" stop-opacity="0.4705"/>
+   <stop offset="0" stop-color="#010101" stop-opacity="0"/>
+  </radialGradient>
+  <path style="fill:none; stroke:url(#gradient0); stroke-width:4"
+        d="M45 27C48 24 54 26 54 20C54 14 34 16 34 12C34 8 48 6 56 6"
+        transform="matrix(1,0,0,1,2,1)"
+  />
+  <path style="fill:none; stroke:#010101; stroke-opacity:0.4745; stroke-width:6"
+        d="M4 48L28 60L52 36L45 27L26 28L4 48z"
+        transform="matrix(1,0,0,1,2,0)"
+  />
+  <radialGradient id="gradient1" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64" gradientTransform="matrix(0.1445,0,0,0.1523,54.5,6)">
+   <stop offset="1" stop-color="#010101"/>
+   <stop offset="0" stop-color="#010101" stop-opacity="0"/>
+  </radialGradient>
+  <path style="fill:none; stroke:url(#gradient1); stroke-width:4"
+        d="M45 27C48 24 54 26 54 20C54 14 34 16 34 12C34 8 48 6 56 6"
+  />
+  <path style="fill:none; stroke:#010101; stroke-width:4"
+        d="M4 48L28 60L52 36L45 27L26 28L4 48z"
+  />
+  <linearGradient id="gradient2" gradientUnits="userSpaceOnUse" x1="71.91" y1="1.98" x2="84.16" y2="26.48">
+   <stop offset="0" stop-color="#ffea97"/>
+   <stop offset="1" stop-color="#f0c620"/>
+  </linearGradient>
+  <path style="fill:url(#gradient2)"
+        d="M4 48L28 60L52 36L45 27L26 28L4 48z"
+  />
+  <path style="fill:none; stroke:#010101; stroke-width:2"
+        d="M18 48L31 36"
+  />
+  <path style="fill:none; stroke:#010101; stroke-width:2"
+        d="M12 48L29 32"
+  />
+  <path style="fill:none; stroke:#010101; stroke-width:2"
+        d="M18 48L31 36"
+        transform="matrix(1,0,0,1,8,4)"
+  />
+  <path style="fill:none; stroke:#010101; stroke-width:2"
+        d="M12 48L29 32"
+        transform="matrix(1,0,0,1,8,4)"
+  />
+ </g>
+</svg>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#010101; fill-opacity:0.4705"
+        d="M38 54L42 57L57 42L62 36L38 28V54z"
+  />
+  <path style="fill:none; stroke:#000000; stroke-width:4; stroke-linejoin:round"
+        d="M2 38L38 56L58 36L22 21L2 38z"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="83.05" y1="-9.55" x2="103.7" y2="22.91">
+   <stop offset="0" stop-color="#ff5959"/>
+   <stop offset="1" stop-color="#d40505"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M2 38L38 56L58 36L22 21L2 38z"
+  />
+  <path style="fill:#920303"
+        d="M22 21L23 34L3 38L25 36L30 38L37 55L33 40L58 36L33 38L31 36L27 34H25L22 21z"
+  />
+  <path style="fill:none; stroke:#000000; stroke-width:4"
+        d="M24 28C28 30 32 28 30 24C28 20 26 16 26 10C20 16 20 26 24 28z"
+        transform="matrix(1,0,0,0.922,20,10.399)"
+  />
+  <radialGradient id="gradient1" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64" gradientTransform="matrix(0.1206,-0.0287,0.0605,0.2542,30.2182,23.1439)">
+   <stop offset="1" stop-color="#ffffff"/>
+   <stop offset="0" stop-color="#686868"/>
+  </radialGradient>
+  <path style="fill:url(#gradient1)"
+        d="M24 28C28 30 32 28 30 24C28 20 26 16 26 10C20 16 20 26 24 28z"
+        transform="matrix(1,0,0,1,20,10)"
+  />
+  <path style="fill:none; stroke:#000000; stroke-width:4"
+        d="M24 28C28 30 32 28 30 24C28 20 26 16 26 10C20 16 20 26 24 28z"
+        transform="matrix(0.9154,0,0,0.8441,0.7491,2.7981)"
+  />
+  <radialGradient id="gradient2" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64" gradientTransform="matrix(0.1206,-0.0287,0.0605,0.2542,30.2182,23.1439)">
+   <stop offset="1" stop-color="#ffffff"/>
+   <stop offset="0" stop-color="#686868"/>
+  </radialGradient>
+  <path style="fill:url(#gradient2)"
+        d="M24 28C28 30 32 28 30 24C28 20 26 16 26 10C20 16 20 26 24 28z"
+        transform="matrix(0.9154,0,0,0.9154,0.7491,2.4328)"
+  />
+ </g>
+</svg>

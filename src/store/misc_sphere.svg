@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#010101; fill-opacity:0.5529"
+        d="M37.99 33.99C24.73 33.99 13.99 38.54 13.99 44.15C13.99 49.76 24.73 54.3 37.99 54.3C51.25 54.3 61.99 49.76 61.99 44.15C61.99 38.54 51.25 33.99 37.99 33.99z"
+  />
+  <path style="fill:none; stroke:#010101; stroke-width:4"
+        d="M28 6C15.84 6 6 15.84 6 28C6 40.15 15.84 50 28 50C40.15 50 50 40.15 50 28C50 15.84 40.15 6 28 6z"
+  />
+  <radialGradient id="gradient0" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64" gradientTransform="matrix(0.5625,0,0,0.5625,18,18)">
+   <stop offset="0" stop-color="#c7ffec"/>
+   <stop offset="0.4411" stop-color="#2bbcfb"/>
+   <stop offset="0.595" stop-color="#18b4fd"/>
+   <stop offset="0.7488" stop-color="#09aefe"/>
+   <stop offset="0.8582" stop-color="#00aaff"/>
+   <stop offset="0.9757" stop-color="#1ab7f2"/>
+  </radialGradient>
+  <path style="fill:url(#gradient0)"
+        d="M28 6C15.84 6 6 15.84 6 28C6 40.15 15.84 50 28 50C40.15 50 50 40.15 50 28C50 15.84 40.15 6 28 6z"
+  />
+ </g>
+</svg>

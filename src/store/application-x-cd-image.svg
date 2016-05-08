@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="64"
+   height="64"
+   color-interpolation="linearRGB"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="file-generic"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata31">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs29">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 32 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="64 : 32 : 1"
+       inkscape:persp3d-origin="32 : 21.333333 : 1"
+       id="perspective33" />
+    <inkscape:perspective
+       id="perspective2441"
+       inkscape:persp3d-origin="32 : 21.333333 : 1"
+       inkscape:vp_z="64 : 32 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 32 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2456"
+       id="linearGradient2463"
+       gradientUnits="userSpaceOnUse"
+       x1="105.45"
+       y1="-23.42"
+       x2="119.92"
+       y2="34.32" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2447"
+       id="linearGradient3235"
+       x1="7.632"
+       y1="66.304001"
+       x2="-1.1839985"
+       y2="8.960001"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="978"
+     inkscape:window-width="1680"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="7.28125"
+     inkscape:cx="2.9298999"
+     inkscape:cy="32"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:current-layer="svg2" />
+  <g
+     id="g4">
+    <path
+       style="fill:#010101; fill-opacity:0.5725"
+       d="M27 57L29 59L32.13 55.83L37 59L45.39 47.54L64 38L59 35L61 37L36 49L27 57z            M58 34L62 31L58 29L55 32L58 34z"
+       id="path6" />
+    <path
+       style="fill:none; stroke:#010101; stroke-width:4"
+       d="M6.25 30C6.25 30 11.87 36 16.87 42.5C21.87 49 26.25 55.75 26.25 55.75L59.12 36.87L32 15L6.25 30z"
+       id="path8" />
+    <radialGradient
+       id="gradient0"
+       gradientUnits="userSpaceOnUse"
+       cx="0"
+       cy="0"
+       r="64"
+       gradientTransform="matrix(0.5714,0,0,0.3333,26,35)">
+      <stop
+         offset="1"
+         stop-color="#c0d5ff"
+         id="stop11" />
+      <stop
+         offset="0.4886"
+         stop-color="#896eff"
+         id="stop13" />
+    </radialGradient>
+    <path
+       style="fill:url(#gradient0)"
+       d="M6.25 30C6.25 30 11.87 36 16.87 42.5C21.87 49 26.25 55.75 26.25 55.75L59.12 36.87L32 15L6.25 30z"
+       id="path15" />
+    <path
+       style="fill:none; stroke:#010101; stroke-width:4"
+       d="M2.62 30.87C2.62 30.87 10.95 36.26 19 41.87C27.44 47.75 35.75 52.75 35.75 52.75L58.12 26.37C58.12 26.37 45.44 20.7 35.37 15.37C30.18 12.62 26 9.37 26 9.37L2.62 30.87z"
+       id="path17" />
+    <linearGradient
+       id="gradient1"
+       gradientUnits="userSpaceOnUse"
+       x1="105.45"
+       y1="-23.42"
+       x2="119.92"
+       y2="34.32">
+      <stop
+         offset="0"
+         stop-color="#a5b1ff"
+         id="stop20" />
+      <stop
+         offset="0.7386"
+         stop-color="#eaf1ff"
+         id="stop22" />
+      <stop
+         offset="1"
+         stop-color="#b3b8ff"
+         id="stop24" />
+    </linearGradient>
+    <path
+       style="fill:url(#gradient1)"
+       d="M2.62 30.87C2.62 30.87 10.95 36.26 19 41.87C27.44 47.75 35.75 52.75 35.75 52.75L58.12 26.37C58.12 26.37 45.44 20.7 35.37 15.37C30.18 12.62 26 9.37 26 9.37L2.62 30.87z"
+       id="path26" />
+  </g>
+  <g
+     id="g2408"
+     transform="matrix(0.5364807,0,0,0.5364807,13.596566,12.600858)">
+    <path
+       id="path2410"
+       d="M 32,10 C 48,12 60,20 60,32 C 60,44 48,52 32,54 C 52,54 64,44 64,32 C 64,20 52,10 32,10 z"
+       style="fill:#010101;fill-opacity:0.49409999" />
+    <path
+       id="path2412"
+       d="M 31,12 C 16,12 2,20 2,32 C 2,44 16,52 31,52 C 46,52 60,44 60,32 C 60,20 46,12 31,12 z M 31,26 C 27,26 25,28 25,30 C 25,32 27,34 31,34 C 35,34 37,32 37,30 C 37,28 35,26 31,26 z"
+       style="fill:none;stroke:#000000;stroke-width:4" />
+    <linearGradient
+       y2="3.2"
+       x2="-3.6400001"
+       y1="67.690002"
+       x1="4.6399999"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient2447">
+      <stop
+         id="stop2415"
+         stop-color="#f1f1f1"
+         offset="0" />
+      <stop
+         id="stop2417"
+         stop-color="#d9ddf4"
+         offset="0.2121" />
+      <stop
+         id="stop2419"
+         stop-color="#9996b9"
+         offset="0.5416" />
+      <stop
+         id="stop2421"
+         stop-color="#b8bedb"
+         offset="0.7083" />
+      <stop
+         id="stop2423"
+         stop-color="#f4f4f4"
+         offset="1" />
+    </linearGradient>
+    <path
+       id="path2425"
+       d="M 31,12 C 16,12 2,20 2,32 C 2,44 16,52 31,52 C 46,52 60,44 60,32 C 60,20 46,12 31,12 z M 43,30 C 43,34 39,38 31,38 C 23,38 19,34 19,30 C 19,26 23,22.5 31,22.5 C 39,22.5 43,26 43,30 z"
+       style="fill:url(#linearGradient3235);fill-opacity:1.0" />
+    <path
+       id="path2427"
+       d="M 43,30 C 43,34 39,38 31,38 C 23,38 19,34 19,30 C 19,26 23,22.5 31,22.5 C 39,22.5 43,26 43,30 z M 31,26 C 27,26 25,28 25,30 C 25,32 27,34 31,34 C 35,34 37,32 37,30 C 37,28 35,26 31,26 z"
+       style="fill:#ebebeb;fill-opacity:0.81559999" />
+    <linearGradient
+       y2="6.6799998"
+       x2="48.02"
+       y1="-3.55"
+       x1="6.8400002"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient2456">
+      <stop
+         id="stop2430"
+         stop-color="#4137a9"
+         offset="0" />
+      <stop
+         id="stop2432"
+         stop-color="#b9b9b9"
+         offset="1" />
+    </linearGradient>
+    <path
+       id="path2434"
+       d="M 43,30 C 43,34 39,38 31,38 C 23,38 19,34 19,30 C 19,26 23,22.5 31,22.5 C 39,22.5 43,26 43,30 z"
+       style="fill:none;stroke:url(#linearGradient2463);stroke-width:2" />
+  </g>
+</svg>

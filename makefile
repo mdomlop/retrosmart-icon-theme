@@ -8,13 +8,24 @@ INSTALLDIR=$(PREFIX)'/share/icons'
 
 $(NAME): clean
 	mkdir $(OUTDIR)/$(NAME)
-	cp -r $(SRCDIR)/images/ $(OUTDIR)/$(NAME)/scalable
-	cp -r $(SRCDIR)/index.theme $(OUTDIR)/$(NAME)/
+	cp -a $(SRCDIR)/images/ $(OUTDIR)/$(NAME)/scalable
+	cp -a $(SRCDIR)/index.theme $(OUTDIR)/$(NAME)/
 	sh src/mklinks.sh $(SRCDIR) $(OUTDIR)/$(NAME)
+
+gitsync:
+	git add .
+	git commit -m "Updated from makefile"
+	git push origin
+
+sync:  $(NAME)
+	mkdir -p $(INSTALLDIR)
+	rsync -aHv --delete $(OUTDIR)/$(NAME)/ $(INSTALLDIR)/$(THEMENAME)
+	chown -R root:root $(INSTALLDIR)/$(THEMENAME)/
+	chmod -R u=rwX,go=rX $(INSTALLDIR)/$(THEMENAME)/
 
 install: uninstall $(NAME)
 	mkdir -p $(INSTALLDIR)
-	cp -r $(OUTDIR)/$(NAME)/ $(INSTALLDIR)/$(THEMENAME)
+	cp -a $(OUTDIR)/$(NAME)/ $(INSTALLDIR)/$(THEMENAME)
 	chown -R root:root $(INSTALLDIR)/$(THEMENAME)/
 	chmod -R u=rwX,go=rX $(INSTALLDIR)/$(THEMENAME)/
 
