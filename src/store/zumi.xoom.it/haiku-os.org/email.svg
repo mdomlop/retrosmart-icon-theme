@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <radialGradient id="gradient0" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64" gradientTransform="matrix(0.5,0,0,0.125,32,56)">
+   <stop offset="0" stop-color="#000000" stop-opacity="0.5019"/>
+   <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+  </radialGradient>
+  <path style="fill:url(#gradient0)"
+        d="M32 48C49.91 48 64 51.52 64 56C64 60.47 49.91 64 32 64C14.07 64 0 60.47 0 56C0 51.52 14.07 48 32 48z"
+  />
+  <path style="fill:#505050"
+        d="M8 12H56C56 12 60 12 60 16V48C60 52 56 52 56 52H8C8 52 4 52 4 48V16C4 12 8 12 8 12z"
+  />
+  <linearGradient id="gradient1" gradientUnits="userSpaceOnUse" x1="128" y1="12" x2="128" y2="52">
+   <stop offset="0" stop-color="#f9f8e5"/>
+   <stop offset="1" stop-color="#f8f48d"/>
+  </linearGradient>
+  <path style="fill:url(#gradient1)"
+        d="M8 12H56C56 12 60 12 60 16V48C60 52 56 52 56 52H8C8 52 4 52 4 48V16C4 12 8 12 8 12z"
+  />
+  <path style="fill:#010101; fill-opacity:0.749"
+        d="M5.99 14C5.99 14 21.6 32 32 32C42.4 32 58 14 58 14C58 14 47.59 36 32 36C16.39 36 5.99 14 5.99 14z
+           M8 48L20 32H24L8 48z
+           M56 48L40 32H44L56 48z"
+  />
+ </g>
+</svg>

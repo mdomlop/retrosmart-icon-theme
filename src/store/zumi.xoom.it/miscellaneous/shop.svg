@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#000000; fill-opacity:0.4"
+        d="M56 52L48 50V46H36L5 55L11 62H24L34 59C34 59 38 61 41 61C44 61 48 60 48 58C48 56 47.03 55.02 47.03 55.02L56 52z"
+  />
+  <path style="fill:none; stroke:#000000; stroke-width:2"
+        d="M14 15C14 15 11 7 13 4C15 1 22 0 24 2C26 4 25 12 25 12"
+  />
+  <path style="fill:none; stroke:#000000; stroke-width:4"
+        d="M36 12V9L3 16V54L11 61L44 51V13L36 12z"
+  />
+  <path style="fill:#6e6e6e"
+        d="M44 13L36 12V14.93L44 13z"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="61.32" y1="-54.19" x2="29.73" y2="-64.91">
+   <stop offset="0" stop-color="#a7a7a7"/>
+   <stop offset="1" stop-color="#7d7d7d"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M11 21L36 14.93V9L3 16L11 17V21z"
+  />
+  <linearGradient id="gradient1" gradientUnits="userSpaceOnUse" x1="19.51" y1="-60.92" x2="30.62" y2="-58.98">
+   <stop offset="0" stop-color="#e2e2e2"/>
+   <stop offset="1" stop-color="#c1c1c1"/>
+  </linearGradient>
+  <path style="fill:url(#gradient1)"
+        d="M11 17L3 16V54H11V17z"
+  />
+  <linearGradient id="gradient2" gradientUnits="userSpaceOnUse" x1="-67.76" y1="-8.55" x2="-63.99" y2="-12.77">
+   <stop offset="0" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#dcdcdc"/>
+  </linearGradient>
+  <path style="fill:url(#gradient2)"
+        d="M3 54L11 61V54H3z"
+  />
+  <path style="fill:none; stroke:#000000; stroke-width:2"
+        d="M32 17C32 17 35 11 32 7C29 3 26 6 23 9C20 12 21 20 21 20"
+  />
+  <linearGradient id="gradient3" gradientUnits="userSpaceOnUse" x1="99.72" y1="110.05" x2="46.91" y2="135.49">
+   <stop offset="0" stop-color="#e0e0e0"/>
+   <stop offset="1" stop-color="#b0b0b0"/>
+  </linearGradient>
+  <path style="fill:url(#gradient3)"
+        d="M11 21V61L44 51V13L11 21z"
+  />
+ </g>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:none; stroke:#000000; stroke-width:4"
+        d="M28 9C28 10.65 26.65 12 25 12C23.34 12 22 10.65 22 9C22 7.34 23.34 6 25 6C26.65 6 28 7.34 28 9z
+           M46 10C46 5.57 39.72 2 32 2C24.26 2 18 5.57 18 10V16H32V18H10C5.57 18 2 24.26 2 32C2 39.72 5.57 46 10 46H16V40C16 35.02 20.02 31 25 31H39C42.86 31 46 27.86 46 24V10"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="95.68" y1="-41.89" x2="112.84" y2="-14.86">
+   <stop offset="0" stop-color="#5a9fd4"/>
+   <stop offset="1" stop-color="#306998"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M28 9C28 10.65 26.65 12 25 12C23.34 12 22 10.65 22 9C22 7.34 23.34 6 25 6C26.65 6 28 7.34 28 9z
+           M46 10C46 5.57 39.72 2 32 2C24.26 2 18 5.57 18 10V16H32V18H10C5.57 18 2 24.26 2 32C2 39.72 5.57 46 10 46H16V40C16 35.02 20.02 31 25 31H39C42.86 31 46 27.86 46 24V10"
+  />
+  <path style="fill:none; stroke:#000000; stroke-width:4"
+        d="M28 9C28 10.65 26.65 12 25 12C23.34 12 22 10.65 22 9C22 7.34 23.34 6 25 6C26.65 6 28 7.34 28 9z
+           M46 10C46 5.57 39.72 2 32 2C24.26 2 18 5.57 18 10V16H32V18H10C5.57 18 2 24.26 2 32C2 39.72 5.57 46 10 46H16V40C16 35.02 20.02 31 25 31H39C42.86 31 46 27.86 46 24V10"
+        transform="matrix(-1,0,-0,-1,63.9996,63.9996)"
+  />
+  <linearGradient id="gradient1" gradientUnits="userSpaceOnUse" x1="-48.68" y1="86.53" x2="-65.84" y2="59.49">
+   <stop offset="0" stop-color="#fff1a5"/>
+   <stop offset="1" stop-color="#ffd439"/>
+  </linearGradient>
+  <path style="fill:url(#gradient1)"
+        d="M28 9C28 10.65 26.65 12 25 12C23.34 12 22 10.65 22 9C22 7.34 23.34 6 25 6C26.65 6 28 7.34 28 9z
+           M46 10C46 5.57 39.72 2 32 2C24.26 2 18 5.57 18 10V16H32V18H10C5.57 18 2 24.26 2 32C2 39.72 5.57 46 10 46H16V40C16 35.02 20.02 31 25 31H39C42.86 31 46 27.86 46 24V10"
+        transform="matrix(-1,0,-0,-1,63.9996,63.9996)"
+  />
+ </g>
+</svg>

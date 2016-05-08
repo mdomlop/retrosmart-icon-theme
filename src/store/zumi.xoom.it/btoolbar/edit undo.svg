@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:none; stroke:#000000; stroke-opacity:0.4; stroke-width:4; stroke-linecap:round; stroke-linejoin:round"
+        d="M20 36C26.62 36 32 31.52 32 26C32 21.58 28.41 18 24 18V26L8 14L24 1.99V10C31.73 10 38 16.26 38 24C38 32.83 30.83 40 22 40C12.05 40 4 31.94 4 22C4 29.73 11.16 36 20 36z"
+        transform="matrix(1,0,0,1,2,2)"
+  />
+  <path style="fill:none; stroke:#004080; stroke-width:4; stroke-linecap:round; stroke-linejoin:round"
+        d="M20 36C26.62 36 32 31.52 32 26C32 21.58 28.41 18 24 18V26L8 14L24 1.99V10C31.73 10 38 16.26 38 24C38 32.83 30.83 40 22 40C12.05 40 4 31.94 4 22C4 29.73 11.16 36 20 36z"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="128" y1="1.99" x2="128" y2="40">
+   <stop offset="0" stop-color="#abd5ff"/>
+   <stop offset="1" stop-color="#006cd9"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M20 36C26.62 36 32 31.52 32 26C32 21.58 28.41 18 24 18V26L8 14L24 1.99V10C31.73 10 38 16.26 38 24C38 32.83 30.83 40 22 40C12.05 40 4 31.94 4 22C4 29.73 11.16 36 20 36z"
+  />
+ </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:none; stroke:#000000; stroke-opacity:0.4; stroke-width:4; stroke-linecap:round; stroke-linejoin:round"
+        d="M40 2H2
+           M2 10H26
+           M2 18H32
+           M40 32H22V28L2 32L22 36V32"
+        transform="matrix(1,0,0,1,2,2)"
+  />
+  <path style="fill:none; stroke:#000000; stroke-width:4; stroke-linecap:round; stroke-linejoin:round"
+        d="M40 2H2
+           M2 10H26
+           M2 18H32
+           M40 32H22V28L2 32L22 36V32"
+  />
+ </g>
+</svg>

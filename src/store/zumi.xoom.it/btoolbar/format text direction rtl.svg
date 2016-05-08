@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#000000; fill-opacity:0.4"
+        d="M40 6L36 2L8 30L12 34L40 6z
+           M6 32L2 40L10 36L6 32z"
+        transform="matrix(1,0,0,1,2,2)"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="94" y1="-41.76" x2="100.5" y2="-35.25">
+   <stop offset="0" stop-color="#010101" stop-opacity="0.4039"/>
+   <stop offset="1" stop-color="#010101"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M44 20V32L20 44L28 36H17L25 28H36L44 20z"
+        transform="matrix(-1,-0,0,-1,44,44)"
+  />
+  <path style="fill:none; stroke:#545454; stroke-width:4; stroke-linecap:round; stroke-linejoin:round"
+        d="M6 32L2 40L10 36L6 32z"
+  />
+  <linearGradient id="gradient1" gradientUnits="userSpaceOnUse" x1="2.99" y1="31.68" x2="10.31" y2="39">
+   <stop offset="1" stop-color="#ffffff"/>
+   <stop offset="0" stop-color="#010101"/>
+  </linearGradient>
+  <path style="fill:url(#gradient1)"
+        d="M6 32L2 40L10 36L6 32z"
+  />
+  <path style="fill:none; stroke:#800000; stroke-width:4; stroke-linecap:round; stroke-linejoin:round"
+        d="M40 6L36 2L8 30L12 34L40 6z"
+  />
+  <linearGradient id="gradient2" gradientUnits="userSpaceOnUse" x1="128" y1="1.99" x2="128" y2="34">
+   <stop offset="0" stop-color="#ffabab"/>
+   <stop offset="1" stop-color="#d90000"/>
+  </linearGradient>
+  <path style="fill:url(#gradient2)"
+        d="M40 6L36 2L8 30L12 34L40 6z"
+  />
+  <linearGradient id="gradient3" gradientUnits="userSpaceOnUse" x1="94" y1="-41.76" x2="100.5" y2="-35.25">
+   <stop offset="0" stop-color="#010101" stop-opacity="0.4039"/>
+   <stop offset="1" stop-color="#010101"/>
+  </linearGradient>
+  <path style="fill:none; stroke:url(#gradient3); stroke-width:4; stroke-linejoin:round"
+        d=""
+  />
+  <path style="fill:#000000; fill-opacity:0.4"
+        d=""
+  />
+ </g>
+</svg>

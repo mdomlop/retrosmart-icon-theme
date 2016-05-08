@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:none; stroke:#000000; stroke-opacity:0.4; stroke-width:8; stroke-linecap:round; stroke-linejoin:round"
+        d="M38 38L33 33
+           M18 4C10.26 4 4 10.26 4 18C4 25.73 10.26 32 18 32C25.73 32 32 25.73 32 18C32 10.26 25.73 4 18 4z"
+        transform="matrix(1,0,0,1,2,2)"
+  />
+  <path style="fill:none; stroke:#545454; stroke-width:8; stroke-linecap:round; stroke-linejoin:round"
+        d="M38 38L33 33
+           M18 4C10.26 4 4 10.26 4 18C4 25.73 10.26 32 18 32C25.73 32 32 25.73 32 18C32 10.26 25.73 4 18 4z"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="128" y1="1.99" x2="128" y2="40">
+   <stop offset="0" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#e5e5e5"/>
+  </linearGradient>
+  <path style="fill:none; stroke:url(#gradient0); stroke-width:4; stroke-linecap:round"
+        d="M38 38L33 33
+           M18 4C10.26 4 4 10.26 4 18C4 25.73 10.26 32 18 32C25.73 32 32 25.73 32 18C32 10.26 25.73 4 18 4z"
+  />
+  <path style="fill:none; stroke:#215ace; stroke-width:4"
+        d="M18 8C12.47 8 8 12.47 8 18C8 23.52 12.47 28 18 28C23.52 28 28 23.52 28 18C28 12.47 23.52 8 18 8z"
+  />
+  <radialGradient id="gradient1" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64" gradientTransform="matrix(0.1562,0,0,0.1562,15,15)">
+   <stop offset="0" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#bdeafa"/>
+  </radialGradient>
+  <path style="fill:url(#gradient1)"
+        d="M18 8C12.47 8 8 12.47 8 18C8 23.52 12.47 28 18 28C23.52 28 28 23.52 28 18C28 12.47 23.52 8 18 8z"
+  />
+  <path style="fill:#215ace"
+        d="M16 18H14V16C14 16 16 16 16 12V12H20V22H22V24H14V22H16V18z"
+  />
+ </g>
+</svg>

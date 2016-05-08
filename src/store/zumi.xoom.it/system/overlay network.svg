@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:none; stroke:#010101; stroke-width:4"
+        d="M51.99 41.99C46.47 41.99 41.99 46.47 41.99 51.99C41.99 57.51 46.47 61.99 51.99 61.99C57.51 61.99 61.99 57.51 61.99 51.99C61.99 46.47 57.51 41.99 51.99 41.99z"
+  />
+  <radialGradient id="gradient0" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64" gradientTransform="matrix(0.2031,0,0,0.2031,49,49)">
+   <stop offset="0" stop-color="#d9ecff"/>
+   <stop offset="0.7655" stop-color="#007fff"/>
+   <stop offset="1" stop-color="#0061bf"/>
+  </radialGradient>
+  <path style="fill:url(#gradient0)"
+        d="M51.99 41.99C49.73 41.99 47.64 42.75 45.97 44.02C45.97 44.02 45 51 48 54C51 57 46 60 46 60C47.67 61.25 49.75 61.99 51.99 61.99C54.25 61.99 56.33 61.25 58 59.99C58 59.99 59 53 56 50C53 47 58.01 44.01 58.01 44.01C56.34 42.74 54.25 41.99 51.99 41.99z"
+  />
+  <radialGradient id="gradient1" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64" gradientTransform="matrix(0.2031,0,0,0.2031,49,49)">
+   <stop offset="0" stop-color="#ecffd9"/>
+   <stop offset="0.7655" stop-color="#5ebf00"/>
+   <stop offset="1" stop-color="#408000"/>
+  </radialGradient>
+  <path style="fill:url(#gradient1)"
+        d="M46 44C43.56 45.82 41.99 48.72 41.99 51.99C41.99 55.29 43.53 58.17 46 60C46 60 51 57 48 54C45 51 46 44 46 44z
+           M58 60C60.43 58.17 62 55.31 62 52.03C62 48.74 60.46 45.82 58 44C58 44 52.99 47.03 55.99 50.03C58.99 53.03 58 60 58 60z"
+  />
+ </g>
+</svg>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#000000; fill-opacity:0.3882"
+        d="M31.85 24C15.28 24 4 30.73 4 41.77C4 52.82 19.57 64 36.14 64C52.71 64 64 55.04 64 44C64 32.95 48.42 24 31.85 24z"
+  />
+  <path style="fill:none; stroke:#000000; stroke-width:4"
+        d="M31 2C16 3 3 17 2 33C1 48.97 13 61 28 60C43 59 56 44.97 57 29C58 13 46.14 0.99 31 2z"
+  />
+  <radialGradient id="gradient0" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64" gradientTransform="matrix(0.4339,0.1724,-0.1923,0.484,26.4669,29.0482)">
+   <stop offset="0.8135" stop-color="#ffde04"/>
+   <stop offset="1" stop-color="#ff9306"/>
+  </radialGradient>
+  <path style="fill:url(#gradient0)"
+        d="M28.25 9.68C17.62 10.36 8.41 19.93 7.7 30.86C7 41.78 15.5 50 26.12 49.31C36.75 48.63 45.95 39.05 46.66 28.13C47.37 17.19 38.97 8.99 28.25 9.68z
+           M31 2C16 3 3 17 2 33C1 48.97 13 61 28 60C43 59 56 44.97 57 29C58 13 46.14 0.99 31 2z"
+  />
+  <radialGradient id="gradient1" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64" gradientTransform="matrix(-0.2872,-0.1459,0.1799,-0.3542,29.4885,29.9762)">
+   <stop offset="0.7009" stop-color="#ffffff"/>
+   <stop offset="0.8488" stop-color="#ff9306"/>
+   <stop offset="1" stop-color="#ffde03"/>
+  </radialGradient>
+  <path style="fill:url(#gradient1)"
+        d="M28.25 9.68C17.62 10.36 8.41 19.93 7.7 30.86C7 41.78 15.5 50 26.12 49.31C36.75 48.63 45.95 39.05 46.66 28.13C47.37 17.19 38.97 8.99 28.25 9.68z"
+  />
+  <path style="fill:#058ec1"
+        d="M32 14L29 23L37 21
+           M20 43L27 45L29 38L22 36
+           M19 33L23 24L18 26L19 23L14 26L16 31L17 28
+           M32 37L36 27L39 32L41 28L43 34L37 38L38 34"
+  />
+  <path style="fill:none; stroke:#000000; stroke-width:4; stroke-linecap:round"
+        d="M37 25L27 32L23 17"
+  />
+  <path style="fill:#fff4ac"
+        d="M15 11C15 11 22 6 31 6C40 6 50 17 50 17C50 17 45 3 32 3C19 3 15 11 15 11z
+           M36 48C36 48 21 52 15 48C9 44 8 39 8 39C8 39 7 47 15 52C23 57 36 48 36 48z"
+  />
+ </g>
+</svg>
