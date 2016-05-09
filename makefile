@@ -17,6 +17,9 @@ gitsync:
 	git commit -m "Updated from makefile"
 	git push origin
 
+preview:
+	sh src/mkpreview.sh
+
 sync:  $(NAME)
 	mkdir -p $(INSTALLDIR)
 	rsync -aHv --delete $(OUTDIR)/$(NAME)/ $(INSTALLDIR)/$(THEMENAME)
