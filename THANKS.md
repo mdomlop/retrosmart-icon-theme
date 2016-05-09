@@ -11,7 +11,7 @@ Also thanks to all those unknown authors who have not saved any reference and, t
 
 If you find an icon (or part thereof) containing material protected so it can not be distributed as GPL, please let me know and definitely erase.
 
-Thanks guys!
+Thanks you guys!
 
 
 ## Icons fromMeanwhile:
