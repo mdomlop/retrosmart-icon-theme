@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#000000; fill-opacity:0.4078"
+        d="M10.25 44.5L16.62 44.87L29.75 49.87L27.75 45.5L14.62 40.25L10.25 44.5z"
+        transform="matrix(1.0131,0,0,1.0131,3.6772,2.668)"
+  />
+  <path style="fill:#7a7a7a"
+        d="M15.25 46.25L18.75 41L20.5 41.37L15.25 46.25z"
+        transform="matrix(1.3581,0.1403,-0.0983,1.6956,-2.9162,-32.7273)"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="-64" y1="-64" x2="64" y2="-64">
+   <stop offset="1" stop-color="#909090"/>
+   <stop offset="0.5904" stop-color="#d4d4d4"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M5.62 39.75L18.87 11.37L37.37 18.37L44.5 57.87L32.62 52L31.37 45.37L16.87 38.37L13.62 43.37L5.62 39.75z"
+        transform="matrix(1.0702,0,0,0.9935,-0.2176,2.5446)"
+  />
+  <linearGradient id="gradient1" gradientUnits="userSpaceOnUse" x1="-64" y1="-64" x2="64" y2="-64">
+   <stop offset="0" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#d3d3d3"/>
+  </linearGradient>
+  <path style="fill:url(#gradient1)"
+        d="M18.37 11.5L26.37 6.25L44.62 12L39 20.87L18.37 11.5z"
+        transform="matrix(1.0702,0,0,0.9935,-0.2176,2.5446)"
+  />
+  <linearGradient id="gradient2" gradientUnits="userSpaceOnUse" x1="-64" y1="-64" x2="64" y2="-64">
+   <stop offset="0.3779" stop-color="#474747"/>
+   <stop offset="1" stop-color="#a0a0a0"/>
+  </linearGradient>
+  <path style="fill:url(#gradient2)"
+        d="M35.62 20L44.87 12.12L52.37 48.25L44.87 60.25L35.62 20z"
+        transform="matrix(1.0326,0,0,0.9935,1.7513,2.5446)"
+  />
+  <path style="fill:#151515"
+        d="M19 32.37L30.37 37.62L27.5 24L23.5 22.37L19 32.37z"
+        transform="matrix(1.0482,0,0,0.9935,0.1999,2.5446)"
+  />
+  <path style="fill:none; stroke:#000000; stroke-width:2"
+        d="M7.5 36.5L20.25 13.62L30.37 8.5L48.25 13.12L56.37 43.5L48.25 52.25L35.37 47.12L33.75 41.5L21.75 37.25L17.25 40.62L7.5 36.5z"
+        transform="matrix(1.0702,0,0,1.1995,-3.4284,-1.6554)"
+  />
+  <path style="fill:none; stroke:#00ff00; stroke-width:1"
+        d="M21.87 27.87L30.87 31.75"
+        transform="matrix(1.0131,0,0,0.9331,-0.1695,5.567)"
+  />
+  <path style="fill:#010101"
+        d="M54 4H56V26H54V4z"
+        transform="matrix(1,0,0,0.9488,-11,-0.7954)"
+  />
+  <path style="fill:#424142"
+        d="M32 16C23.16 16 16 23.16 16 32C16 40.83 23.16 48 32 48C40.83 48 48 40.83 48 32C48 23.16 40.83 16 32 16z"
+        transform="matrix(0.2216,0,0,0.372,40.4838,24.5085)"
+  />
+  <path style="fill:#424142"
+        d="M32 16C23.16 16 16 23.16 16 32C16 40.83 23.16 48 32 48C40.83 48 48 40.83 48 32C48 23.16 40.83 16 32 16z"
+        transform="matrix(0.1682,0,0,0.1003,31.2672,13.7384)"
+  />
+  <path style="fill:#424142"
+        d="M32 16C23.16 16 16 23.16 16 32C16 40.83 23.16 48 32 48C40.83 48 48 40.83 48 32C48 23.16 40.83 16 32 16z"
+        transform="matrix(0.1682,0,0,0.1003,25.1269,11.6602)"
+  />
+  <path style="fill:#010101"
+        d="M19.75 14.25L19.5 47L50.75 46.87L49 14L19.75 14.25z"
+        transform="matrix(0.1716,0.0854,-0.2833,0.5563,20.5767,8.1436)"
+  />
+  <path style="fill:#010101"
+        d="M17 13L16 48L49.12 52.5L48 16L17 13z"
+        transform="matrix(0.1871,0.0054,0.1704,0.7222,24.7169,12.0664)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,11.5,34.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,20.5,17.3749)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,18.5,17.3749)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,23.5,20.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,15.5,36.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,17.5,32.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,19.5,28.3749)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,21.5,24.3749)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,16.5,21.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,14.5,25.3749)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,10.5,33.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,12.4999,29.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,17.5,20.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,21.5,18.3749)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,22.5,21.3749)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,19.5,18.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,22.5,19.3749)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,20.5,19.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,18.5,19.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,21.5,20.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,19.5,20.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,20.5,25.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,20.5,21.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,18.5,21.3749)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,21.5,22.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,19.5,22.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,17.5,22.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,20.5,23.3749)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,18.5,23.3749)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,15.5,24.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,16.5,23.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,17.5,24.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,19.5,24.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,18.5,25.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,16.5,25.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,19.5,26.3749)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,17.5,26.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,15.5,26.3749)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,18.5,27.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,13.5,28.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,16.5,27.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,14.5,27.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,15.5,28.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,17.5,28.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,18.5,29.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,16.5,29.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,14.5,29.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,17.5,30.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,13.5,36.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,11.5,32.3749)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,16.5,33.3749)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,15.5,30.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,13.5,30.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,12.5,31.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,16.5,31.3749)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,14.5,31.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,13.5,32.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,15.5,32.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,14.5,33.3749)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,12.5,33.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,15.5,34.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,14.5,35.3749)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,13.5,34.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,12.5,35.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,31.5,26.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,36.5,27.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,38.5,35.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,31.5,30.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,34.5,43.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,38.5,47.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,39.5,40.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,37.5,32.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,33.5,38.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,30.5,25.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,33.5,22.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,30.5,21.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,35.5,24.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,38.5,37.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,40.5,45.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,40.5,47.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,34.5,41.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,37.5,46.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,39.5,46.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,32.5,33.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,38.5,45.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,36.5,45.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,39.5,44.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,37.5,44.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,35.5,44.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,38.5,43.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,36.5,43.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,37.5,42.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,39.5,42.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,35.5,42.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,38.5,41.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,36.5,41.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,37.5,40.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,35.5,40.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,38.5,39.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,36.5,39.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,34.5,39.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,37.5,38.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,35.5,38.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,36.5,37.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,34.5,37.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,37.5,36.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,35.5,36.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,33.5,36.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,36.5,35.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,34.5,35.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,37.5,34.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,35.5,34.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,33.5,34.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,36.5,33.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,34.5,33.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,35.5,32.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,33.5,32.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,36.5,31.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,34.5,23.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,31.5,22.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,32.5,23.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,30.5,23.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,33.5,24.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,31.5,24.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,34.5,25.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,32.5,25.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,34.5,31.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,32.5,31.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,35.5,26.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,35.5,30.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,33.5,30.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,36.5,29.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,35.5,28.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,31.5,28.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,34.5,29.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,32.5,29.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,33.5,28.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,34.5,27.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,32.5,27.375)"
+  />
+  <path style="fill:#bebebe"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,33.5,26.375)"
+  />
+  <path style="fill:#151515"
+        d="M40 14H42V24H40V14z"
+        transform="matrix(1,0,0,1,3,-0.125)"
+  />
+  <path style="fill:#8b8b8b"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,29.5,33.375)"
+  />
+  <path style="fill:#067d06"
+        d="M16 16V48H48V16H16z"
+        transform="matrix(0.0312,0,0,0.0312,21.5,30.375)"
+  />
+ </g>
+</svg>
