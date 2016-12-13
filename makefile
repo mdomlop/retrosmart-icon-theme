@@ -10,7 +10,7 @@ $(NAME): clean
 	mkdir $(OUTDIR)/$(NAME)
 	cp -a $(SRCDIR)/images/ $(OUTDIR)/$(NAME)/scalable
 	cp -a $(SRCDIR)/index.theme $(OUTDIR)/$(NAME)/
-	sh src/mklinks.sh $(SRCDIR) $(OUTDIR)/$(NAME)
+	sh src/mklinks.sh $(SRCDIR) $(OUTDIR)/$(NAME)/scalable
 
 gitsync:
 	git add .

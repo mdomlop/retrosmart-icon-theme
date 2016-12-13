@@ -9,7 +9,13 @@ do
     dest=$(echo $i | cut -d ' ' -f2-)
     for j in $(echo $dest | tr ' ' '\n')
     do
-        ln -s $orig "$destdir"/scalable/$j
+        cd "$destdir"
+        if [ -f "$destdir/$orig" ]
+        then
+            ln -s "$orig" "$j"
+        else
+            echo No existe "$destdir/$orig"
+        fi
     done
 done
 IFS="$OIFS"
