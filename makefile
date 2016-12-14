@@ -26,7 +26,7 @@ sync:  $(NAME)
 	chown -R root:root $(INSTALLDIR)/$(THEMENAME)/
 	chmod -R u=rwX,go=rX $(INSTALLDIR)/$(THEMENAME)/
 
-install: uninstall $(NAME)
+install: uninstall
 	mkdir -p $(INSTALLDIR)
 	cp -a $(OUTDIR)/$(NAME)/ $(INSTALLDIR)/$(THEMENAME)
 	chown -R root:root $(INSTALLDIR)/$(THEMENAME)/
