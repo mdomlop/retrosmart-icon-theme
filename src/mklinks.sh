@@ -3,6 +3,7 @@ srcdir="$1"
 destdir="$2"
 OIFS="$IFS"
 IFS=$'\n'
+suf='.svg'
 for i in $(cat "$srcdir"/links)
 do
     orig=$(echo $i | awk '{print $1}')
@@ -10,11 +11,11 @@ do
     for j in $(echo $dest | tr ' ' '\n')
     do
         cd "$destdir"
-        if [ -f "$destdir/$orig" ]
+        if [ -f "$destdir/$orig$suf" ]
         then
-            ln -s "$orig" "$j"
+            ln -s "$orig$suf" "$j$suf"
         else
-            echo No existe "$destdir/$orig"
+            echo No existe "$destdir/$orig$suf"
         fi
     done
 done
