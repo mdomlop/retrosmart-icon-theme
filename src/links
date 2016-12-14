@@ -1,6 +1,5 @@
-
-accessories-character-map gnome-character-map gucharmap kcharselect
 accessories accesorios
+accessories-character-map gnome-character-map gucharmap kcharselect
 action_goback_1 navigation_left go-previous back gtk-go-back-ltr gtk-go-forward-rtl previous stock_left go-back
 action_goforward_1 navigation_right go-next forward gtk-go-back-rtl gtk-go-forward-ltr next stock_right go-forward
 action_search logviewer
@@ -14,7 +13,7 @@ app-launcher gnome-panel-launcher
 app_automator gnome-robots
 app_beacon go-jump gtk-jump-to-ltr gtk-jump-to-rtl
 app_bikeshed docker systray
-app_cd_burner brasero gnome-dev-cdwriter stock_xfburn-burn-cd tvm-burn-cd
+app_cd_burner brasero gnome-dev-cdwriter stock_xfburn-burn-cd tvm-burn-cd tools-media-optical-burn-image
 app_debugger debug emblem-debug
 app_diskusage baobab filelight
 app_expander archive-extract extract-archive tap-extract
@@ -44,8 +43,8 @@ application-vnd.oasis.opendocument.image application-vnd.oasis.opendocument.grap
 application-vnd.oasis.opendocument.spreadsheet application-vnd.sun.xml.calc
 application-vnd.oasis.opendocument.spreadsheet gnome-mime-application-vnd.sun.xml.calc ooo_calc
 application-vnd.oasis.opendocument.text application-vnd.stardivision.writer application-vnd.sun.xml.writer gnome-mime-application-vnd.sun.xml.writer libreoffice-oasis-text
-application-x-bzip-compressed-tar gnome-mime-application-x-bzip-compressed-tar
 application-x-bzip gnome-mime-application-x-bzip
+application-x-bzip-compressed-tar gnome-mime-application-x-bzip-compressed-tar
 application-x-compress gnome-mime-application-x-compress
 application-x-core application-x-core-file
 application-x-deb gnome-mime-application-x-deb
@@ -81,6 +80,7 @@ arrow-left-red go-first gtk-goto-first-ltr gtk-goto-last-rtl start stock_first
 arrow-right-red go-last finish gtk-goto-first-rtl gtk-goto-last-ltr stock_last
 arrow-up-green arrow-up navigation_up go-up gtk-go-up stock_up up
 arrow-up-red go-top gtk-goto-top stock_top top
+audio sound gnome-audio gnome-mime-audio emblem-sound
 audio-card yast_soundcard
 audio-midi audio-x-midi gnome-mime-audio-x-midi
 audio-volume-high audio-volume-high-symbolic stock_volume-max stock_volume xfce4-mixer-volume-high xfce4-mixer-volume-very-high stock-volume
@@ -95,27 +95,26 @@ audio-x-mpegurl application-vnd.apple.mpegurl
 audio-x-vorbis+ogg application-ogg
 audio-x-vorbis+ogg gnome-mime-application-ogg
 audio-x-wav gnome-mime-audio-x-wav
-audio sound gnome-audio gnome-mime-audio emblem-sound
 avion_de_papel document-send send
-battery-000-charging xfpm-primary-000-charging battery-empty-charging-symbolic
+battery gnome-dev-battery
 battery-000 xfpm-primary-000 battery-empty-symbolic
-battery-020-charging xfpm-primary-020-charging battery-caution-charging-symbolic
+battery-000-charging xfpm-primary-000-charging battery-empty-charging-symbolic
 battery-020 xfpm-primary-020
-battery-040-charging xfpm-primary-040-charging
+battery-020-charging xfpm-primary-020-charging battery-caution-charging-symbolic
 battery-040 xfpm-primary-040
-battery-060-charging battery-good-charging-symbolic xfpm-primary-060-charging
+battery-040-charging xfpm-primary-040-charging
 battery-060 battery-good-symbolic xfpm-primary-060
-battery-080-charging xfpm-primary-080-charging
+battery-060-charging battery-good-charging-symbolic xfpm-primary-060-charging
 battery-080 xfpm-primary-080
-battery-100-charging xfpm-primary-100-charging battery-full-charging-symbolic
+battery-080-charging xfpm-primary-080-charging
 battery-100 xfpm-primary-100
+battery-100-charging xfpm-primary-100-charging battery-full-charging-symbolic
 battery-caution xfpm-primary-caution battery-caution-symbolic
 battery-charged xfpm-primary-charged battery-full-charged-symbolic
 battery-full battery-full-symbolic xfpm-primary-full
-battery-low-charging battery-low-charging-symbolic
 battery-low xfpm-primary-low battery-low-symbolic
+battery-low-charging battery-low-charging-symbolic
 battery-missing xfpm-primary-missing battery-missing-symbolic
-battery gnome-dev-battery
 bluetooth-disabled bluetooth-disabled-symbolic
 bookmark-new bookmark_add bookmarks_list_add stock_add-bookmark stock_help-add-bookmark
 bookmarks gnome-fs-bookmark user-bookmarks
@@ -124,28 +123,30 @@ box-grey classviewer-var openbox
 box-yellow emblem-box
 calculadora accessories-calculator galculator calc calculator gcalctool gnome-calc3 gnome-calculator kcalc
 camera-photo emblem-camera
-camera-video-unmount camera-unmount camera_unmount
 camera-video camera video_player
+camera-video-unmount camera-unmount camera_unmount
 camera-web codycam gnome-dev-camera skype vanity
 chat internet-group-chat xchat
+check checkbox checkbox-symbolic
 check-mixed checkbox-mixed checkbox-mixed-symbolic
 check-pressed checkbox-checked checkbox-checked-symbolic
-check checkbox checkbox-symbolic
 checkmark gtk-apply gtk-ok ok
 chess gnome-glchess pychess
 clipboard clipit xfce4-clipman-plugin
 clock alarm-symbolic emblem-urgent media-track-length
+code-class classviewer-class
+code-context classviewer-namespace
 compact_disc gmpc-no-cover
-computer-fail computer-fail-symbolic
 computer gnome-dev-computer my-computer
+computer-fail computer-fail-symbolic
 contact-new stock_new-bcard
 content-loading content-loading-symbolic image-loading gnome-fs-loading-icon
-cpu-frequency gnome-cpu-frequency-applet
 cpu gnome-cpu
+cpu-frequency gnome-cpu-frequency-applet
 daemon-music gmpc
 danger emblem-danger
-desktop-config gnome-desktop-config
 desktop emblem-desktop escritorio perlpanel-applet-showdesktop user-desktop gnome-fs-desktop gnome-ccdesktop
+desktop-config gnome-desktop-config
 dev-autorun cd-autorun autorun
 device_cd media-optical cdrom gnome-dev-cdrom
 device_harddisk harddisk drive-harddisk gnome-dev-harddisk
@@ -159,8 +160,8 @@ display-brightness display-brightness-symbolic xfpm-brightness-lcd
 dock avant-window-navigator awn-manager
 document-new filenew gtk-new new stock_new-text
 document-page-setup stock_print-setup
-document-print-preview filequickprint gtk-print-preview stock_print-preview print-preview
 document-print fileprint gtk-print stock_print
+document-print-preview filequickprint gtk-print-preview stock_print-preview print-preview
 document-properties properties stock_file-properites stock_properties
 document-revert gtk-revert-to-saved-ltr gtk-revert-to-saved-rtl revert
 download-from-internet emblem-downloads
@@ -170,8 +171,8 @@ drive-optical drive-cdrom
 drive-removable-media usbpendrive_unmount xfce-mount
 edit-clear editclear gtk-clear clear
 edit-delete editdelete gtk-delete stock_delete stock-gtk-remove
-edit-find-replace find-and-replace findreplace gtk-find-and-replace replace stock_search-and-replace
 edit-find filefind gtk-find stock_search
+edit-find-replace find-and-replace findreplace gtk-find-and-replace replace stock_search-and-replace
 edit-paste editpaste gtk-paste parcellite paste stock_paste
 edit-redo gtk-redo-ltr redo stock_redo
 edit-select-all gtk-select-all rox-select stock_select-all
@@ -188,8 +189,8 @@ face-monkey stock_smiley-22
 face-plain stock_smiley-8
 face-raspberry stock_smiley-10
 face-sad stock_smiley-4
-face-smile-big gaim_insert-smiley-small stock_smiley-6
 face-smile stock_smiley-1 stock_smiley-2 stock_smiley-7
+face-smile-big gaim_insert-smiley-small stock_smiley-6
 face-surprise stock_smiley-5
 face-wink stock_smiley-3
 faq help-faq
@@ -197,9 +198,12 @@ faro window-place_again
 file-clock ep-history
 file-generic dnd gtk-file
 file_archive package-x-generic application-x-archive application-x-arj application-x-cpio-compressed application-x-cpio application-x-lha application-x-lhz application-x-lzma-compressed-tar application-x-lzma application-x-stuffit deb gnome-mime-application-x-jar gnome-mime-application-x-java-archive rpm package emblem-package
+file_image_1 image gnome-mime-image emblem-photos emblem-pictures image-x-generic emblem-images
+file_image_2 image-bmp
 file_pipe inode-fifo gnome-fs-fifo
 file_playlist media-playlist
 file_rss_feed akregator
+file_sourcecode format-text-code
 floppy-2 media-floppy 3floppy_unmount gtk-floppy system-floppy
 floppy-3 gnome-dev-floppy
 floppy-black floppy disk-floppy document-save filesave gtk-save stock_save save system-save-session kfloppy
@@ -233,8 +237,6 @@ gimp gimp-logo wilber
 gmpc-tray-disconnected sonata_disconnect
 gmpc-tray-pause sonata_pause
 gmpc-tray-play pa sonata_play
-retrosmart-cd-player cd-player gnome-cd-player ario sonata gnome-cdplayer gnome-cdplayer-icon
-retrosmart-cd-player-play ario-play
 gnome-dev-firewire gnome-dev-harddisk-1394
 gnome-eyes gnome-eyes-applet
 gnome-panel-clock awn-applet-digital-clock
@@ -258,19 +260,18 @@ im comunicacion pidgin
 image-bmp gnome-mime-image-bmp
 image-gif gnome-mime-image-gif
 image-jpeg gnome-mime-image-jpeg
-image-missing brokenimage gtk-missing-image
 image-png gnome-mime-image-png
 image-xcf image-x-xcf
 inbox mail-folder-inbox
-info-browser help-browser khelpcenter susehelpcenter xfce-man
 info metadata
+info-browser help-browser khelpcenter susehelpcenter xfce-man
 input-gaming gnome-joystick joystick
 input-mouse gnome-dev-mouse-ball gnome-dev-mouse-optical gnome-dev-mouse mouse-capplet mouse xfce4-mouse yast_mouse
 joystick2 amusements
 keyboard-brightness keyboard-brightness-symbolic
 lock-close lock_close gdu-encrypted-lock password changes-prevent changes-prevent-symbolic channel-secure channel-secure-symbolic
-lock-open-alarm channel-insecure channel-insecure-symbolic
 lock-open lock_open gdu-encrypted-unlock changes-allow changes-allow-symbolic
+lock-open-alarm channel-insecure channel-insecure-symbolic
 magnet uget-icon
 mail-attachment stock_attach mail-attachment-symbolic
 mail-forward gnome-stock-mail-fwd mail_forward stock_mail-forward
@@ -280,8 +281,8 @@ mail-read mail-read-symbolic internet-mail mail_generic stock_mail-open email re
 mail-replied mail-replied-symbolic stock_mail-replied
 mail-reply-all mail_replyall stock_mail-reply-to-all
 mail-reply-sender gnome-stock-mail-rpl mail_reply stock_mail-reply
-mail-send-receive stock_mail-send-receive
 mail-send gnome-stock-mail-snd mail_send stock_mail-send
+mail-send-receive stock_mail-send-receive
 mail-unread stock_mail-unread mail-unread-symbolic
 media-eject eject player_eject stock-media-eject
 media-flash gnome-dev-media-cf gnome-dev-media-sdmmc gnome-dev-media-sm
@@ -296,9 +297,9 @@ media-seek-backward gtk-media-forward-rtl gtk-media-rewind-ltr player_rew stock-
 media-seek-forward gtk-media-forward-ltr gtk-media-rewind-rtl player_fwd stock-media-ffwd stock_media-fwd
 media-skip-backward gtk-media-next-rtl gtk-media-previous-ltr player_start stock_media-prev stock-media-prev
 media-skip-forward gtk-media-next-ltr gtk-media-previous-rtl player_end stock_media-next stock-media-next
+menu application-menu
 menu-apps-right ximian-redhat-config-nfs
 menu-editor xfce4-menueditor
-menu application-menu
 microphone-sensitivity-high microphone-sensitivity-high-symbolic
 microphone-sensitivity-low microphone-sensitivity-low-symbolic
 microphone-sensitivity-medium microphone-sensitivity-medium-symbolic
@@ -309,9 +310,8 @@ misc_bomb bomb bomba emblem-bomb gnome-gnomine gnomine inode-core window-destroy
 misc_imac screen
 misc_rip no_installed rip
 modem gnome-modem
-mozilla-mail mozilla-mail-icon
 mozilla firefox iceweasel
-retrosmart-multimedia-player multimedia-player multimedia-player-ipod-mini-blue gnome-dev-ipod ipod_mount
+mozilla-mail mozilla-mail-icon
 multimedia-volume-control arts gnome-alsamixer gnome-mixer gnome-volume-control kcmsound pavucontrol volume-knob volume xfce4-mixer
 naipes gnome-games sol
 network-3g network-cellular-3g network-cellular-3g-symbolic
@@ -325,12 +325,12 @@ network-idle connect_established gnome-netstatus-idle network-idle-symbolic
 network-offline connect_no gnome-netstatus-disconn network-offline-symbolic
 network-receive gnome-netstatus-rx network-receive-symbolic
 network-server gnome-fs-server gnome-mime-x-directory-nfs-server gnome-mime-x-directory-smb-server redhat-network-server server
-network-transmit-receive connect_creating gnome-netstatus-txrx network-transmit-receive-symbolic
 network-transmit gnome-netstatus-tx network-transmit-symbolic
-network-wired-offline network-wired-offline-symbolic
+network-transmit-receive connect_creating gnome-netstatus-txrx network-transmit-receive-symbolic
 network-wired gnome-dev-ethernet
-network-wireless-offline network-wireless-offline-symbolic
+network-wired-offline network-wired-offline-symbolic
 network-wireless gnome-dev-wavelan nm-device-wwan
+network-wireless-offline network-wireless-offline-symbolic
 network-workgroup gnome-fs-network gnome-mime-x-directory-smb-workgroup gtk-network network_local
 network_r4 internet emblem-web
 neurokernel.github.io-fly fly-red
@@ -353,11 +353,11 @@ preferences-desktop-keyboard-shortcuts gnome-settings-keybindings key_bindings
 preferences-desktop-locale config-language locale
 preferences-desktop-peripherals input_devices_settings
 preferences-desktop-remote-desktop gnome-remote-desktop krfb
+preferences-system package_settings redhat-system_settings xfce-system-settings
 preferences-system-network-proxy proxy-config proxy stock_proxy
 preferences-system-session gnome-session
 preferences-system-windows gnome-window-manager kcmkwm kwin
-preferences-system package_settings redhat-system_settings xfce-system-settings
-prefs_appearance theme preferences-desktop-theme style
+prefs_appearance theme preferences-desktop-theme style gnome-ccthemes gnome-settings-themes
 prefs_backgrounds preferences-desktop-wallpaper background-capplet background wallpaper xfce4-backdrop
 prefs_bluetooth preferences-system-bluetooth bluetooth bluetooth-active bluetooth-active-symbolic bluetooth-applet
 prefs_datatranslation convert giver gtk-convert
@@ -368,23 +368,30 @@ prefs_menu alacarte
 prefs_network preferences-system-network
 prefs_screensaver preferences-desktop-screensaver kscreensaver screensaver xscreensaver
 prefs_virtualmemory inode-chardevice chardevice gnome-fs-chardev
+printer gnome-dev-printer kjobviewer printer1 printer-remote printmgr print stock_printers xfce-printer yast_printer
 printer-error printer-error-symbolic
 printer-printing printer-printing-symbolic
 printer-warning printer-warning-symbolic
-printer gnome-dev-printer kjobviewer printer1 printer-remote printmgr print stock_printers xfce-printer yast_printer
 procman lxtask xosview
 pulseaudio padevchooser
 question-book help_book
 retrosmart-application application
+retrosmart-atom-red emblem-system atom katomic
 retrosmart-bluray media-optical-bluray
+retrosmart-box-white code-variable
 retrosmart-cd-audio media-optical-audio cd-audio gnome-cd gnome-dev-cdrom-audio gnome-cd-audio stock_xfburn-audio-cd
 retrosmart-cd-blank stock_xfburn-blank-cdrw
 retrosmart-cd-data media-optical-data
+retrosmart-cd-player cd-player gnome-cd-player ario sonata gnome-cdplayer gnome-cdplayer-icon
+retrosmart-cd-player-play ario-play
 retrosmart-dictionary xfce4-dict accessories-dictionary fantasdic
 retrosmart-document-save-all document-save-all
 retrosmart-document-save-as-template document-save-as-template
-retrosmart-image image gnome-mime-image emblem-photos emblem-pictures image-x-generic emblem-images
+retrosmart-document-shellscript shellscript application-x-shellscript text-x-csh
+retrosmart-image-broken image-missing brokenimage gtk-missing-image missing-image
 retrosmart-info-document info-contents help-contents text-x-texinfo application-x-gnome-app-info
+retrosmart-multimedia-player multimedia-player multimedia-player-ipod-mini-blue gnome-dev-ipod ipod_mount
+retrosmart-office-document-math libreoffice-math
 retrosmart-revert-to-saved revert-to-saved stock-revert-to-saved
 retrosmart-socket-white socket inode-socket xfpm-ac-adapter
 rhythmbox exaile
@@ -397,9 +404,6 @@ security-up security-high stock_lock-ok security-high-symbolic
 sensors xfce-sensors
 server_syslog anjuta
 settings ajustes
-retrosmart-office-document-math libreoffice-math
-retrosmart-document-shellscript shellscript application-x-shellscript text-x-csh
-file_sourcecode format-text-code
 software-update-available software-update-available-symbolic
 software-update-urgent software-update-urgent-symbolic
 sound-converter soundconverter
@@ -412,17 +416,14 @@ system-lock-screen lock xfce-system-lock
 system-log-out gnome-logout gnome-session-logout
 system-reboot reboot-cpu
 system-search kfind system-search-32
-code-context classviewer-namespace
-code-class classviewer-class
-retrosmart-box-white code-variable
 system-shutdown gnome-shutdown
 system-software-install system-installer gnome-codec-install
 system-software-update update-manager zen-icon icon-update
 system-suspend gnome-inhibit-applet xfpm-suspend
 system-users config-users kuser redhat-config-users system-config-users
 system_kernel applications-system gnome-system package_system redhat-system_tools xfce-system system
-tag-editor easytag tagtool
 tag tags media-tag tag-browser
+tag-editor easytag tagtool
 target diana window-center
 task-due task-due-symbolic
 task-past-due task-past-due-symbolic
@@ -434,16 +435,17 @@ text-html application-vnd.oasis.opendocument.text-web application-x-php html mim
 text-x-c++ text-x-c++src
 text-x-chdr text-x-c-header
 text-x-diff text-x-patch
-text-x-generic-template template_source
 text-x-generic ascii empty mime_ascii misc package_editors texto text txt2 txt unknown
+text-x-generic-template template_source
 text-x-install gnome-mime-text-x-install
 text-x-lyx application-x-lyx
 text-x-ruby application-x-ruby
 text-x-script application-x-python-bytecode stock_script text-x-zsh
 text_mode consoleonly modo_texto
 toolbox preferences-other
-tools-check-spelling gtk-spell-check stock_spellcheck
 tools gtk-preferences herramientas icon-system-tools preferences
+tools-check-spelling gtk-spell-check stock_spellcheck
+tracker_move edit-move
 tv me-tv
 user-away user-away-symbolic
 user-busy user-busy-symbolic
@@ -453,10 +455,11 @@ user-invisible user-invisible-symbolic
 user-offline user-offline-symbolic gaim_offline
 user-online user-online-symbolic gaim_online user-available user-available-symbolic
 user-status-pending user-status-pending-symbolic
-user-trash-full gnome-fs-trash-full gnome-stock-trash-full stock_trash_full trashcan_full xfce-trash_full user-trash-full-symbolic
 user-trash edittrash emptytrash gnome-fs-trash-empty gnome-stock-trash trashcan_empty trash xfce-trash_empty
+user-trash-full gnome-fs-trash-full gnome-stock-trash-full stock_trash_full trashcan_full xfce-trash_full user-trash-full-symbolic
 utilities-system-monitor gnome-monitor gnome-system-monitor ksysguard xfce4-taskmanager
 utilities-terminal gnome-terminal konsole lxterminal monitor openterm roxterm sakura terminal Terminal xfce-terminal x-terminal-emulator
+video gnome-mime-video
 video-display display xfce4-display
 video-mpeg gnome-mime-video-mpeg
 video-quicktime gnome-mime-video-quicktime
@@ -465,7 +468,6 @@ video-x-ms-asf gnome-mime-video-x-ms-asf
 video-x-ms-wmv gnome-mime-video-x-ms-wmv
 video-x-msvideo gnome-mime-video-x-msvideo
 video-x-ogm+ogg video-ogg
-video gnome-mime-video
 video_player mplayer mpv
 view-details rox-show-details
 view-fullscreen gtk-fullscreen stock_fullscreen window_fullscreen
@@ -473,15 +475,15 @@ view-restore gtk-leave-fullscreen stock_leave-fullscreen window_nofullscreen
 view-sort-ascending gtk-sort-ascending
 view-sort-descending gtk-sort-descending
 vim gvim
-weather-clear-night stock_weather-night-clear weather-clear-night-symbolic
 weather-clear stock_weather-sunny sunny weather-clear-symbolic
-weather-few-clouds-night stock_weather-night-few-clouds weather-few-clouds-night-symbolic
+weather-clear-night stock_weather-night-clear weather-clear-night-symbolic
 weather-few-clouds stock_weather-few-clouds weather-few-clouds-symbolic
+weather-few-clouds-night stock_weather-night-few-clouds weather-few-clouds-night-symbolic
 weather-fog stock_weather-fog weather-fog-symbolic
 weather-overcast stock_weather-cloudy weather-overcast-symbolic
 weather-severe-alert weather-severe-alert-symbolic
-weather-showers-scattered weather-showers-scattered-symbolic
 weather-showers stock_weather-showers weather-showers-symbolic
+weather-showers-scattered weather-showers-scattered-symbolic
 weather-snow stock_weather-snow weather-snow-symbolic
 weather-storm stock_weather-storm weather-storm-symbolic
 webpositive_r2 web-browser chromium-browser chromium qupzilla epiphany internet-web-browser webbrowser x-www-browser browser redhat-web-browser gnome-web-browser
