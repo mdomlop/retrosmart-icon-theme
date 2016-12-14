@@ -233,7 +233,8 @@ gimp gimp-logo wilber
 gmpc-tray-disconnected sonata_disconnect
 gmpc-tray-pause sonata_pause
 gmpc-tray-play pa sonata_play
-gnome-cd-player sonata gnome-cdplayer gnome-cdplayer-icon
+retrosmart-cd-player cd-player gnome-cd-player ario sonata gnome-cdplayer gnome-cdplayer-icon
+retrosmart-cd-player-play ario-play
 gnome-dev-firewire gnome-dev-harddisk-1394
 gnome-eyes gnome-eyes-applet
 gnome-panel-clock awn-applet-digital-clock
@@ -310,7 +311,7 @@ misc_rip no_installed rip
 modem gnome-modem
 mozilla-mail mozilla-mail-icon
 mozilla firefox iceweasel
-multimedia-player gnome-dev-ipod ipod_mount
+retrosmart-multimedia-player multimedia-player multimedia-player-ipod-mini-blue gnome-dev-ipod ipod_mount
 multimedia-volume-control arts gnome-alsamixer gnome-mixer gnome-volume-control kcmsound pavucontrol volume-knob volume xfce4-mixer
 naipes gnome-games sol
 network-3g network-cellular-3g network-cellular-3g-symbolic
@@ -396,7 +397,9 @@ security-up security-high stock_lock-ok security-high-symbolic
 sensors xfce-sensors
 server_syslog anjuta
 settings ajustes
-shellscript application-x-shellscript text-x-csh
+retrosmart-office-document-math libreoffice-math
+retrosmart-document-shellscript shellscript application-x-shellscript text-x-csh
+file_sourcecode format-text-code
 software-update-available software-update-available-symbolic
 software-update-urgent software-update-urgent-symbolic
 sound-converter soundconverter
@@ -409,6 +412,9 @@ system-lock-screen lock xfce-system-lock
 system-log-out gnome-logout gnome-session-logout
 system-reboot reboot-cpu
 system-search kfind system-search-32
+code-context classviewer-namespace
+code-class classviewer-class
+retrosmart-box-white code-variable
 system-shutdown gnome-shutdown
 system-software-install system-installer gnome-codec-install
 system-software-update update-manager zen-icon icon-update
