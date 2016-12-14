@@ -71,6 +71,7 @@ applications-internet avaible gnome-globe net package_network redhat-internet st
 applications-multimedia gnome-multimedia multimedia package_multimedia redhat-sound_video xfce-multimedia xfmpc
 applications-office gnome-applications loffice office oficina package_office redhat-office xfce-office
 applications-other gnome-other
+retrosmart-binary-stream application-octet-stream application-x-executable-binary application-x-macbinary
 appointment-missed stock_appointment-reminder-excl appointment-missed-symbolic
 appointment-new appointment stock_new-appointment appointment-new-symbolic
 appointment-soon stock_appointment-reminder appointment-soon-symbolic
