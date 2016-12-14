@@ -13,12 +13,19 @@ If you find an icon (or part thereof) containing material protected so it can no
 
 Thanks you guys!
 
+## Icons from Haiku Icons project on GitHub:
 
-## Icons fromMeanwhile:
+- <https://github.com/darealshinji/haiku-icons>
 
-- http://www.xs4all.nl/~rrvvww/HBBIv5.6.1.zip
-- http://www.xs4all.nl/~rrvvww/BeBeautifiedIcons3.1.zip
+## Icons from Meanwhile:
+
+- <http://www.xs4all.nl/~rrvvww/HBBIv5.6.1.zip>
+- <http://www.xs4all.nl/~rrvvww/BeBeautifiedIcons3.1.zip>
 
 ## Other Haiku OS icons:
 
-- http://zumi.xoom.it/myhaiku/
+- <http://zumi.xoom.it/myhaiku/>
+
+## Openclipart:
+
+- <https://openclipart.org/>
