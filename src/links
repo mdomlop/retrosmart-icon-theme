@@ -1,36 +1,44 @@
+retrosmart-device-harddisk-play gdu-mount
+retrosmart-device-harddisk-stop gdu-unmount
 accessories accesorios
 accessories-character-map gnome-character-map gucharmap kcharselect
-action_goback_1 navigation_left go-previous back gtk-go-back-ltr gtk-go-forward-rtl previous stock_left go-back
-action_goforward_1 navigation_right go-next forward gtk-go-back-rtl gtk-go-forward-ltr next stock_right go-forward
-action_search logviewer
-action_stop process-stop gtk-cancel gtk-stop stock_stop stop navigation_stop
+haikuos-action_goback_1 navigation_left go-previous back gtk-go-back-ltr gtk-go-forward-rtl previous stock_left go-back
+haikuos-action_goforward_1 navigation_right go-next forward gtk-go-back-rtl gtk-go-forward-ltr next stock_right go-forward
+haikuos-action_search logviewer
+haikuos-action_stop process-stop gtk-cancel gtk-stop stock_stop stop navigation_stop close
 address-book-new stock_new-address-book
-alert_idea emblem-idea
-alert_info information info window-identify emblem-information
-alert_stop dialog-error dialog_error dialog-error-symbolic error gtk-dialog-error messagebox_critical stock_dialog-error
-alert_warning emblem-warning emblem-important dialog-warning dialog_warning dialog-warning-symbolic gtk-dialog-warning important messagebox_warning stock_dialog-warning
+haikuos-alert_idea emblem-idea
+haikuos-alert_info information info window-identify emblem-information
+retrosmart-misc-antenna-transmit knemo-wireless-transmit
+retrosmart-misc-antenna-transmit-receive knemo-wireless-transmit-receive
+retrosmart-misc-antenna-receive knemo-wireless-receive network-wireless
+retrosmart-misc-antenna-idle knemo-wireless-idle
+retrosmart-misc-antenna-offline knemo-wireless-offline network-wireless-offline
+retrosmart-misc-antenna-error knemo-wireless-error
+haikuos-alert_stop dialog-error dialog_error dialog-error-symbolic error gtk-dialog-error messagebox_critical stock_dialog-error
+retrosmart-app-rubyripper rubyripper
+haikuos-alert_warning emblem-warning emblem-important dialog-warning dialog_warning dialog-warning-symbolic gtk-dialog-warning important messagebox_warning stock_dialog-warning
 app-launcher gnome-panel-launcher
-app_automator gnome-robots
-app_beacon go-jump gtk-jump-to-ltr gtk-jump-to-rtl
-app_bikeshed docker systray
-app_cd_burner brasero gnome-dev-cdwriter stock_xfburn-burn-cd tvm-burn-cd tools-media-optical-burn-image
-app_debugger debug emblem-debug
-app_diskusage baobab filelight
-app_expander archive-extract extract-archive tap-extract
-app_expander_3 tap-extract-to
-app_finance homebank gnucash
-app_gldirectmode draw-cuboid
-app_haiku3d start-here distributor-logo gnome-main-menu novell-button
-app_imageeditor applications-graphics emblem-art gnome-graphics graficos package_graphics palette redhat-graphics xfce-graphics gpaint kolourpaint mypaint
-app_launchbox system-run gnome-run grun gtk-execute
-app_magnify lupa find viewer view zoom
-app_mail mail claws-mail xfce-newmail
-app_mail_none no-mail xfce-nomail
-app_midiplayer milkytracker tracker
-app_netsurf_original netsurf
-app_opencubicplayer ocp
-app_teapot emblem-generic teapot emblem-default rox-xattr
-app_virtualbox virtualbox
+haikuos-app_automator gnome-robots
+haikuos-app_bikeshed docker systray
+haikuos-app_cd_burner brasero gnome-dev-cdwriter stock_xfburn-burn-cd tvm-burn-cd tools-media-optical-burn-image
+haikuos-app_debugger debug emblem-debug
+haikuos-app_diskusage baobab filelight
+haikuos-app_expander archive-extract extract-archive tap-extract
+haikuos-app_expander_3 tap-extract-to
+haikuos-app_finance homebank gnucash
+haikuos-app_gldirectmode draw-cuboid
+haikuos-app_haiku3d start-here distributor-logo gnome-main-menu novell-button
+haikuos-app_imageeditor applications-graphics emblem-art gnome-graphics graficos package_graphics palette redhat-graphics xfce-graphics gpaint kolourpaint mypaint
+haikuos-app_launchbox system-run gnome-run grun gtk-execute
+haikuos-app_magnify lupa find viewer view zoom
+haikuos-app_mail mail claws-mail xfce-newmail
+haikuos-app_mail_none no-mail xfce-nomail
+haikuos-app_midiplayer milkytracker tracker
+haikuos-app_netsurf_original netsurf
+haikuos-app_opencubicplayer ocp
+haikuos-app_teapot emblem-generic teapot emblem-default rox-xattr
+haikuos-app_virtualbox virtualbox
 applets-screenshooter screenshot
 application-7zip application-x-7z-compressed
 application-certificate stock_certificate
@@ -71,7 +79,6 @@ applications-internet avaible gnome-globe net package_network redhat-internet st
 applications-multimedia gnome-multimedia multimedia package_multimedia redhat-sound_video xfce-multimedia xfmpc
 applications-office gnome-applications loffice office oficina package_office redhat-office xfce-office
 applications-other gnome-other
-retrosmart-binary-stream application-octet-stream application-x-executable-binary application-x-macbinary
 appointment-missed stock_appointment-reminder-excl appointment-missed-symbolic
 appointment-new appointment stock_new-appointment appointment-new-symbolic
 appointment-soon stock_appointment-reminder appointment-soon-symbolic
@@ -80,14 +87,17 @@ arrow-down-red go-bottom bottom gtk-goto-bottom stock_bottom
 arrow-left-red go-first gtk-goto-first-ltr gtk-goto-last-rtl start stock_first
 arrow-right-red go-last finish gtk-goto-first-rtl gtk-goto-last-ltr stock_last
 arrow-up-green arrow-up navigation_up go-up gtk-go-up stock_up up
+retrosmart-funnel view-filter
+retrosmart-funnel-add kt-add-filters
+retrosmart-funnel-remove kt-remove-filters
 arrow-up-red go-top gtk-goto-top stock_top top
 audio sound gnome-audio gnome-mime-audio emblem-sound
 audio-card yast_soundcard
 audio-midi audio-x-midi gnome-mime-audio-x-midi
-audio-volume-high audio-volume-high-symbolic stock_volume-max stock_volume xfce4-mixer-volume-high xfce4-mixer-volume-very-high stock-volume
+audio-volume-high audio-volume-high-symbolic stock_volume-max stock_volume xfce4-mixer-volume-high xfce4-mixer-volume-very-high stock-volume player-volume
 audio-volume-low audio-volume-low-symbolic stock_volume-0 stock_volume-min xfce4-mixer-volume-low xfce4-mixer-volume-ultra-low
 audio-volume-medium audio-volume-medium-symbolic stock_volume-med xfce4-mixer-volume-low-medium xfce4-mixer-volume-medium
-audio-volume-muted audio-volume-muted-symbolic stock_volume-mute xfce4-mixer-muted xfce4-mixer-volume-muted
+audio-volume-muted audio-volume-muted-symbolic stock_volume-mute xfce4-mixer-muted xfce4-mixer-volume-muted audio-off
 audio-x-aiff gnome-mime-audio-x-aiff
 audio-x-flac audio-flac
 audio-x-generic audio-generic
@@ -149,10 +159,10 @@ danger emblem-danger
 desktop emblem-desktop escritorio perlpanel-applet-showdesktop user-desktop gnome-fs-desktop gnome-ccdesktop
 desktop-config gnome-desktop-config
 dev-autorun cd-autorun autorun
-device_cd media-optical cdrom gnome-dev-cdrom
-device_harddisk harddisk drive-harddisk gnome-dev-harddisk
-device_harddisk_development harddisk-label gnome-fs-blockdev gnome-fs-filesystem inode-blockdevice
-device_sd media-flash-sd-mmc sd
+haikuos-device_cd media-optical cdrom gnome-dev-cdrom
+haikuos-device_harddisk harddisk drive-harddisk gnome-dev-harddisk
+haikuos-device_harddisk_development harddisk-label gnome-fs-blockdev gnome-fs-filesystem inode-blockdevice
+haikuos-device_sd media-flash-sd-mmc sd
 dialog-apply dialog-ok dialog-yes rox-mounted
 dialog-information dialog_information dialog-information-symbolic dialog_info gtk-dialog-info messagebox_info stock_dialog-info
 dialog-password dialog-password-symbolic gtk-dialog-authentication stock_keyring
@@ -167,6 +177,7 @@ document-properties properties stock_file-properites stock_properties
 document-revert gtk-revert-to-saved-ltr gtk-revert-to-saved-rtl revert
 download-from-internet emblem-downloads
 drawer cajon file-manager kfm redhat-filemanager rox system-file-manager thunar Thunar xfce-filemanager filebrowser
+haikuos-misc_usb_black gnome-dev-harddisk-usb drive-removable-media-usb gnome-dev-removable-usb
 drive-harddisk gtk-harddisk harddrive hdd_unmount yast_HD yast_idetude
 drive-optical drive-cdrom
 drive-removable-media usbpendrive_unmount xfce-mount
@@ -198,13 +209,13 @@ faq help-faq
 faro window-place_again
 file-clock ep-history
 file-generic dnd gtk-file
-file_archive package-x-generic application-x-archive application-x-arj application-x-cpio-compressed application-x-cpio application-x-lha application-x-lhz application-x-lzma-compressed-tar application-x-lzma application-x-stuffit deb gnome-mime-application-x-jar gnome-mime-application-x-java-archive rpm package emblem-package
-file_image_1 image gnome-mime-image emblem-photos emblem-pictures image-x-generic emblem-images
-file_image_2 image-bmp
-file_pipe inode-fifo gnome-fs-fifo
-file_playlist media-playlist
-file_rss_feed akregator
-file_sourcecode format-text-code
+haikuos-file_archive package-x-generic application-x-archive application-x-arj application-x-cpio-compressed application-x-cpio application-x-lha application-x-lhz application-x-lzma-compressed-tar application-x-lzma application-x-stuffit deb gnome-mime-application-x-jar gnome-mime-application-x-java-archive rpm package emblem-package
+haikuos-file_image_1 image gnome-mime-image emblem-photos emblem-pictures image-x-generic emblem-images
+haikuos-file_image_2 image-bmp gnome-mime-image-bmp
+haikuos-file_pipe inode-fifo gnome-fs-fifo
+haikuos-file_playlist media-playlist
+haikuos-file_rss_feed akregator
+haikuos-file_sourcecode format-text-code
 floppy-2 media-floppy 3floppy_unmount gtk-floppy system-floppy
 floppy-3 gnome-dev-floppy
 floppy-black floppy disk-floppy document-save filesave gtk-save stock_save save system-save-session kfloppy
@@ -245,11 +256,11 @@ gnote xpad
 gtk-select-color gcolor2
 haiku-microphone microphone audio-input-microphone gnome-stock-mic stock_mic
 hammer config
-harddisk-check-disk gdu-check-disk
-harddisk-clean bleachbit
-harddisk-info gdu-info.sg
-harddisk-new disk-new
-harddisk-warning gdu-warning
+retrosmart-device-harddisk-check gdu-check-disk
+retrosmart-device-harddisk-clean bleachbit
+retrosmart-device-harddisk-info gdu-info.sg
+retrosmart-device-harddisk-new disk-new
+retrosmart-device-harddisk-warning gdu-warning
 hardware-info hwbrowser hwinfo
 hbbi-abiword abiword abiword_48
 hbbi-aplayer audacious
@@ -258,22 +269,35 @@ heart gnome-favorites donate emblem-favorite bookmark
 help-about stock_about
 home go-home gohome gnome-home gtk-home kfm_home redhat-home stock_home
 im comunicacion pidgin
-image-bmp gnome-mime-image-bmp
-image-gif gnome-mime-image-gif
-image-jpeg gnome-mime-image-jpeg
-image-png gnome-mime-image-png
-image-xcf image-x-xcf
+retrosmart-image-gif image-gif gnome-mime-image-gif
+retrosmart-image-jpeg image-jpeg gnome-mime-image-jpeg
+retrosmart-image-png image-png gnome-mime-image-png
+retrosmart-image-svg+xml image-svg+xml
+retrosmart-image-svg+xml-compressed image-svg+xml-compressed
+retrosmart-image-tiff image-tiff
+retrosmart-image-vnd.dgn image-vnd.dgn
+retrosmart-image-vnd.djvu image-vnd.djvu
+retrosmart-image-vnd.dwg image-vnd.dwg
+retrosmart-image-x-adobe-dng image-x-adobe-dng
+retrosmart-image-xcf image-xcf image-x-xcf
+retrosmart-image-x-ico image-x-icon
+retrosmart-image-x-psd image-x-psd
+retrosmart-image-x-tga image-x-tga
+retrosmart-image-x-vnd.trolltech.qpicture image-x-vnd.trolltech.qpicture
+retrosmart-image-x-xpixmap image-xpixmap
 inbox mail-folder-inbox
 info metadata
 info-browser help-browser khelpcenter susehelpcenter xfce-man
 input-gaming gnome-joystick joystick
 input-mouse gnome-dev-mouse-ball gnome-dev-mouse-optical gnome-dev-mouse mouse-capplet mouse xfce4-mouse yast_mouse
+retrosmart-network-share preferences-system-network-sharing
+retrosmart-network-proxy preferences-system-network-proxy
 joystick2 amusements
 keyboard-brightness keyboard-brightness-symbolic
 lock-close lock_close gdu-encrypted-lock password changes-prevent changes-prevent-symbolic channel-secure channel-secure-symbolic
 lock-open lock_open gdu-encrypted-unlock changes-allow changes-allow-symbolic
 lock-open-alarm channel-insecure channel-insecure-symbolic
-magnet uget-icon
+retrosmart-magnet uget-icon kt-magnet
 mail-attachment stock_attach mail-attachment-symbolic
 mail-forward gnome-stock-mail-fwd mail_forward stock_mail-forward
 mail-mark-junk mail_spam
@@ -306,10 +330,10 @@ microphone-sensitivity-low microphone-sensitivity-low-symbolic
 microphone-sensitivity-medium microphone-sensitivity-medium-symbolic
 microphone-sensitivity-muted microphone-sensitivity-muted-symbolic
 minus restar list_remove list-remove gtk-remove remove
-misc_birthday_cake view-calendar-birthday
-misc_bomb bomb bomba emblem-bomb gnome-gnomine gnomine inode-core window-destroy gnome-mines bomber edit-bomb
-misc_imac screen
-misc_rip no_installed rip
+haikuos-misc_birthday_cake view-calendar-birthday
+haikuos-misc_bomb bomb bomba emblem-bomb gnome-gnomine gnomine inode-core window-destroy gnome-mines bomber edit-bomb
+haikuos-misc_imac screen
+haikuos-misc_rip no_installed rip
 modem gnome-modem
 mozilla firefox iceweasel
 mozilla-mail mozilla-mail-icon
@@ -358,17 +382,17 @@ preferences-system package_settings redhat-system_settings xfce-system-settings
 preferences-system-network-proxy proxy-config proxy stock_proxy
 preferences-system-session gnome-session
 preferences-system-windows gnome-window-manager kcmkwm kwin
-prefs_appearance theme preferences-desktop-theme style gnome-ccthemes gnome-settings-themes
-prefs_backgrounds preferences-desktop-wallpaper background-capplet background wallpaper xfce4-backdrop
-prefs_bluetooth preferences-system-bluetooth bluetooth bluetooth-active bluetooth-active-symbolic bluetooth-applet
-prefs_datatranslation convert giver gtk-convert
-prefs_fonts font preferences-desktop-font dialog-text-and-font
-prefs_keyboard input-keyboard gnome-dev-keyboard keyboard kxkb xfce4-keyboard keyboard-shortcut
-prefs_media preferences-desktop gnome-control-center gnome-settings kcontrol redhat-preferences xfce4-settings adjustlevels
-prefs_menu alacarte
-prefs_network preferences-system-network
-prefs_screensaver preferences-desktop-screensaver kscreensaver screensaver xscreensaver
-prefs_virtualmemory inode-chardevice chardevice gnome-fs-chardev
+haikuos-prefs_appearance theme preferences-desktop-theme style gnome-ccthemes gnome-settings-themes
+haikuos-prefs_backgrounds preferences-desktop-wallpaper background-capplet background wallpaper xfce4-backdrop
+haikuos-prefs_bluetooth preferences-system-bluetooth bluetooth bluetooth-active bluetooth-active-symbolic bluetooth-applet
+haikuos-prefs_datatranslation convert giver gtk-convert
+haikuos-prefs_fonts font preferences-desktop-font dialog-text-and-font
+haikuos-prefs_keyboard input-keyboard gnome-dev-keyboard keyboard kxkb xfce4-keyboard keyboard-shortcut
+haikuos-prefs_media preferences-desktop gnome-control-center gnome-settings kcontrol redhat-preferences xfce4-settings adjustlevels
+haikuos-prefs_menu alacarte
+haikuos-prefs_network preferences-system-network
+haikuos-prefs_screensaver preferences-desktop-screensaver kscreensaver screensaver xscreensaver
+haikuos-prefs_virtualmemory inode-chardevice chardevice gnome-fs-chardev
 printer gnome-dev-printer kjobviewer printer1 printer-remote printmgr print stock_printers xfce-printer yast_printer
 printer-error printer-error-symbolic
 printer-printing printer-printing-symbolic
@@ -376,8 +400,10 @@ printer-warning printer-warning-symbolic
 procman lxtask xosview
 pulseaudio padevchooser
 question-book help_book
+retrosmart-app_beacon go-jump gtk-jump-to-ltr gtk-jump-to-rtl
 retrosmart-application application
 retrosmart-atom-red emblem-system atom katomic
+retrosmart-binary-stream application-octet-stream application-x-executable-binary application-x-macbinary
 retrosmart-bluray media-optical-bluray
 retrosmart-box-white code-variable
 retrosmart-cd-audio media-optical-audio cd-audio gnome-cd gnome-dev-cdrom-audio gnome-cd-audio stock_xfburn-audio-cd
@@ -403,7 +429,7 @@ security-critical security-low stock_lock-broken stock_lock-open security-low-sy
 security-ok security-medium stock_lock security-medium-symbolic
 security-up security-high stock_lock-ok security-high-symbolic
 sensors xfce-sensors
-server_syslog anjuta
+haikuos-server_syslog anjuta
 settings ajustes
 software-update-available software-update-available-symbolic
 software-update-urgent software-update-urgent-symbolic
@@ -446,7 +472,7 @@ text_mode consoleonly modo_texto
 toolbox preferences-other
 tools gtk-preferences herramientas icon-system-tools preferences
 tools-check-spelling gtk-spell-check stock_spellcheck
-tracker_move edit-move
+haikuos-tracker_move edit-move
 tv me-tv
 user-away user-away-symbolic
 user-busy user-busy-symbolic
