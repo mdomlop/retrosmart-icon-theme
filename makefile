@@ -12,7 +12,7 @@ $(NAME): clean
 	cp -a $(SRCDIR)/index.theme $(OUTDIR)/$(NAME)/
 	sh src/mklinks.sh $(SRCDIR) $(OUTDIR)/$(NAME)/scalable
 
-gitsync:
+gitsync: preview
 	git add .
 	git commit -m "Updated from makefile"
 	git push origin
