@@ -1,18 +1,18 @@
 THEMENAME='retrosmart-icon-theme'
 SUFFIX=''
 NAME=$(THEMENAME)$(SUFFIX)
-SRCDIR='src'
+MYSRCDIR='src'
 OUTDIR='.'
 PREFIX='/usr'
 INSTALLDIR=$(PREFIX)'/share/icons'
 
-$(NAME): clean
+$(NAME):
 	mkdir $(OUTDIR)/$(NAME)
-	cp -a $(SRCDIR)/images/ $(OUTDIR)/$(NAME)/scalable
-	cp -a $(SRCDIR)/index.theme $(OUTDIR)/$(NAME)/
-	sh src/mklinks.sh $(SRCDIR) $(OUTDIR)/$(NAME)/scalable
+	cp -a $(MYSRCDIR)/images/ $(OUTDIR)/$(NAME)/scalable
+	cp -a $(MYSRCDIR)/index.theme $(OUTDIR)/$(NAME)/
+	sh src/mklinks.sh $(MYSRCDIR) $(OUTDIR)/$(NAME)/scalable
 
-gitsync: preview
+togit: preview
 	git add .
 	git commit -m "Updated from makefile"
 	git push origin

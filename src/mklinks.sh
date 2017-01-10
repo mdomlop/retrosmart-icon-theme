@@ -1,21 +1,21 @@
 #!/bin/sh
-srcdir="$1"
-destdir="$2"
+mysrcdir="$1"
+mydestdir="$2"
 OIFS="$IFS"
 IFS=$'\n'
 suf='.svg'
-for i in $(cat "$srcdir"/links)
+for i in $(cat "$mysrcdir"/links)
 do
     orig=$(echo $i | awk '{print $1}')
     dest=$(echo $i | cut -d ' ' -f2-)
     for j in $(echo $dest | tr ' ' '\n')
     do
-        cd "$destdir"
-        if [ -f "$destdir/$orig$suf" ]
+        cd "$mydestdir"
+        if [ -f "$mydestdir/$orig$suf" ]
         then
-            ln -s "$orig$suf" "$j$suf"
+            ln -sf "$orig$suf" "$j$suf"
         else
-            echo No existe "$destdir/$orig$suf"
+            echo No existe "$mydestdir/$orig$suf"
         fi
     done
 done

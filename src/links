@@ -2,7 +2,7 @@ accessories accesorios
 accessories-character-map gnome-character-map gucharmap kcharselect
 address-book-new stock_new-address-book
 app-launcher gnome-panel-launcher
-applets-screenshooter screenshot
+applets-screenshooter screenshot spectacle
 application-7zip application-x-7z-compressed
 application-certificate stock_certificate
 application-msword gnome-mime-application-msword
@@ -39,7 +39,7 @@ applications-development gnome-devel package_development programacion programaci
 applications-education educacion education
 applications-games juegos package_games redhat-games xfce-games
 applications-internet avaible gnome-globe net package_network redhat-internet stock_internet xfce-internet
-applications-multimedia gnome-multimedia multimedia package_multimedia redhat-sound_video xfce-multimedia xfmpc
+applications-multimedia gnome-multimedia multimedia package_multimedia redhat-sound_video xfce-multimedia
 applications-office gnome-applications loffice office oficina package_office redhat-office xfce-office
 applications-other gnome-other
 appointment-missed stock_appointment-reminder-excl appointment-missed-symbolic
@@ -114,7 +114,7 @@ contact-new stock_new-bcard
 content-loading content-loading-symbolic image-loading gnome-fs-loading-icon
 cpu gnome-cpu
 cpu-frequency gnome-cpu-frequency-applet
-daemon-music gmpc
+retrosmart-music-daemon gmpc cantata xfmpc
 danger emblem-danger
 desktop emblem-desktop escritorio perlpanel-applet-showdesktop user-desktop gnome-fs-desktop gnome-ccdesktop
 desktop-config gnome-desktop-config
@@ -200,7 +200,7 @@ gnome-dev-firewire gnome-dev-harddisk-1394
 gnome-eyes gnome-eyes-applet
 gnome-panel-clock awn-applet-digital-clock
 gnote xpad
-gtk-select-color gcolor2
+retrosmart-select-color gtk-select-color kcolorchooser gcolor2
 haiku-microphone microphone audio-input-microphone gnome-stock-mic stock_mic
 haikuos-action_goback_1 navigation_left go-previous back gtk-go-back-ltr gtk-go-forward-rtl previous stock_left go-back
 haikuos-action_goforward_1 navigation_right go-next forward gtk-go-back-rtl gtk-go-forward-ltr next stock_right go-forward
@@ -225,7 +225,9 @@ haikuos-app_haiku3d start-here distributor-logo gnome-main-menu novell-button
 haikuos-app_imageeditor applications-graphics emblem-art gnome-graphics graficos package_graphics palette redhat-graphics xfce-graphics gpaint kolourpaint mypaint
 haikuos-app_launchbox system-run gnome-run grun gtk-execute
 haikuos-app_magnify lupa find viewer view zoom
-haikuos-app_mail mail claws-mail xfce-newmail
+haikuos-app_mail mail
+haikuos-server_maildaemon kmail claws-mail xfce-newmail
+retrosmart-on-screen-keyboard onboard
 haikuos-app_mail_none no-mail xfce-nomail
 haikuos-app_midiplayer milkytracker tracker
 haikuos-app_netsurf_original netsurf
@@ -254,7 +256,7 @@ haikuos-prefs_bluetooth preferences-system-bluetooth bluetooth bluetooth-active 
 haikuos-prefs_datatranslation convert giver gtk-convert
 haikuos-prefs_fonts font preferences-desktop-font dialog-text-and-font
 haikuos-prefs_keyboard input-keyboard gnome-dev-keyboard keyboard kxkb xfce4-keyboard keyboard-shortcut
-haikuos-prefs_media preferences-desktop gnome-control-center gnome-settings kcontrol redhat-preferences xfce4-settings adjustlevels
+haikuos-prefs_media preferences-desktop gnome-control-center gnome-settings kcontrol redhat-preferences xfce4-settings adjustlevels qasmixer
 haikuos-prefs_menu alacarte
 haikuos-prefs_network preferences-system-network network-idle connect_established gnome-netstatus-idle network-idle-symbolic knemo-network-idle
 haikuos-prefs_screensaver preferences-desktop-screensaver kscreensaver screensaver xscreensaver
@@ -405,6 +407,7 @@ retrosmart-misc-antenna-idle knemo-wireless-idle
 retrosmart-misc-antenna-offline knemo-wireless-offline network-wireless-offline network-wireless-offline-symbolic
 retrosmart-misc-antenna-receive knemo-wireless-receive network-wireless gnome-dev-wavelan nm-device-wwan
 retrosmart-misc-antenna-transmit knemo-wireless-transmit
+haikuos-app_transmission transmission transmission-qt
 retrosmart-misc-antenna-transmit-receive knemo-wireless-transmit-receive
 retrosmart-multimedia-player multimedia-player multimedia-player-ipod-mini-blue gnome-dev-ipod ipod_mount
 retrosmart-network-error network-error gnome-netstatus-error network-error-symbolic
