@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:none; stroke:#000000; stroke-opacity:0.4; stroke-width:4; stroke-linecap:round; stroke-linejoin:round"
+        d="M40 40H2V1.99H36L40 6V40z"
+        transform="matrix(1.409,0,0,1.409,3.8181,3.8181)"
+  />
+  <path style="fill:none; stroke:#000000; stroke-width:4; stroke-linecap:round; stroke-linejoin:round"
+        d="M40 40H2V1.99H36L40 6V40z"
+        transform="matrix(1.409,0,0,1.409,1,1)"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="128" y1="1.99" x2="128" y2="40">
+   <stop offset="0" stop-color="#ababab"/>
+   <stop offset="1" stop-color="#404040"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M40 40H2V1.99H36L40 6V40z"
+        transform="matrix(1.409,0,0,1.409,1,1)"
+  />
+  <path style="fill:none; stroke:#000000; stroke-width:4; stroke-linecap:round; stroke-linejoin:round"
+        d="M8 22H34V40H8V22z"
+        transform="matrix(1.409,0,0,1.409,1,1)"
+  />
+  <linearGradient id="gradient1" gradientUnits="userSpaceOnUse" x1="128" y1="22" x2="128" y2="40">
+   <stop offset="0" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#e6e6e6"/>
+  </linearGradient>
+  <path style="fill:url(#gradient1)"
+        d="M8 22H34V40H8V22z"
+        transform="matrix(1.409,0,0,1.409,1,1)"
+  />
+  <path style="fill:#808080"
+        d="M6 1.99H14V16H6V1.99z"
+        transform="matrix(1.409,0,0,1.409,1,1)"
+  />
+  <path style="fill:none; stroke:#000000; stroke-width:4; stroke-linecap:round; stroke-linejoin:round"
+        d="M14 1.99H34V14H14V1.99z"
+        transform="matrix(1.409,0,0,1.409,1,1)"
+  />
+  <linearGradient id="gradient2" gradientUnits="userSpaceOnUse" x1="128" y1="1.99" x2="128" y2="14">
+   <stop offset="0" stop-color="#f7f7f7"/>
+   <stop offset="1" stop-color="#cccccc"/>
+  </linearGradient>
+  <path style="fill:url(#gradient2)"
+        d="M14 1.99H34V14H14V1.99z"
+        transform="matrix(1.409,0,0,1.409,1,1)"
+  />
+  <path style="fill:#000000"
+        d="M26 4H30V12H26V4z"
+        transform="matrix(1.409,0,0,1.409,1,1)"
+  />
+  <path style="fill:#d90000"
+        d="M10 36H32L34 40H8L10 36z"
+        transform="matrix(1.409,0,0,1.409,1,1)"
+  />
+ </g>
+</svg>

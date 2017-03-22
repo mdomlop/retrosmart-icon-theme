@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#010101; fill-opacity:0.5019"
+        d="M36 61H41L64 30L58 27L59 31L36 61z"
+  />
+  <path style="fill:none; stroke:#010000; stroke-width:4"
+        d="M2 28V41L36 59L58 30V17L25 5L2 28z"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="13.84" y1="-38.14" x2="58.34" y2="-27.7">
+   <stop offset="0" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#d3d3d3"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M2 28L36 43L58 17L25 5L2 28z"
+  />
+  <linearGradient id="gradient1" gradientUnits="userSpaceOnUse" x1="44.72" y1="-7.9" x2="86.1" y2="10.51">
+   <stop offset="0" stop-color="#474747"/>
+   <stop offset="1" stop-color="#a5a0a0"/>
+  </linearGradient>
+  <path style="fill:url(#gradient1)"
+        d="M36 43V59L58 30V17L36 43z"
+  />
+  <linearGradient id="gradient2" gradientUnits="userSpaceOnUse" x1="22.97" y1="92.59" x2="-14.6" y2="67.29">
+   <stop offset="0" stop-color="#7d7d7d"/>
+   <stop offset="1" stop-color="#d4d4d4"/>
+  </linearGradient>
+  <path style="fill:url(#gradient2)"
+        d="M2 28V41L36 59V43L2 28z"
+  />
+  <linearGradient id="gradient3" gradientUnits="userSpaceOnUse" x1="32.05" y1="9.68" x2="43.48" y2="24.05">
+   <stop offset="0" stop-color="#596756"/>
+   <stop offset="1" stop-color="#ebb2b2"/>
+  </linearGradient>
+  <path style="fill:none; stroke:url(#gradient3); stroke-width:5; stroke-linecap:round"
+        d="M7 35L12.75 37.5"
+  />
+  <path style="fill:none; stroke:#ff0000; stroke-width:2"
+        d="M6 35L9 36"
+        transform="matrix(1,0,0,1,4,1.5)"
+  />
+  <path style="fill:none; stroke:#a7ff00; stroke-width:2"
+        d="M6 35L9 36"
+        transform="matrix(1,0,0,1,0,-0.25)"
+  />
+  <path style="fill:none; stroke:#fec900; stroke-width:3; stroke-linejoin:bevel"
+        d="M3 40C3 40 11 38 19 40C21 48 19 60 19 60C19 60 12 62 3 60C1 52 3 40 3 40z"
+  />
+  <path style="fill:#010000"
+        d="M3 40C3 40 11 38 19 40C21 48 19 60 19 60C19 60 12 62 3 60C1 52 3 40 3 40z"
+  />
+  <path style="fill:none; stroke:#010000; stroke-width:3"
+        d="M15 44C15 44 14.95 44.11 11.43 45.8C9.79 48.22 9.79 47.22 8.79 48.7C8.78 50.75 9 50.68 9 53C9.67 54 9.32 53 10 54C11.75 54 12.25 54 15 54C15.37 55.93 15 56 15.18 57C14.25 57.78 14.25 57.78 13.46 58.45C11.78 58.45 11.78 58.45 11.78 58.45V57.5C11.78 57.5 11.78 57.5 13.54 57.5C13.54 56.12 13.54 56.12 13.54 54.95C11.82 54.95 11.46 55 9 55C7.78 53.65 8.25 54.34 7 53C7 50.48 7 51.75 7 50C8.48 47.53 7.43 46.47 9.57 45.52C13 44 12.9 44.11 12.9 44.11L8 44V45H7V43H15V44z"
+  />
+  <path style="fill:#fec900"
+        d="M15 44C15 44 14.95 44.11 11.43 45.8C9.79 48.22 9.79 47.22 8.79 48.7C8.78 50.75 9 50.68 9 53C9.67 54 9.32 53 10 54C11.75 54 12.25 54 15 54C15.37 55.93 15 56 15.18 57C14.25 57.78 14.25 57.78 13.46 58.45C11.78 58.45 11.78 58.45 11.78 58.45V57.5C11.78 57.5 11.78 57.5 13.54 57.5C13.54 56.12 13.54 56.12 13.54 54.95C11.82 54.95 11.46 55 9 55C7.78 53.65 8.25 54.34 7 53C7 50.48 7 51.75 7 50C8.48 47.53 7.43 46.47 9.57 45.52C13 44 12.9 44.11 12.9 44.11L8 44V45H7V43H15V44z"
+  />
+ </g>
+</svg>

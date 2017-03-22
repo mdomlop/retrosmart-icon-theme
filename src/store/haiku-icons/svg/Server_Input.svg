@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:none; stroke:#010101; stroke-opacity:0.4313; stroke-width:8; stroke-linecap:round; stroke-linejoin:round"
+        d="M31 28L56 37L55 41C55 41 57 39 59 40C61 41 60 43 59 44C58 45 56 46 54 45C52 44 52 43 52 43L37 57H30L9 46L31 28z"
+        transform="matrix(1,0,0,1,0,-2)"
+  />
+  <path style="fill:none; stroke:#010101; stroke-width:8; stroke-linecap:round; stroke-linejoin:round"
+        d="M30 26L56 36L32 58L6 46L30 26z"
+        transform="matrix(1,0,0,1,0,-2)"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="108.53" y1="-35.31" x2="123.16" y2="-17.4">
+   <stop offset="0" stop-color="#aab5be"/>
+   <stop offset="0.4666" stop-color="#e9ecf0"/>
+   <stop offset="1" stop-color="#aab5be"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M30 26L56 36L32 58L6 46L30 26z"
+        transform="matrix(1,0,0,1,0,-2)"
+  />
+  <linearGradient id="gradient1" gradientUnits="userSpaceOnUse" x1="62.13" y1="-53.62" x2="83.57" y2="-44.94">
+   <stop offset="0" stop-color="#3b5c73"/>
+   <stop offset="0.4666" stop-color="#d3dbe0"/>
+   <stop offset="1" stop-color="#3b5c73"/>
+  </linearGradient>
+  <path style="fill:none; stroke:url(#gradient1); stroke-width:3; stroke-linecap:round; stroke-linejoin:round"
+        d="M30 26L56 36L32 58L6 46L30 26z"
+        transform="matrix(0.8823,0,0,0.8823,3.6477,3.8786)"
+  />
+  <linearGradient id="gradient2" gradientUnits="userSpaceOnUse" x1="106.53" y1="-35.31" x2="121.16" y2="-17.4">
+   <stop offset="0" stop-color="#c8cfd4"/>
+   <stop offset="0.4666" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#c8cfd4"/>
+  </linearGradient>
+  <path style="fill:none; stroke:url(#gradient2); stroke-width:4; stroke-linecap:round; stroke-linejoin:round"
+        d="M30 26L56 36L32 58L6 46L30 26z"
+        transform="matrix(1,0,0,1,0,-2)"
+  />
+  <path style="fill:#010101"
+        d="M40 36L36 34L22 48L26 50L40 36z"
+        transform="matrix(1,0,0,1,0,-2)"
+  />
+  <radialGradient id="gradient3" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64" gradientTransform="matrix(0.0777,0.0891,-0.1562,0.1362,38.8015,39.4045)">
+   <stop offset="0" stop-color="#4a6072"/>
+   <stop offset="0.4745" stop-color="#f9f9f9"/>
+   <stop offset="1" stop-color="#4a6072"/>
+  </radialGradient>
+  <path style="fill:url(#gradient3)"
+        d="M38 38C38 38 34 36 31 39C25 45 26 50 26 50L38 38z"
+        transform="matrix(1,0,0,1,0,-2)"
+  />
+  <path style="fill:#010101; fill-opacity:0.4313"
+        d="M35 39L50 44L57 38L37 36"
+        transform="matrix(1,0,0,1,0,-2)"
+  />
+  <path style="fill:none; stroke:#010101; stroke-width:4"
+        d="M34 38C34 38 35 39 36 39C37 39 38 38 38 38L40 8H32L34 38z"
+        transform="matrix(0.9738,0.227,-0.2113,0.9067,9.5725,-8.3535)"
+  />
+  <linearGradient id="gradient4" gradientUnits="userSpaceOnUse" x1="37" y1="14" x2="35" y2="14">
+   <stop offset="0" stop-color="#e9ecf0"/>
+   <stop offset="0.4862" stop-color="#7c95aa"/>
+   <stop offset="1" stop-color="#394f61"/>
+  </linearGradient>
+  <path style="fill:url(#gradient4)"
+        d="M34 38C34 38 35 39 36 39C37 39 38 38 38 38L40 8H32L34 38z"
+        transform="matrix(0.9738,0.227,-0.227,0.9738,9.7604,-9.1592)"
+  />
+  <path style="fill:none; stroke:#010101; stroke-width:4"
+        d="M42 4C37.57 4 34 7.57 34 12C34 16.41 37.57 20 42 20C46.41 20 50 16.41 50 12C50 7.57 46.41 4 42 4z"
+        transform="matrix(1,0,0,1,0,-2)"
+  />
+  <radialGradient id="gradient5" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64" gradientTransform="matrix(0.1562,0,0,0.1562,40,10)">
+   <stop offset="0" stop-color="#ffffff"/>
+   <stop offset="0.4941" stop-color="#ff0606"/>
+   <stop offset="1" stop-color="#9d0404"/>
+  </radialGradient>
+  <path style="fill:url(#gradient5)"
+        d="M42 4C37.57 4 34 7.57 34 12C34 16.41 37.57 20 42 20C46.41 20 50 16.41 50 12C50 7.57 46.41 4 42 4z"
+        transform="matrix(1,0,0,1,0,-2)"
+  />
+ </g>
+</svg>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="-64" y1="-64" x2="64" y2="-64">
+   <stop offset="0.5812" stop-color="#02476b"/>
+   <stop offset="1" stop-color="#00080c"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M4 24V27L60 28V24H4z
+           M32 8L4 28L32 48L60 28L32 8z"
+        transform="matrix(1.1184,0,-0,1.0438,-4.1046,5.8951)"
+  />
+  <linearGradient id="gradient1" gradientUnits="userSpaceOnUse" x1="-64" y1="-64" x2="64" y2="-64">
+   <stop offset="0.5532" stop-color="#06aaff"/>
+   <stop offset="1" stop-color="#0470a8"/>
+  </linearGradient>
+  <path style="fill:url(#gradient1)"
+        d="M32 4L4 24L32 44L60 24L32 4z"
+        transform="matrix(1.1184,0,0,1.0438,-4.1046,4.8513)"
+  />
+  <path style="fill:#010101; fill-opacity:0.4196"
+        d="M45 57C49 57 54 57 55 55C56 53 64 36 64 32C64 28 62 26 62 26L60 28C60 28 62 30 61.01 31.94C59.27 35.44 56 42 54 43C52 44 48 44 48 44L45 57z
+           M15 29C25 29 30.99 21 32 20C34 18 33 16 33 16L35 15C35 15 36 18 34 22C33.25 23.47 21 42 15 40V29z"
+        transform="matrix(0.6888,0,0,0.6888,7.7273,5.5494)"
+  />
+  <path style="fill:none; stroke:#000000; stroke-width:4; stroke-linecap:round; stroke-linejoin:round"
+        d="M2 16C2 16 26 2.87 30 6.87C34 10.87 34 14 34 14L33 15L28 9L18 13V18L2 28V16z"
+        transform="matrix(0.6888,0,0,0.6888,7.7273,5.5494)"
+  />
+  <linearGradient id="gradient2" gradientUnits="userSpaceOnUse" x1="18.37" y1="-30.82" x2="42.89" y2="-22.94">
+   <stop offset="0" stop-color="#919292"/>
+   <stop offset="1" stop-color="#d5d5d5"/>
+  </linearGradient>
+  <path style="fill:url(#gradient2)"
+        d="M2 16C2 16 26 2.87 30 6.87C34 10.87 34 14 34 14L33 15L28 9L18 13V18L2 28V16z"
+        transform="matrix(0.6888,0,0,0.6888,7.7273,5.5494)"
+  />
+  <path style="fill:none; stroke:#000000; stroke-width:4; stroke-linecap:round; stroke-linejoin:round"
+        d="M46 36C46 36 54 22 58 20C62 18 62 29 62 29L61 31L58 26L53 34L52 46L45 55L26 46C26 46 25 38 22 36C19 34 18 42 18 42L2 34V17L46 36z"
+        transform="matrix(0.6888,0,0,0.6888,7.7273,5.5494)"
+  />
+  <linearGradient id="gradient3" gradientUnits="userSpaceOnUse" x1="40" y1="-23" x2="52" y2="-23">
+   <stop offset="0.3686" stop-color="#f8f8f8"/>
+   <stop offset="0.5176" stop-color="#c7c7c7"/>
+  </linearGradient>
+  <path style="fill:url(#gradient3)"
+        d="M46 36C46 36 54 22 58 20C62 18 62 29 62 29L61 31L58 26L53 34L52 46L45 55L26 46C26 46 25 38 22 36C19 34 18 42 18 42L2 34V17L46 36z
+           M29 34C28 35 28 41 29 42L41 48C42 47 42 40 41 39L29 34z
+           M6 23C5 24 5 30 6 31L16 36C17 35 17 29 16 28L6 23z"
+        transform="matrix(0.6888,0,0,0.6888,7.7273,5.5494)"
+  />
+  <path style="fill:#000000"
+        d="M6 23C5 24 5 30 6 31L16 36C17 35 17 29 16 28L6 23z
+           M29 34C28 35 28 41 29 42L41 48C42 47 42 40 41 39L29 34z"
+        transform="matrix(0.6888,0,0,0.6888,7.7273,5.5494)"
+  />
+  <linearGradient id="gradient4" gradientUnits="userSpaceOnUse" x1="19.13" y1="0.81" x2="31.86" y2="9.56">
+   <stop offset="0.0509" stop-color="#97bbff"/>
+   <stop offset="0.4823" stop-color="#4168db" stop-opacity="0.9137"/>
+   <stop offset="1" stop-color="#4168db" stop-opacity="0.5921"/>
+  </linearGradient>
+  <path style="fill:url(#gradient4)"
+        d="M6 23C5 24 5 30 6 31L16 36C17 35 17 29 16 28L6 23z"
+        transform="matrix(0.6888,0,0,0.6888,7.7273,5.5494)"
+  />
+  <linearGradient id="gradient5" gradientUnits="userSpaceOnUse" x1="79.6" y1="-48.49" x2="95.97" y2="-37.23">
+   <stop offset="0.0509" stop-color="#f56a7d" stop-opacity="0.6235"/>
+   <stop offset="0.8823" stop-color="#ea064c" stop-opacity="0.7803"/>
+  </linearGradient>
+  <path style="fill:url(#gradient5)"
+        d="M29 34C28 35 28 41 29 42L41 48C42 47 42 40 41 39L29 34z"
+        transform="matrix(0.6888,0,0,0.6888,7.7273,5.5494)"
+  />
+ </g>
+</svg>

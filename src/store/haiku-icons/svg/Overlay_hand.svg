@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:none; stroke:#010000; stroke-width:8; stroke-linecap:round; stroke-linejoin:round"
+        d="M26 56C26 57 25 58 24 58H16C15 58 13 57 12 56L8 52
+           M22 40V54H26V44
+           M14 41V54H18V38"
+  />
+  <radialGradient id="gradient0" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64" gradientTransform="matrix(0.1875,0,0,0.2187,16,45)">
+   <stop offset="0.4727" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#ececec"/>
+  </radialGradient>
+  <path style="fill:none; stroke:url(#gradient0); stroke-width:4; stroke-linecap:round; stroke-linejoin:round"
+        d="M26 56C26 57 25 58 24 58H16C15 58 13 57 12 56L8 52
+           M22 40V54H26V44
+           M14 41V54H18V38"
+  />
+  <linearGradient id="gradient1" gradientUnits="userSpaceOnUse" x1="48" y1="40" x2="48" y2="56">
+   <stop offset="0" stop-color="#bebebe"/>
+   <stop offset="1" stop-color="#8a8a8a"/>
+  </linearGradient>
+  <path style="fill:url(#gradient1)"
+        d="M24.51 43.93C24.5 50 23.5 49 23.5 49H21.5C21.5 49 20.5 47 20.51 39.02C20.5 47 19.5 49 19.5 49H17.5C17.5 49 15.5 49 15.5 42C15.5 49 14.5 49 14.5 49L13.01 50H27L25.5 49C25.5 49 24.5 50 24.51 43.93z"
+  />
+  <linearGradient id="gradient2" gradientUnits="userSpaceOnUse" x1="48" y1="40" x2="48" y2="56">
+   <stop offset="0" stop-color="#bebebe"/>
+   <stop offset="1" stop-color="#8a8a8a"/>
+  </linearGradient>
+  <path style="fill:url(#gradient2)"
+        d="M18 57C17 49 12 53 12 53C16 53 18 57 18 57z"
+  />
+ </g>
+</svg>

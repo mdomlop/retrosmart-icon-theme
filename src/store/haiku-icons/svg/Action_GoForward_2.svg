@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:none; stroke:#000000; stroke-width:4"
+        d="M50 26L40 51L31 48L28 51L14 44V30L26 22V11L40 14L50 26z"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="6.05" y1="60.52" x2="28.24" y2="73.19">
+   <stop offset="0" stop-color="#046fa7"/>
+   <stop offset="1" stop-color="#2ba5e5"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M50 26L40 51V39L28 51V35L40 26V14L50 26z"
+  />
+  <linearGradient id="gradient1" gradientUnits="userSpaceOnUse" x1="-9.56" y1="-2.41" x2="-13.46" y2="7.46">
+   <stop offset="0" stop-color="#60c8ff"/>
+   <stop offset="1" stop-color="#44befd"/>
+  </linearGradient>
+  <path style="fill:url(#gradient1)"
+        d="M40 14V26L26 22V11L40 14z"
+  />
+  <linearGradient id="gradient2" gradientUnits="userSpaceOnUse" x1="14.74" y1="25.33" x2="8.79" y2="34.65">
+   <stop offset="0" stop-color="#034f77"/>
+   <stop offset="1" stop-color="#04689c"/>
+  </linearGradient>
+  <path style="fill:url(#gradient2)"
+        d="M40 39V51L31 48L40 39z"
+  />
+  <linearGradient id="gradient3" gradientUnits="userSpaceOnUse" x1="-5.97" y1="46.78" x2="7.73" y2="62.95">
+   <stop offset="0" stop-color="#90d9ff"/>
+   <stop offset="1" stop-color="#6ecdff"/>
+  </linearGradient>
+  <path style="fill:url(#gradient3)"
+        d="M28 35V51L14 44V30L28 35z"
+  />
+  <linearGradient id="gradient4" gradientUnits="userSpaceOnUse" x1="15.99" y1="62.77" x2="32.89" y2="65.69">
+   <stop offset="0" stop-color="#ace2ff"/>
+   <stop offset="0.9923" stop-color="#6dccff"/>
+  </linearGradient>
+  <path style="fill:url(#gradient4)"
+        d="M40 26L26 22L14 30L28 35L40 26z"
+  />
+  <path style="fill:none; stroke:#ffffff; stroke-opacity:0.2862; stroke-width:1; stroke-linecap:round"
+        d="M26.5 11.5L39.5 14.75
+           M28 35L14.5 30.25"
+  />
+ </g>
+</svg>
