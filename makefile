@@ -2,15 +2,15 @@ THEMENAME='retrosmart-icon-theme'
 SUFFIX=''
 NAME=$(THEMENAME)$(SUFFIX)
 MYSRCDIR='src'
-OUTDIR='.'
 PREFIX='/usr'
 INSTALLDIR=$(PREFIX)'/share/icons'
+pkgver='0.2.a'
 
 $(NAME):
-	mkdir $(OUTDIR)/$(NAME)
-	cp -a $(MYSRCDIR)/images/ $(OUTDIR)/$(NAME)/scalable
-	cp -a $(MYSRCDIR)/index.theme $(OUTDIR)/$(NAME)/
-	sh src/mklinks.sh $(MYSRCDIR) $(OUTDIR)/$(NAME)/scalable
+	mkdir $(NAME)
+	cp -a $(MYSRCDIR)/images/ $(NAME)/scalable
+	cp -a $(MYSRCDIR)/index.theme $(NAME)/
+	sh src/mklinks.sh $(MYSRCDIR) $(NAME)/scalable
 
 togit: preview
 	git add .
@@ -22,13 +22,13 @@ preview:
 
 sync:  $(NAME)
 	mkdir -p $(INSTALLDIR)
-	rsync -aHv --delete $(OUTDIR)/$(NAME)/ $(INSTALLDIR)/$(THEMENAME)
+	rsync -aHv --delete $(NAME)/ $(INSTALLDIR)/$(THEMENAME)
 	chown -R root:root $(INSTALLDIR)/$(THEMENAME)/
 	chmod -R u=rwX,go=rX $(INSTALLDIR)/$(THEMENAME)/
 
 install: uninstall
 	mkdir -p $(INSTALLDIR)
-	cp -a $(OUTDIR)/$(NAME)/ $(INSTALLDIR)/$(THEMENAME)
+	cp -a $(NAME)/ $(INSTALLDIR)/$(THEMENAME)
 	chown -R root:root $(INSTALLDIR)/$(THEMENAME)/
 	chmod -R u=rwX,go=rX $(INSTALLDIR)/$(THEMENAME)/
 
@@ -36,5 +36,8 @@ uninstall:
 	rm -Rf $(INSTALLDIR)/$(THEMENAME)/
 
 clean:
-	rm -Rf $(OUTDIR)/$(NAME)
+	rm -Rf $(NAME)
 
+pacman:
+	cd packages/pacman
+	makepkg

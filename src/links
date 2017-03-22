@@ -237,7 +237,6 @@ haikuos-app_virtualbox virtualbox
 haikuos-device_cd media-optical cdrom gnome-dev-cdrom
 haikuos-device_harddisk harddisk drive-harddisk gnome-dev-harddisk gtk-harddisk harddrive hdd_unmount yast_HD yast_idetude
 haikuos-device_harddisk_development harddisk-label gnome-fs-blockdev gnome-fs-filesystem inode-blockdevice
-haikuos-device_sd media-flash-sd-mmc sd
 haikuos-file_archive package-x-generic application-x-archive application-x-arj application-x-cpio-compressed application-x-cpio application-x-lha application-x-lhz application-x-lzma-compressed-tar application-x-lzma application-x-stuffit deb gnome-mime-application-x-jar gnome-mime-application-x-java-archive rpm package emblem-package
 haikuos-file_image_1 image gnome-mime-image emblem-photos emblem-pictures image-x-generic emblem-images
 haikuos-file_image_2 image-bmp gnome-mime-image-bmp
@@ -267,6 +266,7 @@ hammer config
 hardware-info hwbrowser hwinfo
 hbbi-abiword abiword abiword_48
 hbbi-aplayer audacious
+hbbi-soundplay qmmp
 hbbi-bepdf document-viewer evince okular acrobat acroread qpdfview
 heart gnome-favorites donate emblem-favorite bookmark
 help-about stock_about
@@ -275,6 +275,7 @@ im comunicacion pidgin
 inbox mail-folder-inbox
 info metadata
 info-browser help-browser khelpcenter susehelpcenter xfce-man
+haikuos-device_memorystick media-flash-memory-stick
 input-gaming gnome-joystick joystick
 input-mouse gnome-dev-mouse-ball gnome-dev-mouse-optical gnome-dev-mouse mouse-capplet mouse xfce4-mouse yast_mouse
 joystick2 amusements
@@ -292,7 +293,8 @@ mail-send gnome-stock-mail-snd mail_send stock_mail-send
 mail-send-receive stock_mail-send-receive
 mail-unread stock_mail-unread mail-unread-symbolic
 media-eject eject player_eject stock-media-eject
-media-flash gnome-dev-media-cf gnome-dev-media-sdmmc gnome-dev-media-sm
+haikuos-device_pendrive media-flash
+haikuos-device_sd media-flash-sd-mmc sd gnome-dev-media-cf gnome-dev-media-sdmmc gnome-dev-media-sm
 media-optical cdrom_unmount cdwriter_unmount dvd_unmount gnome-dev-disc-cdr gnome-dev-disc-cdrw gnome-dev-disc-dvdram gnome-dev-disc-dvdrom gnome-dev-disc-dvdr-plus gnome-dev-disc-dvdr gnome-dev-disc-dvdrw gtk-cdrom
 media-playback-pause gtk-media-pause player_pause stock_media-pause stock-media-pause emblem-pause
 media-playback-start gtk-media-play-ltr player_play stock_media-play stock-media-play

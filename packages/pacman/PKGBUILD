@@ -1,0 +1,43 @@
+# Maintainer: Manuel Domínguez López <mdomlop at gmail dot com>
+
+_pkgver_year=2017
+_pkgver_month=01
+_pkgver_day=08
+
+_pkgname=retrosmart-icon-theme
+pkgver=41
+pkgname=${_pkgname}-${pkgver}
+pkgrel=1
+pkgdesc="Retrosmart icon theme."
+url="https://github.com/manueldl/${_pkgname}"
+source=("git+https://github.com/manueldl/${_pkgname}.git")
+md5sums=('SKIP')
+license=('GPL3')
+depends=('')
+makedepends=('git')
+optdepends=('retrosmart-gtk-themes: The corresponding GTK themes'
+            'retrosmart-openbox-themes: The corresponding Openbox themes'
+            'retrosmart-wallpapers: The corresponding backgrounds project'
+            'retrosmart-x11-cursors: The corresponding X11 cursor theme'
+            'retrosmart-xfwm4-themes: The corresponding XFwm4 themes')
+arch=('any')
+group=('retrosmart')
+
+conflicts=(${_pkgname})
+provides=(${_pkgname})
+
+pkgver() {
+  cd ${srcdir}/${_pkgname}
+  git rev-list --count HEAD
+}
+
+build() {
+    cd "${srcdir}/${_pkgname}"
+    make clean
+    make
+    }
+
+package() {
+    cd "${srcdir}/${_pkgname}"
+    make install PREFIX=${pkgdir}/usr OUTDIR=/tmp
+}
