@@ -43,3 +43,4 @@ pacman:
 	mkdir $(TEMPDIR)
 	cp packages/pacman/PKGBUILD $(TEMPDIR)/
 	cd $(TEMPDIR); makepkg
+	rm $(TEMPDIR)
