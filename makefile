@@ -46,5 +46,5 @@ pacman:
 	cp $(TEMPDIR)/$(THEMENAME)-*.pkg.tar.xz .
 	@echo Package done!
 	@echo You can install it as root with:
-	@ pacman -U $(THEMENAME)-*.pkg.tar.xz
+	@echo pacman -U $(THEMENAME)-*.pkg.tar.xz
 

@@ -13,7 +13,7 @@ do
         #cd "$mydestdir"
         if [ -f "$mydestdir/$orig$suf" ]
         then
-            ln -sf "$orig$suf" "$j$suf"
+            ln -sf "$orig$suf" "retrosmart-icon-theme/scalable/$j$suf"
         else
             echo No existe "$mydestdir/$orig$suf"
         fi
