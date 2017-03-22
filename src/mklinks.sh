@@ -10,7 +10,7 @@ do
     dest=$(echo $i | cut -d ' ' -f2-)
     for j in $(echo $dest | tr ' ' '\n')
     do
-        cd "$mydestdir"
+        #cd "$mydestdir"
         if [ -f "$mydestdir/$orig$suf" ]
         then
             ln -sf "$orig$suf" "$j$suf"

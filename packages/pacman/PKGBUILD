@@ -33,8 +33,6 @@ pkgver() {
 
 build() {
     cd "${srcdir}/${_pkgname}"
-    pwd
-    ls
     make
     }
 
