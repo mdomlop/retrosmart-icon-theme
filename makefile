@@ -5,14 +5,15 @@ MYSRCDIR='src'
 PREFIX='/usr'
 INSTALLDIR=$(PREFIX)'/share/icons'
 pkgver='0.2.a'
+TEMPDIR := $(shell mktemp -u --suffix .$(THEMENAME))
 
 $(NAME):
 	mkdir $(NAME)
 	cp -a $(MYSRCDIR)/images/ $(NAME)/scalable
 	cp -a $(MYSRCDIR)/index.theme $(NAME)/
-	sh src/mklinks.sh $(MYSRCDIR) $(NAME)/scalable
+	sh $(MYSRCDIR)/mklinks.sh $(MYSRCDIR) $(NAME)/scalable
 
-togit: preview
+togit:
 	git add .
 	git commit -m "Updated from makefile"
 	git push origin
@@ -36,8 +37,9 @@ uninstall:
 	rm -Rf $(INSTALLDIR)/$(THEMENAME)/
 
 clean:
-	rm -Rf $(NAME)
+	rm -Rf $(NAME) /tmp/tmp.*.$(THEMENAME)
 
 pacman:
-	cd packages/pacman
-	makepkg
+	mkdir $(TEMPDIR)
+	cp packages/pacman/PKGBUILD $(TEMPDIR)/
+	cd $(TEMPDIR); makepkg
