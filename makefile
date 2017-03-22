@@ -37,7 +37,7 @@ uninstall:
 	rm -Rf $(INSTALLDIR)/$(THEMENAME)/
 
 clean:
-	rm -Rf $(NAME)* $(TEMPDIR)
+	rm -Rf $(NAME)* /tmp/tmp.*.$(THEMENAME)
 
 pacman:
 	mkdir $(TEMPDIR)
