@@ -37,10 +37,14 @@ uninstall:
 	rm -Rf $(INSTALLDIR)/$(THEMENAME)/
 
 clean:
-	rm -Rf $(NAME)* /tmp/tmp.*.$(THEMENAME)
+	rm -Rf $(NAME)* $(TEMPDIR)
 
 pacman:
 	mkdir $(TEMPDIR)
 	cp packages/pacman/PKGBUILD $(TEMPDIR)/
 	cd $(TEMPDIR); makepkg
-	rm -rf $(TEMPDIR)
+	cp $(TEMPDIR)/$(THEMENAME)-*.pkg.tar.xz .
+	@echo Package done!
+	@echo You can install it as root with:
+	@ pacman -U $(THEMENAME)-*.pkg.tar.xz
+
