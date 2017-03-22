@@ -37,10 +37,10 @@ uninstall:
 	rm -Rf $(INSTALLDIR)/$(THEMENAME)/
 
 clean:
-	rm -Rf $(NAME) /tmp/tmp.*.$(THEMENAME)
+	rm -Rf $(NAME)* /tmp/tmp.*.$(THEMENAME)
 
 pacman:
 	mkdir $(TEMPDIR)
 	cp packages/pacman/PKGBUILD $(TEMPDIR)/
 	cd $(TEMPDIR); makepkg
-	rm $(TEMPDIR)
+	rm -rf $(TEMPDIR)
