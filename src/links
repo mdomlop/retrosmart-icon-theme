@@ -31,8 +31,7 @@ application-x-rpm gnome-mime-application-x-rpm gnome-mime-x-application-rpm
 application-x-sharedlib application-x-shared-library
 application-x-tar  tar gnome-mime-application-x-tar folder_tar
 application-x-tgz tgz application-x-compressed-tar gnome-mime-application-x-compressed-tar
-application-xhtml+xml application-xml
-application-xml text-xml
+application-xhtml+xml application-xml text-xml
 application-zip zip application-x-zip gnome-mime-application-zip
 applications-accessories gnome-util package_utilities redhat-accessories xfce-utils
 applications-development gnome-devel package_development programacion programación redhat-programming xfce-devel
@@ -94,7 +93,7 @@ box-grey classviewer-var openbox
 box-yellow emblem-box
 calculadora accessories-calculator galculator calc calculator gcalctool gnome-calc3 gnome-calculator kcalc
 camera-photo emblem-camera
-camera-video camera video_player
+camera-video camera video_player mplayer mpv
 camera-video-unmount camera-unmount camera_unmount
 camera-web codycam gnome-dev-camera skype vanity
 chat internet-group-chat xchat
@@ -145,7 +144,6 @@ edit-select-all gtk-select-all rox-select stock_select-all
 edit-undo gtk-undo-ltr stock_undo undo
 emoji_u1f40f-black edit-copy copy editcopy gtk-copy stock_copy
 eog gpicview ristretto
-evolution-calendar gnome-calendar office-calendar office-date xfcalendar
 exit logout application-exit salida gtk-quit xfce-system-exit
 face-angel stock_smiley-18
 face-cool stock_smiley-15
@@ -209,7 +207,7 @@ haikuos-action_logout lock-close lock_close gdu-encrypted-lock password changes-
 haikuos-action_search logviewer
 haikuos-action_stop process-stop gtk-cancel gtk-stop stock_stop stop navigation_stop close
 haikuos-alert_idea emblem-idea
-haikuos-alert_info information info window-identify emblem-information
+haikuos-alert_info information info window-identify emblem-information metadata
 haikuos-alert_stop dialog-error dialog_error dialog-error-symbolic error gtk-dialog-error messagebox_critical stock_dialog-error
 haikuos-alert_warning emblem-warning emblem-important dialog-warning dialog_warning dialog-warning-symbolic gtk-dialog-warning important messagebox_warning stock_dialog-warning
 haikuos-app_automator gnome-robots
@@ -222,7 +220,7 @@ haikuos-app_expander_3 tap-extract-to
 haikuos-app_finance homebank gnucash
 haikuos-app_gldirectmode draw-cuboid
 haikuos-app_haiku3d start-here distributor-logo gnome-main-menu novell-button
-haikuos-app_imageeditor applications-graphics emblem-art gnome-graphics graficos package_graphics palette redhat-graphics xfce-graphics gpaint kolourpaint mypaint
+haikuos-app_imageeditor applications-graphics emblem-art gnome-graphics graficos package_graphics palette redhat-graphics xfce-graphics gpaint kolourpaint mypaint  dibujo graphics
 haikuos-app_launchbox system-run gnome-run grun gtk-execute
 haikuos-app_magnify lupa find viewer view zoom
 haikuos-app_mail mail
@@ -234,7 +232,8 @@ haikuos-app_netsurf_original netsurf
 haikuos-app_opencubicplayer ocp
 haikuos-app_teapot emblem-generic teapot emblem-default rox-xattr
 haikuos-app_virtualbox virtualbox
-haikuos-device_cd media-optical cdrom gnome-dev-cdrom
+media-optical-dvd dvd_unmount gnome-dev-disc-dvdram gnome-dev-disc-dvdrom gnome-dev-disc-dvdr-plus gnome-dev-disc-dvdr gnome-dev-disc-dvdrw
+haikuos-device_cd media-optical cdrom gnome-dev-cdrom cdrom_unmount cdwriter_unmount gnome-dev-disc-cdr gnome-dev-disc-cdrw gtk-cdrom
 haikuos-device_harddisk harddisk drive-harddisk gnome-dev-harddisk gtk-harddisk harddrive hdd_unmount yast_HD yast_idetude
 haikuos-device_harddisk_development harddisk-label gnome-fs-blockdev gnome-fs-filesystem inode-blockdevice
 haikuos-file_archive package-x-generic application-x-archive application-x-arj application-x-cpio-compressed application-x-cpio application-x-lha application-x-lhz application-x-lzma-compressed-tar application-x-lzma application-x-stuffit deb gnome-mime-application-x-jar gnome-mime-application-x-java-archive rpm package emblem-package
@@ -273,7 +272,6 @@ help-about stock_about
 home go-home gohome gnome-home gtk-home kfm_home redhat-home stock_home
 im comunicacion pidgin
 inbox mail-folder-inbox
-info metadata
 info-browser help-browser khelpcenter susehelpcenter xfce-man
 haikuos-device_memorystick media-flash-memory-stick
 input-gaming gnome-joystick joystick
@@ -295,7 +293,6 @@ mail-unread stock_mail-unread mail-unread-symbolic
 media-eject eject player_eject stock-media-eject
 haikuos-device_pendrive media-flash
 haikuos-device_sd media-flash-sd-mmc sd gnome-dev-media-cf gnome-dev-media-sdmmc gnome-dev-media-sm
-media-optical cdrom_unmount cdwriter_unmount dvd_unmount gnome-dev-disc-cdr gnome-dev-disc-cdrw gnome-dev-disc-dvdram gnome-dev-disc-dvdrom gnome-dev-disc-dvdr-plus gnome-dev-disc-dvdr gnome-dev-disc-dvdrw gtk-cdrom
 media-playback-pause gtk-media-pause player_pause stock_media-pause stock-media-pause emblem-pause
 media-playback-start gtk-media-play-ltr player_play stock_media-play stock-media-play
 media-playback-stop gtk-media-stop player_stop stock_media-stop stock-media-stop
@@ -307,7 +304,7 @@ media-seek-forward gtk-media-forward-ltr gtk-media-rewind-rtl player_fwd stock-m
 media-skip-backward gtk-media-next-rtl gtk-media-previous-ltr player_start stock_media-prev stock-media-prev
 media-skip-forward gtk-media-next-ltr gtk-media-previous-rtl player_end stock_media-next stock-media-next
 menu application-menu
-menu-apps-right ximian-redhat-config-nfs
+menu-apps-right ximian-redhat-config-nfs perlpanel-applets-actions
 menu-editor xfce4-menueditor
 microphone-sensitivity-high microphone-sensitivity-high-symbolic
 microphone-sensitivity-low microphone-sensitivity-low-symbolic
@@ -330,10 +327,10 @@ network-workgroup gnome-fs-network gnome-mime-x-directory-smb-workgroup gtk-netw
 network_r4 internet emblem-web
 neurokernel.github.io-fly fly-red
 news internet-news-reader
-office-calendar date ximian-evolution-calendar
+calendar office-calendar date ximian-evolution-calendar x-office-calendar plan stock_calendar vcalendar evolution-calendar gnome-calendar office-calendar office-date xfcalendar
+text-x-vcalendar gnome-mime-text-x-vcalendar
 outbox mail-folder-outbox
 package-maker squeeze xarchiver compressor ark
-package_graphics dibujo graphics
 palomitas gnome-mplayer movie-player totem
 perlscript application-x-perl text-x-perl
 person application-x-person avatar-default avatar-default-symbolic stock_person user
@@ -430,7 +427,7 @@ retrosmart-socket-white socket inode-socket xfpm-ac-adapter
 rhythmbox exaile
 scanner gnome-dev-scanner sane xsane
 scissors edit-cut cut editcut gtk-cut stock_cut
-script text-x-script text-x-sh
+script text-x-script text-x-sh application-x-python-bytecode stock_script text-x-zsh
 security-critical security-low stock_lock-broken stock_lock-open security-low-symbolic
 security-ok security-medium stock_lock security-medium-symbolic
 security-up security-high stock_lock-ok security-high-symbolic
@@ -459,8 +456,7 @@ tag-editor easytag tagtool
 target diana window-center
 task-due task-due-symbolic
 task-past-due task-past-due-symbolic
-telegram-messenger telegram_logo
-telegram_logo telegram
+telegram-messenger telegram_logo telegram
 tetera_amarilla geany
 text-editor gedit-icon accessories-text-editor kedit xfce-edit leafpad gpe-edit mousepad
 text-html application-vnd.oasis.opendocument.text-web application-x-php html mime-text-html text-vnd.wap.wml www gnome-mime-text-html
@@ -472,7 +468,6 @@ text-x-generic-template template_source
 text-x-install gnome-mime-text-x-install
 text-x-lyx application-x-lyx
 text-x-ruby application-x-ruby
-text-x-script application-x-python-bytecode stock_script text-x-zsh
 text_mode consoleonly modo_texto
 toolbox preferences-other
 tools gtk-preferences herramientas icon-system-tools preferences
@@ -499,7 +494,6 @@ video-x-ms-asf gnome-mime-video-x-ms-asf
 video-x-ms-wmv gnome-mime-video-x-ms-wmv
 video-x-msvideo gnome-mime-video-x-msvideo
 video-x-ogm+ogg video-ogg
-video_player mplayer mpv
 view-details rox-show-details
 view-fullscreen gtk-fullscreen stock_fullscreen window_fullscreen
 view-restore gtk-leave-fullscreen stock_leave-fullscreen window_nofullscreen
@@ -527,11 +521,9 @@ window-preferences ccsm
 wizard welcome_wizard
 workspaces gnome-panel-workspace-switcher xfce4-workspaces
 x-office-address-book contents2 stock_addressbook
-x-office-calendar gnome-mime-text-x-vcalendar plan stock_calendar vcalendar
 x-office-document application-vnd.ms-word.document.macroEnabled.12 application-vnd.openxmlformats-officedocument.wordprocessingml.document application-wordperfect application-x-applix-word application-x-scribus document package_wordprocessing wordprocessing
 x-office-presentation application-magicpoint application-vnd.ms-powerpoint.presentation.macroEnabled.12 application-vnd.openxmlformats-officedocument.presentationml.presentation application-vnd.stardivision.impress kpresenter_kpr
 x-office-spreadsheet application-vnd.lotus-1-2-3 application-vnd.ms-excel.sheet.macroEnabled.12 application-vnd.openxmlformats-officedocument.spreadsheetml.sheet application-vnd.stardivision.calc application-x-applix-spreadsheet spreadsheet
-ximian-redhat-config-nfs perlpanel-applets-actions
 xlock gnome-lockscreen panel-lockscreen
 xoj gnome-mime-application-x-xoj
 zoom-fit-best gtk-zoom-fit stock_zoom-page viewmagfit zoom-best-fit
