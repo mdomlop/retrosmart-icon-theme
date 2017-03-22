@@ -10,8 +10,6 @@ do
     dest=$(echo $i | cut -d ' ' -f2-)
     for j in $(echo $dest | tr ' ' '\n')
     do
-    pwd
-    ls
         cd "$mydestdir"
         if [ -f "$mydestdir/$orig$suf" ]
         then
