@@ -13,7 +13,7 @@ $(NAME):
 	cp -a $(MYSRCDIR)/index.theme $(NAME)/
 	sh $(MYSRCDIR)/mklinks.sh $(MYSRCDIR) $(NAME)/scalable
 
-togit: clean
+togit: clean preview
 	git add .
 	git commit -m "Updated from makefile"
 	git push origin
@@ -39,7 +39,7 @@ uninstall:
 clean:
 	rm -Rf $(NAME)* /tmp/tmp.*.$(THEMENAME)
 
-pacman:
+pacman: clean
 	mkdir $(TEMPDIR)
 	cp packages/pacman/PKGBUILD $(TEMPDIR)/
 	cd $(TEMPDIR); makepkg
