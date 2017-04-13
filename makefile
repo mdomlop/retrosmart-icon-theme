@@ -13,7 +13,7 @@ $(NAME):
 	cp -a $(MYSRCDIR)/index.theme $(NAME)/
 	sh $(MYSRCDIR)/mklinks.sh $(MYSRCDIR) $(NAME)/scalable
 
-togit:
+togit: clean
 	git add .
 	git commit -m "Updated from makefile"
 	git push origin
