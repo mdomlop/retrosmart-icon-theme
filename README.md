@@ -1,4 +1,4 @@
-![retrosmart-preview](https://raw.githubusercontent.com/manueldl/retrosmart-icons/master/preview.png "Retrosmart look")
+![retrosmart-preview](https://raw.githubusercontent.com/mdomlop/retrosmart-icons/master/preview.png "Retrosmart look")
 
 Retrosmart icon theme
 =====================
