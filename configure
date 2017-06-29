@@ -1,0 +1,75 @@
+#!/bin/sh
+
+name=retrosmart-icon-theme
+path=$name/scalable
+suf='.svg'
+
+icons=()
+preview=()
+links=()
+
+for i in $(ls src/*.links)
+do
+    source=src/$(basename $i .links).svg
+    if [ -f $source ]
+    then
+        links+=($i)
+    else
+        echo File $source not found
+        exit 1
+    fi
+done
+links=${links[*]}
+
+for i in $(cat src/preview.list)
+do
+    source=src/$i
+    if [ -f $source ]
+        then
+            preview+=($source)
+        else
+            echo File $source not found
+            exit 1
+        fi
+done
+preview=${preview[*]}
+
+function makefile {
+
+echo include makefile.mk
+
+echo $name:
+echo -e '\t'mkdir -p $path
+
+echo $name/index.theme: $name
+echo -e '\t'cp src/index.theme $name/
+
+for i in $links
+do
+    source=src/$(basename $i .links).svg
+    bsource=$(basename $source)
+    for j in $(cat $i)
+    do
+        icons+=($path/$j)
+        echo "$path/$j: $name/index.theme"
+        if [ $bsource == $j ]
+        then
+            echo -e '\t'cp $source $path/$j
+        else
+            echo -e '\t'cd $path '&&' ln -s $bsource $j
+        fi
+    done
+done
+
+echo icons: ${icons[*]}
+
+echo preview.png: $preview
+echo -e '\t'montage -verbose -resize 64 -geometry +16+16 -tile 9x6 $preview preview.png
+
+echo README.md: preview.png
+echo -e '\t@echo ![retrosmart-preview]\(https://raw.githubusercontent.com/mdomlop/'$name'/master/preview.png "Retrosmart look"\) > README.md'
+echo -e '\t'@cat README '>>' README.md
+
+}
+
+makefile > makefile

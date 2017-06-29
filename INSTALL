@@ -1,0 +1,16 @@
+Install instructions
+--------------------
+
+Install as usual:
+
+    $ ./configure
+    $ make
+    # make install
+
+To Uninstall:
+
+    # make uninstall
+
+Alternatively you can make a pacman package:
+
+    $ make pacman

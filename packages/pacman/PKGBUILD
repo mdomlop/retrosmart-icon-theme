@@ -31,6 +31,11 @@ pkgver() {
   git rev-list --count HEAD
 }
 
+prepare() {
+    cd "${srcdir}/${_pkgname}"
+    ./configure
+    }
+
 build() {
     cd "${srcdir}/${_pkgname}"
     make
