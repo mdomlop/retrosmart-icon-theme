@@ -67,7 +67,7 @@ echo preview.png: $preview
 echo -e '\t'montage -verbose -resize 64 -geometry +16+16 -tile 9x6 $preview preview.png
 
 echo README.md: preview.png
-echo -e '\t@echo ![retrosmart-preview]\(https://raw.githubusercontent.com/mdomlop/'$name'/master/preview.png "Retrosmart look"\) > README.md'
+echo -e '\t@echo ![retrosmart-preview]\(https://raw.githubusercontent.com/mdomlop/'$name'/master/preview.png \"Retrosmart look\"\) > README.md'
 echo -e '\t'@cat README '>>' README.md
 
 }
