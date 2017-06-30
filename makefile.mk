@@ -3,7 +3,7 @@ PREFIX='/usr'
 DESTDIR=''
 TEMPDIR := $(shell mktemp -u --suffix .$(NAME))
 
-all: icons README.md
+all: icons
 
 togit: purge README.md
 	git add .
@@ -11,7 +11,8 @@ togit: purge README.md
 	git push origin
 
 install:
-	cp -r $(NAME) $(DESTDIR)/$(PREFIX)/share/icons/$(NAME)/
+	install -d -m 755 $(DESTDIR)/$(PREFIX)/share/icons
+	cp -r $(NAME) $(DESTDIR)/$(PREFIX)/share/icons/
 	chmod -R a+rX $(DESTDIR)/$(PREFIX)/share/icons/$(NAME)/
 	install -Dm 644 COPYING $(DESTDIR)/$(PREFIX)/share/licenses/$(NAME)/COPYING
 	install -Dm 644 CREDITS $(DESTDIR)/$(PREFIX)/share/doc/$(NAME)/CREDITS
@@ -25,7 +26,7 @@ uninstall:
 	rm -rf $(PREFIX)/share/doc/$(NAME)/
 
 clean:
-	rm -rf $(NAME)
+	rm -rf $(NAME) $(NAME)-*.pkg.tar.xz
 
 purge: clean
 	rm -rf preview.png /tmp/tmp.*.$(NAME) makefile README.md
@@ -33,7 +34,17 @@ purge: clean
 
 pacman: clean
 	mkdir $(TEMPDIR)
-	cp packages/pacman/PKGBUILD $(TEMPDIR)/
+	cp packages/pacman/git/PKGBUILD $(TEMPDIR)/
+	cd $(TEMPDIR); makepkg
+	cp $(TEMPDIR)/$(NAME)-*.pkg.tar.xz .
+	@echo Package done!
+	@echo You can install it as root with:
+	@echo pacman -U $(NAME)-*.pkg.tar.xz
+
+pacman-local: clean
+	mkdir $(TEMPDIR)
+	tar cf $(TEMPDIR)/$(NAME).tar ../$(NAME)
+	cp packages/pacman/local/PKGBUILD $(TEMPDIR)/
 	cd $(TEMPDIR); makepkg
 	cp $(TEMPDIR)/$(NAME)-*.pkg.tar.xz .
 	@echo Package done!
