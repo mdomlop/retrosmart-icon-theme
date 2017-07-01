@@ -13,7 +13,6 @@ url="https://github.com/mdomlop/${_gitname}.git"
 source=("${_gitname}.tar")
 md5sums=('SKIP')
 license=('GPL3')
-depends=('')
 makedepends=('git')
 optdepends=('retrosmart-gtk-themes: The corresponding GTK themes'
             'retrosmart-openbox-themes: The corresponding Openbox themes'
