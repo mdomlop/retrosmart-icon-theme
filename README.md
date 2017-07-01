@@ -1,4 +1,5 @@
 ![retrosmart-preview](https://raw.githubusercontent.com/mdomlop/retrosmart-icon-theme/master/preview.png "Retrosmart look")
+
 Retrosmart icon theme
 =====================
 
