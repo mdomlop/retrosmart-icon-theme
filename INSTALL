@@ -3,24 +3,24 @@ Install instructions
 
 - Install as usual:
 
-    $ ./configure
-    $ make
-    # make install
+        $ ./configure
+        $ make
+        # make install
 
 - To Uninstall:
 
-    # make uninstall
+        # make uninstall
 
 ### Or for build a Arch Linux packgage:
 
 - From git:
 
-    $ make pacman
+        $ make pacman
 
 - Or from local directory:
 
-    $ make pacman-local
+        $ make pacman-local
 
 - And then install:
 
-    # pacman -U retrosmart-openbox-*.pkg.xz
+        # pacman -U retrosmart-icon-theme-*.pkg.xz
