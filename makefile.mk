@@ -5,7 +5,7 @@ TEMPDIR := $(shell mktemp -u --suffix .$(NAME))
 
 all: icons
 
-togit: purge README.md
+togit: purge doc
 	git add .
 	git commit -m "Updated from makefile"
 	git push origin
@@ -29,7 +29,7 @@ clean:
 	rm -rf $(NAME) $(NAME)-*.pkg.tar.xz
 
 purge: clean
-	rm -rf preview.png /tmp/tmp.*.$(NAME) makefile README.md
+	rm -rf preview.png /tmp/tmp.*.$(NAME) makefile README.md CREDITS.md AUTHORS.md INSTALL.md
 	@echo makefile deleted. Execute configure script to generate it again.
 
 pacman: clean

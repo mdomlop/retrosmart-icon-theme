@@ -70,6 +70,15 @@ echo README.md: preview.png
 echo -e '\t@echo ![retrosmart-preview]\(https://raw.githubusercontent.com/mdomlop/'$name'/master/preview.png \"Retrosmart look\"\) > README.md'
 echo -e '\t'@cat README '>>' README.md
 
+echo CREDITS.md:
+echo -e '\t'@cat CREDITS '>>' CREDITS.md
+echo AUTHORS.md:
+echo -e '\t'@cat AUTHORS '>>' AUTHORS.md
+echo INSTALL.md:
+echo -e '\t'@cat INSTALL '>>' INSTALL.md
+
+echo doc: CREDITS.md AUTHORS.md INSTALL.md README.md
+
 }
 
 makefile > makefile
