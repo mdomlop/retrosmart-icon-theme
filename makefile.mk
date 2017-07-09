@@ -5,11 +5,6 @@ TEMPDIR := $(shell mktemp -u --suffix .$(NAME))
 
 all: icons
 
-togit: purge doc
-	git add .
-	git commit -m "Updated from makefile"
-	git push origin
-
 install:
 	install -d -m 755 $(DESTDIR)/$(PREFIX)/share/icons
 	cp -r $(NAME) $(DESTDIR)/$(PREFIX)/share/icons/
