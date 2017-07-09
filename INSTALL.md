@@ -13,14 +13,14 @@ Install instructions
 
 ### Or for build a Arch Linux packgage:
 
-- From git:
+- Execute:
 
         $ make pacman
 
-- Or from local directory:
+- Or from remote github page:
 
-        $ make pacman-local
+        $ make pacman-remote
 
 - And then install:
 
-        # pacman -U retrosmart-icon-theme-*.pkg.xz
+        # pacman -U retrosmart-*.pkg.xz
