@@ -21,6 +21,7 @@ optdepends=('retrosmart-gtk-themes: The corresponding GTK themes'
             'retrosmart-xfwm4-themes: The corresponding XFwm4 themes')
 arch=('any')
 group=('retrosmart')
+conflicts=($_gitname)
 provides=($_gitname)
 
 pkgver() {
