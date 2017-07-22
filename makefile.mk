@@ -27,16 +27,7 @@ purge: clean
 	rm -rf preview.png /tmp/tmp.*.$(NAME) makefile README.md CREDITS.md AUTHORS.md INSTALL.md
 	@echo makefile deleted. Execute configure script to generate it again.
 
-pacman-remote: clean
-	mkdir $(TEMPDIR)
-	cp packages/pacman/git/PKGBUILD $(TEMPDIR)/
-	cd $(TEMPDIR); makepkg
-	cp $(TEMPDIR)/$(NAME)-*.pkg.tar.xz .
-	@echo Package done!
-	@echo You can install it as root with:
-	@echo pacman -U $(NAME)-*.pkg.tar.xz
-
-pacman: clean
+pkg: clean
 	mkdir $(TEMPDIR)
 	tar cf $(TEMPDIR)/$(NAME).tar ../$(NAME)
 	cp packages/pacman/local/PKGBUILD $(TEMPDIR)/
