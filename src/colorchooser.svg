@@ -9,12 +9,13 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="64"
-   height="64"
-   color-interpolation="linearRGB"
+   width="68.26667"
+   height="68.26667"
    id="svg2"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="colorchooser.svg">
+   inkscape:version="0.92.1 r"
+   sodipodi:docname="colorchooser.svg"
+   viewBox="0 0 64 64"
+   style="color-interpolation:linearRGB">
   <metadata
      id="metadata57">
     <rdf:RDF>
@@ -23,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -119,17 +120,17 @@
     </clipPath>
     <inkscape:perspective
        id="perspective62"
-       inkscape:persp3d-origin="32 : 21.333333 : 1"
-       inkscape:vp_z="64 : 32 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 32 : 1"
+       inkscape:persp3d-origin="31.999998 : 21.333332 : 1"
+       inkscape:vp_z="63.999997 : 31.999998 : 1"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_x="0 : 31.999998 : 1"
        sodipodi:type="inkscape:persp3d" />
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_x="0 : 0.49999998 : 1"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="0.99999995 : 0.49999998 : 1"
+       inkscape:persp3d-origin="0.49999998 : 0.33333331 : 1"
        id="perspective5618" />
     <linearGradient
        inkscape:collect="always"
@@ -256,9 +257,9 @@
        id="gradient3"
        gradientUnits="userSpaceOnUse"
        x1="112.75"
-       y1="-43.03"
+       y1="-43.029999"
        x2="120.95"
-       y2="-26.79">
+       y2="-26.790001">
       <stop
          offset="0"
          stop-color="#ffffff"
@@ -270,9 +271,9 @@
     </linearGradient>
     <linearGradient
        gradientTransform="translate(33.627119,18.983051)"
-       y2="-26.79"
+       y2="-26.790001"
        x2="120.95"
-       y1="-43.03"
+       y1="-43.029999"
        x1="112.75"
        gradientUnits="userSpaceOnUse"
        id="linearGradient2944"
@@ -317,16 +318,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="739"
-     inkscape:window-height="497"
+     inkscape:window-width="1919"
+     inkscape:window-height="1015"
      id="namedview53"
      showgrid="false"
-     inkscape:zoom="3.6875"
+     inkscape:zoom="11.0625"
      inkscape:cx="32"
      inkscape:cy="32"
-     inkscape:window-x="971"
-     inkscape:window-y="228"
-     inkscape:window-maximized="0"
+     inkscape:window-x="1"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <g
      style="display:inline"
@@ -370,7 +371,7 @@
       <path
          sodipodi:nodetypes="ccccccc"
          id="path3620"
-         d="M 28.8634,163 21,171 l -3,2 -1,-1 2,-3 7.8634,-8 2,2 z"
+         d="M 28.8634,163 21,171 l -3,2 -1,-1 2,-3 7.8634,-8 z"
          style="fill:url(#linearGradient3628);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient5670);stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
          inkscape:connector-curvature="0" />
       <rect
@@ -394,7 +395,7 @@
          inkscape:connector-curvature="0" />
       <path
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         d="m 25,160 5,5 1,-1 -1.5,-1.5 c 3.5,-0.5 6.3634,-4.2596 4.3634,-6.2596 -2,-2 -5.8634,0.7596 -6.3634,4.2596 L 26,159 l -1,1 z"
+         d="m 25,160 5,5 1,-1 -1.5,-1.5 c 3.5,-0.5 6.3634,-4.2596 4.3634,-6.2596 -2,-2 -5.8634,0.7596 -6.3634,4.2596 L 26,159 Z"
          id="path3583"
          sodipodi:nodetypes="ccccsccc"
          inkscape:connector-curvature="0" />
