@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <radialGradient id="gradient0" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64" gradientTransform="matrix(0.375,0,0,0.375,32,32)">
+   <stop offset="1" stop-color="#3a3b40" stop-opacity="0"/>
+   <stop offset="0" stop-color="#3a3c40"/>
+  </radialGradient>
+  <path style="fill:url(#gradient0)"
+        d="M46 7.99C46 15.99 54 27.99 54 35.99C54 43.99 46 55.99 42 55.99H22C18 55.99 14 47.99 14 47.99L10 31.99C10 27.99 14 23.99 18 23.99L36 24C36 20 34 7.99 46 7.99z"
+        transform="matrix(1.3333,0,0,0.3333,-10.6666,45.3333)"
+  />
+  <radialGradient id="gradient1" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64" gradientTransform="matrix(0.625,0,0,0.625,20,20)">
+   <stop offset="0" stop-color="#656565"/>
+   <stop offset="1" stop-color="#010101"/>
+  </radialGradient>
+  <path style="fill:none; stroke:url(#gradient1); stroke-width:8"
+        d="M46 7.99C46 15.99 54 27.99 54 35.99C54 43.99 46 55.99 42 55.99H22C18 55.99 14 47.99 14 47.99L10 31.99C10 27.99 14 23.99 18 23.99L36 24C36 20 34 7.99 46 7.99z"
+  />
+  <radialGradient id="gradient2" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64" gradientTransform="matrix(0.5729,0,0,0.625,19.3333,16)">
+   <stop offset="0.3126" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#d3d3d3"/>
+  </radialGradient>
+  <path style="fill:url(#gradient2)"
+        d="M46 7.99C46 15.99 54 27.99 54 35.99C54 43.99 46 55.99 42 55.99H22C18 55.99 14 47.99 14 47.99L10 31.99C10 27.99 14 23.99 18 23.99L36 24C36 20 34 7.99 46 7.99z"
+  />
+  <linearGradient id="gradient3" gradientUnits="userSpaceOnUse" x1="63.62" y1="-61.65" x2="51.71" y2="-64.16">
+   <stop offset="0" stop-color="#010101" stop-opacity="0"/>
+   <stop offset="1" stop-color="#010101" stop-opacity="0.5647"/>
+  </linearGradient>
+  <path style="fill:url(#gradient3)"
+        d="M24 56C24 56 32 56 32 52C32 48 24 48 24 48C24 48 36 48 36 44C36 40 24 40 24 40C24 40 36 40 36 36C36 32 24 32 24 32C24 32 34 32 34 28C34 24 26 24 26 24H36C36 24 44 38 40 42C36 46 40 46 40 56H24z"
+  />
+ </g>
+</svg>

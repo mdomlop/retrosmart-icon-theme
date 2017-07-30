@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#010100"
+        d="M8 12H56C56 12 60 12 60 16C60 20 60 44 60 48C60 52 56 52 56 52H8C8 52 4 52 4 48C4 44 4 20 4 16C4 12 8 12 8 12z"
+  />
+  <radialGradient id="gradient0" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64" gradientTransform="matrix(0.75,0,0,0.5625,16,16)">
+   <stop offset="0" stop-color="#f9f8e5"/>
+   <stop offset="1" stop-color="#f8f48d"/>
+  </radialGradient>
+  <path style="fill:url(#gradient0)"
+        d="M8 12H56C56 12 60 12 60 16C60 20 60 44 60 48C60 52 56 52 56 52H8C8 52 4 52 4 48C4 44 4 20 4 16C4 12 8 12 8 12z"
+  />
+  <path style="fill:#706e39"
+        d="M7 15C7 15 24 32 32 32C40 32 57 15 57 15C57 15 44 36 32 36C20 36 7 15 7 15z
+           M8 48L24 32H28L8 48z
+           M56 48L36 32H40L56 48z"
+  />
+ </g>
+</svg>

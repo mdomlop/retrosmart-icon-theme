@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#000000"
+        d="
+           M32 16C23.16 16 16 23.16 16 32C16 40.83 23.16 48 32 48C40.83 48 48 40.83 48 32C48 23.16 40.83 16 32 16z"
+        transform="matrix(1.7617,0,0,1.7539,-24.4375,-24.0624)"
+  />
+  <radialGradient id="gradient0" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64" gradientTransform="matrix(0.4589,0,0,0.4589,24.25,27.875)">
+   <stop offset="0" stop-color="#f2f2f2"/>
+   <stop offset="0.6735" stop-color="#7a7a7a"/>
+  </radialGradient>
+  <path style="fill:url(#gradient0)"
+        d="M32 16C23.16 16 16 23.16 16 32C16 40.83 23.16 48 32 48C40.83 48 48 40.83 48 32C48 23.16 40.83 16 32 16z"
+        transform="matrix(1.625,0,0,1.6249,-20.125,-20.1249)"
+  />
+ </g>
+</svg>

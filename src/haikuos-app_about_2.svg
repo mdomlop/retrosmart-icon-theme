@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="75" y1="7" x2="75" y2="59">
+   <stop offset="0" stop-color="#010101" stop-opacity="0.4"/>
+   <stop offset="1" stop-color="#010101" stop-opacity="0.5215"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M2 58H8C14 53 17 49 17 49C17 49 25 56 29 56V51C40 56 52 50 52 50L51 47C51 47 59 46 64 40C64 33 47 31 47 31C55 26 56 16 56 16C56 16 51 14 52 10C49 11 46 11 46 11L3 45C6 47 13 47 13 47L2 58z"
+  />
+  <path style="fill:none; stroke:#000000; stroke-width:4; stroke-linejoin:round"
+        d="M46 6C46 6 38 11 34 10C27 14 24 22 24 22L27 34L38 20L46 6z
+           M2 22C1 31 8 40 8 40L4 41C4 41 7 45 15 44L27 34L24 22L16 10L12 12L8 9C4 13 6 22 6 22H2z
+           M17 45C17 52 25 54 25 54L26 49C26 49 41 53 48 47L46 44C46 44 53 43 58 36L54 34V32L41 30L27 34L17 45z
+           M15 44C9 50 2 55 2 55L6 56C6 56 12 51 17 45L15 44z
+           M41 30C41 30 49.37 21.49 50 15C47.14 13.77 46 6 46 6L38 20L27 34L41 30z"
+  />
+  <radialGradient id="gradient1" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64" gradientTransform="matrix(0.082,0.3615,-1.0116,0.2297,31.3897,34.0001)">
+   <stop offset="0" stop-color="#fdb33d"/>
+   <stop offset="1" stop-color="#da4c05"/>
+  </radialGradient>
+  <path style="fill:url(#gradient1)"
+        d="M2 22C1 31 8 40 8 40L4 41C4 41 7 45 15 44L27 34L24 22L16 10L12 12L8 9C4 13 6 22 6 22H2z"
+  />
+  <radialGradient id="gradient2" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64" gradientTransform="matrix(-0.3947,0.4201,-0.322,-0.3026,32.7895,40.1253)">
+   <stop offset="0" stop-color="#ffd659"/>
+   <stop offset="1" stop-color="#f7702e"/>
+  </radialGradient>
+  <path style="fill:url(#gradient2)"
+        d="M17 45C17 52 25 54 25 54L26 49C26 49 41 53 48 47L46 44C46 44 53 43 58 36L54 34V32L41 30L27 34L17 45z"
+  />
+  <radialGradient id="gradient3" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64" gradientTransform="matrix(0.1608,0.3371,-0.6549,0.3123,41.3836,7.9101)">
+   <stop offset="0" stop-color="#da4c05"/>
+   <stop offset="0.9963" stop-color="#ffb643"/>
+  </radialGradient>
+  <path style="fill:url(#gradient3)"
+        d="M46 6C46 6 38 11 34 10C27 14 24 22 24 22L27 34L38 20L46 6z"
+  />
+  <radialGradient id="gradient4" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64" gradientTransform="matrix(0.1608,0.3371,-0.6549,0.3123,41.3836,7.9101)">
+   <stop offset="0" stop-color="#f7702e"/>
+   <stop offset="1" stop-color="#ffd659"/>
+  </radialGradient>
+  <path style="fill:url(#gradient4)"
+        d="M41 30C41 30 49.37 21.49 50 15C47.14 13.77 46 6 46 6L38 20L27 34L41 30z"
+  />
+  <linearGradient id="gradient5" gradientUnits="userSpaceOnUse" x1="-1.2" y1="90.17" x2="-27.84" y2="60.86">
+   <stop offset="0" stop-color="#ffab3e"/>
+   <stop offset="1" stop-color="#dd7a29"/>
+  </linearGradient>
+  <path style="fill:url(#gradient5)"
+        d="M15.37 44.5C15.37 44.5 17.37 42.68 19.25 41C15 38 12 34 12 34C12 34 17 38 20.57 39.82L22.71 38.1C21 32 13 20 13 20C13 20 21.62 31.5 24 37C30 30 40 17 40 17C40 17 32 32 25.77 37.27C33.37 38.5 51 36 51 36C51 36 32 41 24.46 38.69L23 41C28.87 44.73 31 46 31 46C31 46 26 45 22 42C20.16 43.7 17 47 17 47L15.37 44.5z"
+  />
+  <linearGradient id="gradient6" gradientUnits="userSpaceOnUse" x1="34.1" y1="32.73" x2="37.72" y2="38.74">
+   <stop offset="0" stop-color="#ffd75f"/>
+   <stop offset="1" stop-color="#a4370b"/>
+  </linearGradient>
+  <path style="fill:url(#gradient6)"
+        d="M15 44C9 50 2 55 2 55L6 56C6 56 12 51 17 45L15 44z"
+  />
+  <linearGradient id="gradient7" gradientUnits="userSpaceOnUse" x1="74.22" y1="41.1" x2="56.23" y2="68.36">
+   <stop offset="0" stop-color="#ffc14b"/>
+   <stop offset="1" stop-color="#ffd75f"/>
+  </linearGradient>
+  <path style="fill:url(#gradient7)"
+        d="M15 44C15 44 18.71 40.69 24 36C33 28 44 9 44 9C44 9 34 28 25.39 36.77C34 37 45 37 45 37C45 37 35 38 24.08 38.19L22.12 40.26C28 44 38 47 38 47C38 47 29.12 45.12 21.03 41.52C19.19 43.23 17 45 17 45L15 44z"
+  />
+ </g>
+</svg>

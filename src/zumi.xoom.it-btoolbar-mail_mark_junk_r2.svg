@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:none; stroke:#000000; stroke-opacity:0.4; stroke-width:6"
+        d="M8 34L34 8
+           M21 3C11.05 3 3 11.05 3 21C3 30.94 11.05 39 21 39C30.94 39 39 30.94 39 21C39 11.05 30.94 3 21 3z"
+        transform="matrix(1,0,0,1,2,2)"
+  />
+  <path style="fill:none; stroke:#800000; stroke-width:6"
+        d="M8 34L34 8
+           M21 3C11.05 3 3 11.05 3 21C3 30.94 11.05 39 21 39C30.94 39 39 30.94 39 21C39 11.05 30.94 3 21 3z"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="128" y1="1.99" x2="128" y2="40">
+   <stop offset="0" stop-color="#ffabab"/>
+   <stop offset="1" stop-color="#d90000"/>
+  </linearGradient>
+  <path style="fill:none; stroke:url(#gradient0); stroke-width:2"
+        d="M21 3C11.05 3 3 11.05 3 21C3 30.94 11.05 39 21 39C30.94 39 39 30.94 39 21C39 11.05 30.94 3 21 3z
+           M8 34L34 8"
+  />
+  <path style="fill:none; stroke:#000000; stroke-opacity:0.4; stroke-width:6; stroke-linecap:round; stroke-linejoin:round"
+        d="M3 33V25H7C8 25 9 26 9 27C9 28 8 29 7 29H3
+           M13 25V33
+           M17 25V33H21
+           M25 25V33H29
+           M39 25H35C34 25 33 26 33 27C33 28 34 29 35 29H37C38 29 39 30 39 31C39 32 38 33 37 33H33"
+        transform="matrix(1,0,0,1,2,2)"
+  />
+  <path style="fill:none; stroke:#000000; stroke-opacity:0.4; stroke-width:6; stroke-linecap:round; stroke-linejoin:round"
+        d="M31 29V31C31 32 30 33 29 33
+           M27 25V27C27 28 28 29 29 29H31C32 29 33 28 33 27V25
+           M17 25V31C17 32 18 33 19 33H21C22.06 33 23 32 23 31V25
+           M7 25V33H11C12 33 13 32 13 31C13 30 12 29 11 29H9H11C12 29 13 28 13 27C13 26 12 25 11 25H7z"
+        transform="matrix(1,0,0,1,2,-14)"
+  />
+  <path style="fill:none; stroke:#545454; stroke-width:6; stroke-linecap:round; stroke-linejoin:round"
+        d="M3 33V25H7C8 25 9 26 9 27C9 28 8 29 7 29H3
+           M13 25V33
+           M17 25V33H21
+           M25 25V33H29
+           M39 25H35C34 25 33 26 33 27C33 28 34 29 35 29H37C38 29 39 30 39 31C39 32 38 33 37 33H33"
+  />
+  <linearGradient id="gradient1" gradientUnits="userSpaceOnUse" x1="130" y1="24" x2="130" y2="34">
+   <stop offset="0" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#e5e5e5"/>
+  </linearGradient>
+  <path style="fill:none; stroke:url(#gradient1); stroke-width:2; stroke-linecap:round; stroke-linejoin:round"
+        d="M3 33V25H7C8 25 9 26 9 27C9 28 8 29 7 29H3
+           M13 25V33
+           M17 25V33H21
+           M25 25V33H29
+           M39 25H35C34 25 33 26 33 27C33 28 34 29 35 29H37C38 29 39 30 39 31C39 32 38 33 37 33H33"
+  />
+  <path style="fill:none; stroke:#545454; stroke-width:6; stroke-linecap:round; stroke-linejoin:round"
+        d="M31 29V31C31 32 30 33 29 33
+           M27 25V27C27 28 28 29 29 29H31C32 29 33 28 33 27V25
+           M17 25V31C17 32 18 33 19 33H21C22.06 33 23 32 23 31V25
+           M7 25V33H11C12 33 13 32 13 31C13 30 12 29 11 29H9H11C12 29 13 28 13 27C13 26 12 25 11 25H7z"
+        transform="matrix(1,0,0,1,0,-16)"
+  />
+  <linearGradient id="gradient2" gradientUnits="userSpaceOnUse" x1="130" y1="24" x2="130" y2="34">
+   <stop offset="0" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#e5e5e5"/>
+  </linearGradient>
+  <path style="fill:none; stroke:url(#gradient2); stroke-width:2; stroke-linecap:round; stroke-linejoin:round"
+        d="M31 29V31C31 32 30 33 29 33
+           M27 25V27C27 28 28 29 29 29H31C32 29 33 28 33 27V25
+           M17 25V31C17 32 18 33 19 33H21C22.06 33 23 32 23 31V25
+           M7 25V33H11C12 33 13 32 13 31C13 30 12 29 11 29H9H11C12 29 13 28 13 27C13 26 12 25 11 25H7z"
+        transform="matrix(1,0,0,1,0,-16)"
+  />
+ </g>
+</svg>

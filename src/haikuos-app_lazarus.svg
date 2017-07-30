@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#010101; fill-opacity:0.3725"
+        d="M28 2C13.64 2 2 13.64 2 28C2 42.34 13.64 54 28 54C42.34 54 54 42.34 54 28C54 13.64 42.34 2 28 2z"
+        transform="matrix(1,0,0,0.5,10,37)"
+  />
+  <path style="fill:none; stroke:#000000; stroke-width:4"
+        d="M28 2C13.64 2 2 13.64 2 28C2 42.34 13.64 54 28 54C42.34 54 54 42.34 54 28C54 13.64 42.34 2 28 2z"
+  />
+  <radialGradient id="gradient0" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64" gradientTransform="matrix(0.5625,0,0,0.5625,18,18)">
+   <stop offset="0" stop-color="#c1c1c1"/>
+   <stop offset="0.75" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#bdbdbd"/>
+  </radialGradient>
+  <path style="fill:url(#gradient0)"
+        d="M28 2C13.64 2 2 13.64 2 28C2 42.34 13.64 54 28 54C42.34 54 54 42.34 54 28C54 13.64 42.34 2 28 2z"
+  />
+  <radialGradient id="gradient1" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64" gradientTransform="matrix(0.5625,0,0,0.5625,18,18)">
+   <stop offset="0" stop-color="#c1c1c1"/>
+   <stop offset="0.75" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#bdbdbd"/>
+  </radialGradient>
+  <path style="fill:url(#gradient1)"
+        d="M28 2C13.64 2 2 13.64 2 28C2 42.34 13.64 54 28 54C42.34 54 54 42.34 54 28C54 13.64 42.34 2 28 2z"
+        transform="matrix(-0.8846,0,0,-0.8846,52.7692,52.7692)"
+  />
+  <path style="fill:#000000"
+        d="M28 30C24 32 23.2 35.77 24 38C24.79 40.22 19 44 22 47C25 50 28 51 38 46C44.81 42.59 46.8 37.4 45 35C42 31 37.8 33.6 37 32C36 30 32 28 28 30z
+           M14 29C12.05 28.51 10 29 10 29C10 29 11 27 8 27C6 27 10 33 10 33C10.23 36.21 11.21 39.8 13 41C16.32 43.21 19.65 42.68 21 40C22 38 22.42 33.14 19 32C16 31 18 30 14 29z
+           M41 14C39.21 13.1 41 17 41 17C41 17 37 15 37 18C37 20 37.08 20.94 37 23C36.85 26.37 36.21 27.8 38 29C41.32 31.21 44.65 30.68 46 28C47 26 46 24.23 46 22C46 21 46.34 20.34 45 19C44 18 41.92 14.46 41 14z
+           M23 9C21.58 7.58 24 13 24 13C24 13 25 12 23 13C21.21 13.89 23.07 17.15 24 19C26 23 24.89 21.33 26 23C28 26 29.65 24.68 31 22C32 20 32 12 28 12C26.54 12 24.22 10.22 23 9z
+           M18 17C16.21 17.89 16 16 16 16C16 16 16 15 14 14C12.21 13.1 15 19 15 19C11 20 16.21 24.8 18 26C21.32 28.21 25 29 25 26C25 24 23 21 22 19C20.58 16.17 20 16 18 17z"
+  />
+ </g>
+</svg>

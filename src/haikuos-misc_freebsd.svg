@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#010101; fill-opacity:0.4627"
+        d="M44 62C46 62 51 62 55 61C55 61 57 62 58 61C59 60 59 58 59 58C60 57 64 52 63.96 47.06C64 44 62 41 60 40C62 38 60 32 54 32L8 38L24 60C30 60 38 60 38 60C38 60 42 61 44 62z"
+  />
+  <path style="fill:none; stroke:#010101; stroke-width:4"
+        d="M30 2C45.68 2 58 14.31 58 30C58 45.68 45.68 58 30 58C14.31 58 2 45.68 2 30C2 14.31 14.31 2 30 2z"
+  />
+  <radialGradient id="gradient0" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64" gradientTransform="matrix(0.625,0,0,0.625,18,18)">
+   <stop offset="0.0026" stop-color="#ffffff"/>
+   <stop offset="0.4947" stop-color="#ff8752"/>
+   <stop offset="1" stop-color="#c90505"/>
+  </radialGradient>
+  <path style="fill:url(#gradient0)"
+        d="M30 2C45.68 2 58 14.31 58 30C58 45.68 45.68 58 30 58C14.31 58 2 45.68 2 30C2 14.31 14.31 2 30 2z"
+  />
+  <path style="fill:#870303; fill-opacity:0.4627"
+        d="M6 15C9 15 16 16 18 14C20 12 19 9 16 6
+           M32 20C32 22 36 23 39 25C42 27 46 33 48 33C51 33 51 23 51 20H32z"
+  />
+  <path style="fill:none; stroke:#010101; stroke-width:4"
+        d="M15 13C16 12 16 7 14 7L11 8C8 3 4 0 2 3C2 5 5 14 6 15
+           M46 27C47 27 57 19 57 15C57 12 49 16 44 16C38.9 16 33 17 34 20"
+  />
+  <path style="fill:#d21111"
+        d="M16 14C16 13 16 7 14 7H11C8 5 4 -1 2 3C2 1 16 13 16 14z
+           M32 20C32 19 57 14 57 15C57 12 49 16 44 16C38.9 16 32 17 32 20z"
+  />
+  <path style="fill:#bc0505"
+        d="M6 15C7 15 8 14 10 14H16C16 13 2 1 2 3C2 5 5 14 6 15z
+           M32 20C32 22 37 22 40 24C43 26 44 29 46 29C47 29 57 19 57 15C57 14 32 19 32 20z"
+  />
+  <path style="fill:#ffffff"
+        d="M16 14C13.77 12.22 10.97 11.95 9 9C7 6 3 0.88 3 2C3.57 -0.86 7 4 9 8C10.66 11.33 14.71 12.28 16 14z
+           M32 20C33.09 19.45 47.03 17.65 49 17C52 16 57 13.64 57 15C57 14.56 53.03 19.25 51 19C48.96 18.74 32 19.43 32 20z"
+  />
+ </g>
+</svg>

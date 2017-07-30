@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#000000; fill-opacity:0.4"
+        d="M36 16C40 10 40 4 40 2C38 2 32 2 26 6C30 6 36 12 36 16z
+           M16 31V40L22 34V26C24 24 32 22 36 16C36 12 30 6 26 6C20 10 18 18 16 20H8L2 26H11L9 28L14 33L16 31z
+           M8 30C8 30 2 30 2 40C12 40 12 34 12 34L8 30z"
+        transform="matrix(1,0,0,1,2,2)"
+  />
+  <path style="fill:#545454"
+        d="M36 16C40 10 40 4 40 2C38 2 32 2 26 6C30 6 36 12 36 16z"
+  />
+  <path style="fill:none; stroke:#bf7000; stroke-width:4; stroke-linecap:round; stroke-linejoin:round"
+        d="M8 30C8 30 2 30 2 40C12 40 12 34 12 34L8 30z"
+  />
+  <radialGradient id="gradient0" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64" gradientTransform="matrix(0.0571,0.0571,-0.0883,0.0883,10,32)">
+   <stop offset="1" stop-color="#ffff00"/>
+   <stop offset="0" stop-color="#ffaa00"/>
+  </radialGradient>
+  <path style="fill:url(#gradient0)"
+        d="M8 30C8 30 2 30 2 40C12 40 12 34 12 34L8 30z"
+  />
+  <path style="fill:none; stroke:#800000; stroke-width:4; stroke-linecap:round; stroke-linejoin:round"
+        d="M16 31V40L22 34V26C24 24 32 22 36 16C36 12 30 6 26 6C20 10 18 18 16 20H8L2 26H11L9 28L14 33L16 31z"
+  />
+  <linearGradient id="gradient1" gradientUnits="userSpaceOnUse" x1="128" y1="1.99" x2="128" y2="40">
+   <stop offset="0" stop-color="#ffabab"/>
+   <stop offset="1" stop-color="#d90000"/>
+  </linearGradient>
+  <path style="fill:url(#gradient1)"
+        d="M16 31V40L22 34V26C24 24 32 22 36 16C36 12 30 6 26 6C20 10 18 18 16 20H8L2 26H11L9 28L14 33L16 31z"
+  />
+  <path style="fill:#800000"
+        d="M12 32L20 24L18 22L10 30L12 32z"
+  />
+ </g>
+</svg>

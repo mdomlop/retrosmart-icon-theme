@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:none; stroke:#010101; stroke-width:4"
+        d="M12 45L20 49L28 42L34 55L44 60L52 52L41 31L53 17L43 14L35 21L29 10L21 8L12 13L23 33L12 45z"
+        transform="matrix(0.8384,0,0,0.8384,3.5901,1.5618)"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="70.14" y1="-20.7" x2="95.37" y2="12.34">
+   <stop offset="0" stop-color="#c80505"/>
+   <stop offset="0.4904" stop-color="#930f0f"/>
+   <stop offset="1" stop-color="#bc0f0f"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M21 15L28 28L32 35L44 60L52 52L29 9L21 15z"
+        transform="matrix(0.8384,0,0,0.8384,3.5901,1.5618)"
+  />
+  <path style="fill:#750303"
+        d="M41 32L53 17L39 25L32 38L41 32z
+           M18 48L31 40L27 39L18 48z"
+        transform="matrix(0.8384,0,0,0.8384,3.5901,1.5618)"
+  />
+  <linearGradient id="gradient1" gradientUnits="userSpaceOnUse" x1="69.2" y1="-54.05" x2="109.62" y2="38.56">
+   <stop offset="0.3421" stop-color="#ff5252"/>
+   <stop offset="1" stop-color="#ff0606"/>
+  </linearGradient>
+  <path style="fill:url(#gradient1)"
+        d="M12 45L20 49L27 40L34 55L45 60L33 35L44 24L34 21L28 27.87L21 14L12 13L23 33L12 45z"
+        transform="matrix(0.8384,0,0,0.8384,3.5901,1.5618)"
+  />
+  <linearGradient id="gradient2" gradientUnits="userSpaceOnUse" x1="47.25" y1="-23.17" x2="71.47" y2="3.46">
+   <stop offset="0" stop-color="#ff9090"/>
+   <stop offset="1" stop-color="#ff7575"/>
+  </linearGradient>
+  <path style="fill:url(#gradient2)"
+        d="M34 21L44 24L53 17L43 14L34 21z
+           M12 13L20 16L29 10L21 8L12 13z"
+        transform="matrix(0.8384,0,0,0.8384,3.5901,1.5618)"
+  />
+  <path style="fill:none; stroke:#ffffff; stroke-opacity:0.2235; stroke-width:1.5"
+        d="M23 34L13 45
+           M28 28L34 22L43 15
+           M13 13L21 9"
+        transform="matrix(0.8384,0,0,0.8384,3.5901,1.5618)"
+  />
+ </g>
+</svg>

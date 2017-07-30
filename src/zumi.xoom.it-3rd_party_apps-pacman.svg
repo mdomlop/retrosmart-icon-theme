@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#000000; fill-opacity:0.4"
+        d="M37 61C23.19 61 12 53.16 12 43.5C12 33.83 23.19 26 37 26C50.8 26 62 33.83 62 43.5C62 53.16 55 61 44 61H37z"
+  />
+  <path style="fill:none; stroke:#000000; stroke-width:4"
+        d="M29 3C17.58 3 8.03 10.97 5.6 21.64C5.59 22.65 6.21 23.92 7.89 25.51C6.6 30.46 6.33 37.08 10.98 42.84C15.37 47.84 21.81 51 29 51C42.25 51 53 40.25 53 27C53 13.74 42.25 3 29 3z"
+  />
+  <radialGradient id="gradient0" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64" gradientTransform="matrix(0.5312,0,0,0.5312,19,17)">
+   <stop offset="0" stop-color="#ffffff"/>
+   <stop offset="0.75" stop-color="#fee900"/>
+   <stop offset="1" stop-color="#febe00"/>
+  </radialGradient>
+  <path style="fill:url(#gradient0)"
+        d="M29 3C17.58 3 8.03 10.97 5.6 21.64C5.59 22.65 6.21 23.92 7.89 25.51C9.5 27.03 12.07 28.84 16 31C36 42 49 37 49 37C49 37 40.81 49.85 28.92 50.99C28.94 50.99 28.97 51 29 51C42.25 51 53 40.25 53 27C53 13.74 42.25 3 29 3z"
+  />
+  <path style="fill:#806540"
+        d="M10.82 27.84C9.61 26.99 8.64 26.22 7.89 25.51C6.2 32.03 6.26 41.44 17 48C23.82 52.16 30.07 51.59 35.2 49.27C17.21 46.3 12.05 35.85 10.82 27.84z"
+  />
+  <path style="fill:#000000"
+        d="M16 31C13.91 29.85 12.2 28.8 10.82 27.84C12.05 35.85 17.21 46.3 35.2 49.27C43.6 45.48 49 37 49 37C49 37 36 42 16 31z"
+  />
+ </g>
+</svg>

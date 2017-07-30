@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:none; stroke:#010101; stroke-opacity:0.4352; stroke-width:4; stroke-linecap:round; stroke-linejoin:round"
+        d="M2 7L6 12C6 12 11 5 15 10C19 15 6 17 6 22V26H13V23C13 19 22 19 22 12C22 6 17 2 11 2C5 2 2 7 2 7z
+           M10 32C7.79 32 6 33.79 6 36C6 38.2 7.79 40 10 40C12.2 40 14 38.2 14 36C14 33.79 12.2 32 10 32z"
+        transform="matrix(1,0,0,1,13,2)"
+  />
+  <path style="fill:none; stroke:#004080; stroke-width:4; stroke-linecap:round; stroke-linejoin:round"
+        d="M2 7L6 12C6 12 11 5 15 10C19 15 6 17 6 22V26H13V23C13 19 22 19 22 12C22 6 17 2 11 2C5 2 2 7 2 7z
+           M10 32C7.79 32 6 33.79 6 36C6 38.2 7.79 40 10 40C12.2 40 14 38.2 14 36C14 33.79 12.2 32 10 32z"
+        transform="matrix(1,0,0,1,11,0)"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="128" y1="2" x2="128" y2="39.99">
+   <stop offset="0" stop-color="#abd5ff"/>
+   <stop offset="1" stop-color="#006cd9"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M2 7L6 12C6 12 11 5 15 10C19 15 6 17 6 22V26H13V23C13 19 22 19 22 12C22 6 17 2 11 2C5 2 2 7 2 7z
+           M10 32C7.79 32 6 33.79 6 36C6 38.2 7.79 40 10 40C12.2 40 14 38.2 14 36C14 33.79 12.2 32 10 32z"
+        transform="matrix(1,0,0,1,11,0)"
+  />
+  <path style="fill:none; stroke:#010101; stroke-opacity:0.4352; stroke-width:8; stroke-linecap:round; stroke-linejoin:round"
+        d="M2 7L6 12C6 12 11 5 15 10C19 15 6 17 6 22V26H13V23C13 19 22 19 22 12C22 6 17 2 11 2C5 2 2 7 2 7z
+           M10 32C7.79 32 6 33.79 6 36C6 38.2 7.79 40 10 40C12.2 40 14 38.2 14 36C14 33.79 12.2 32 10 32z"
+        transform="matrix(0.5,0,0,0.5,30.9997,21.9997)"
+  />
+  <path style="fill:none; stroke:#004080; stroke-width:8; stroke-linecap:round; stroke-linejoin:round"
+        d="M2 7L6 12C6 12 11 5 15 10C19 15 6 17 6 22V26H13V23C13 19 22 19 22 12C22 6 17 2 11 2C5 2 2 7 2 7z
+           M10 32C7.79 32 6 33.79 6 36C6 38.2 7.79 40 10 40C12.2 40 14 38.2 14 36C14 33.79 12.2 32 10 32z"
+        transform="matrix(0.5,0,0,0.5,28.9997,19.9997)"
+  />
+  <linearGradient id="gradient1" gradientUnits="userSpaceOnUse" x1="128" y1="2" x2="128" y2="39.99">
+   <stop offset="0" stop-color="#abd5ff"/>
+   <stop offset="1" stop-color="#006cd9"/>
+  </linearGradient>
+  <path style="fill:url(#gradient1)"
+        d="M2 7L6 12C6 12 11 5 15 10C19 15 6 17 6 22V26H13V23C13 19 22 19 22 12C22 6 17 2 11 2C5 2 2 7 2 7z
+           M10 32C7.79 32 6 33.79 6 36C6 38.2 7.79 40 10 40C12.2 40 14 38.2 14 36C14 33.79 12.2 32 10 32z"
+        transform="matrix(0.5,0,0,0.5,28.9997,19.9997)"
+  />
+  <path style="fill:none; stroke:#010101; stroke-opacity:0.4352; stroke-width:8; stroke-linecap:round; stroke-linejoin:round"
+        d="M2 7L6 12C6 12 11 5 15 10C19 15 6 17 6 22V26H13V23C13 19 22 19 22 12C22 6 17 2 11 2C5 2 2 7 2 7z
+           M10 32C7.79 32 6 33.79 6 36C6 38.2 7.79 40 10 40C12.2 40 14 38.2 14 36C14 33.79 12.2 32 10 32z"
+        transform="matrix(0.5,0,0,0.5,2.9997,12.9997)"
+  />
+  <path style="fill:none; stroke:#004080; stroke-width:8; stroke-linecap:round; stroke-linejoin:round"
+        d="M2 7L6 12C6 12 11 5 15 10C19 15 6 17 6 22V26H13V23C13 19 22 19 22 12C22 6 17 2 11 2C5 2 2 7 2 7z
+           M10 32C7.79 32 6 33.79 6 36C6 38.2 7.79 40 10 40C12.2 40 14 38.2 14 36C14 33.79 12.2 32 10 32z"
+        transform="matrix(0.5,0,0,0.5,0.9997,10.9997)"
+  />
+  <linearGradient id="gradient2" gradientUnits="userSpaceOnUse" x1="128" y1="2" x2="128" y2="39.99">
+   <stop offset="0" stop-color="#abd5ff"/>
+   <stop offset="1" stop-color="#006cd9"/>
+  </linearGradient>
+  <path style="fill:url(#gradient2)"
+        d="M2 7L6 12C6 12 11 5 15 10C19 15 6 17 6 22V26H13V23C13 19 22 19 22 12C22 6 17 2 11 2C5 2 2 7 2 7z
+           M10 32C7.79 32 6 33.79 6 36C6 38.2 7.79 40 10 40C12.2 40 14 38.2 14 36C14 33.79 12.2 32 10 32z"
+        transform="matrix(0.5,0,0,0.5,0.9997,10.9997)"
+  />
+ </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:none; stroke:#000000; stroke-width:8; stroke-linecap:round; stroke-linejoin:round"
+        d="M18 38V17C18 14 21 6 32 6C43 6 46 14 46 17V48C46 50 39 59 36 59C33 59 26 50 26 48V26C26 24 28 21 32 21C36 21 38 24 38 26V38"
+        transform="matrix(0.7071,0.7071,-0.7071,0.7071,32.3543,-13.108)"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="80.5" y1="-55.26" x2="118" y2="-17.75">
+   <stop offset="0" stop-color="#dae7f5"/>
+   <stop offset="0.4826" stop-color="#758596"/>
+   <stop offset="1" stop-color="#dae7f5"/>
+  </linearGradient>
+  <path style="fill:none; stroke:url(#gradient0); stroke-width:4; stroke-linecap:round; stroke-linejoin:round"
+        d="M18 38V17C18 14 21 6 32 6C43 6 46 14 46 17V48C46 50 39 59 36 59C33 59 26 50 26 48V26C26 24 28 21 32 21C36 21 38 24 38 26V38"
+        transform="matrix(0.7071,0.7071,-0.7071,0.7071,32.3543,-13.108)"
+  />
+  <path style="fill:none; stroke:#ffffff; stroke-width:2; stroke-linecap:round; stroke-linejoin:round"
+        d="M18 38V17C18 14 21 6 32 6C43 6 46 14 46 17V48C46 50 39 59 36 59C33 59 26 50 26 48V26C26 24 28 21 32 21C36 21 38 24 38 26V38"
+        transform="matrix(0.7071,0.7071,-0.6813,0.6813,30.8115,-12.9795)"
+  />
+ </g>
+</svg>

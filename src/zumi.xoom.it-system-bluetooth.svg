@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#000000; fill-opacity:0.4431"
+        d="M62 49L49.05 42.61L27 64H49C56 64 69 53 62 49z"
+  />
+  <path style="fill:none; stroke:#000000; stroke-width:4"
+        d="M49 43V32C49 21 42 9 32 4C26 1 19 2 15 4C11 6 6 11 6 11C4 13 2 17 2 21V37C2 40 4.18 46.78 7 50C14.48 58.55 22 62 28 62C44.04 62 49 47 49 43z"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="66.16" y1="-91.87" x2="126.58" y2="-31.44">
+   <stop offset="0.2575" stop-color="#1942e7"/>
+   <stop offset="0.5227" stop-color="#97c3ff"/>
+   <stop offset="0.8825" stop-color="#032288"/>
+   <stop offset="1" stop-color="#203bac"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M49 43V32C49 21 42 9 32 4C26 1 19 2 15 4C11 6 6 11 6 11C9 7 17 5 23 8C33 13 40 28 40 40C40 40 41 62 28 62C44 62 49 47 49 43z"
+  />
+  <linearGradient id="gradient1" gradientUnits="userSpaceOnUse" x1="83.95" y1="-58.27" x2="122.26" y2="-10.65">
+   <stop offset="0.228" stop-color="#33a2ff"/>
+   <stop offset="0.8323" stop-color="#3369ff"/>
+  </linearGradient>
+  <path style="fill:url(#gradient1)"
+        d="M2 21V37.26C2 40.47 4.53 46.87 7.34 50.09C14.83 58.65 22 62 28 62C41 62 40 40 40 40C40 28 31 15 21 10C15 7 8 9 6 11C4 13 2 17 2 21z"
+  />
+  <linearGradient id="gradient2" gradientUnits="userSpaceOnUse" x1="11.68" y1="2.98" x2="42.65" y2="33.95">
+   <stop offset="0" stop-color="#97c3ff"/>
+   <stop offset="0.25" stop-color="#e3ecff"/>
+   <stop offset="1" stop-color="#3369ff"/>
+  </linearGradient>
+  <path style="fill:url(#gradient2)"
+        d="M40 40C40 28 33 13 23 8C17 5 9 7 6 11C8 9 15 7 21 10C31 15 40 28 40 40z"
+  />
+  <path style="fill:#ffffff"
+        d="M29 48L19 53V37L13 41L11 38L18 33L11 21L13 20L19 30V13L29 31L22 35L29 48z
+           M21 38V47L25 45L21 38z
+           M21 31L25 29L21 22V31z"
+  />
+ </g>
+</svg>

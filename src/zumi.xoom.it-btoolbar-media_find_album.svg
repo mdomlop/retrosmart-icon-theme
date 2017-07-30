@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#000000; fill-opacity:0.4"
+        d="M20.98 1C9.94 1 0.99 9.94 0.99 21C0.99 32.02 9.94 41 20.98 41C32.02 41 41 32.02 41 21C41 9.94 32.02 1 20.98 1z
+           M25 21C25 23.2 23.2 25 21 25C18.78 25 17 23.2 17 21C17 18.78 18.78 17 21 17C23.2 17 25 18.78 25 21z"
+        transform="matrix(1,0,0,1,2,2)"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="128" y1="1.99" x2="128" y2="40">
+   <stop offset="0" stop-color="#808080"/>
+   <stop offset="1" stop-color="#282828"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M20.98 1C9.94 1 0.99 9.94 0.99 21C0.99 32.02 9.94 41 20.98 41C32.02 41 41 32.02 41 21C41 9.94 32.02 1 20.98 1z
+           M25 21C25 23.2 23.2 25 21 25C18.78 25 17 23.2 17 21C17 18.78 18.78 17 21 17C23.2 17 25 18.78 25 21z"
+  />
+  <path style="fill:none; stroke:#000000; stroke-width:2; stroke-linecap:round; stroke-linejoin:round"
+        d="M20.98 1C9.94 1 0.99 9.94 0.99 21C0.99 32.02 9.94 41 20.98 41C32.02 41 41 32.02 41 21C41 9.94 32.02 1 20.98 1z
+           M25 21C25 23.2 23.2 25 21 25C18.78 25 17 23.2 17 21C17 18.78 18.78 17 21 17C23.2 17 25 18.78 25 21z"
+  />
+  <linearGradient id="gradient1" gradientUnits="userSpaceOnUse" x1="128" y1="1.99" x2="128" y2="40">
+   <stop offset="0" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#e5e5e5"/>
+  </linearGradient>
+  <path style="fill:url(#gradient1)"
+        d="M28 21H39C39 26 36.84 30.34 33.56 33.58L26 26C27.23 24.76 28 23 28 21z
+           M14 21H3C3 16 5.15 11.65 8.43 8.42L16 16C14.76 17.23 14 19 14 21z"
+  />
+ </g>
+</svg>
