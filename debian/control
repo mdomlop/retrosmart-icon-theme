@@ -1,0 +1,16 @@
+Source: retrosmart-icon-theme
+Section: main
+Priority: optional
+Maintainer: Manuel Domínguez López <mdomlop@gmail.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+Homepage: https://github.com/mdomlop/retrosmart-icon-theme
+
+Package: retrosmart-icon-theme
+Architecture: all
+Provides: retrosmart-icon-theme
+Conflicts: retrosmart-icon-theme-git
+Depends:
+Description: Retrosmart icon theme.
+ Retrosmart icon theme is a set of icons mainly based
+ on the Haiku OS look.
