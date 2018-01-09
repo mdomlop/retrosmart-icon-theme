@@ -31,6 +31,7 @@ purge: clean
 
 
 pacman: clean
+	sed -i "s|_name=.*|_name=$(EXECUTABLE_NAME)|" PKGBUILD
 	sed -i "s|pkgver=.*|pkgver=$(VERSION)|" PKGBUILD
 	makepkg -e
 	@echo Package done!

@@ -5,7 +5,7 @@ _pkgver_month=01
 _pkgver_day=09
 
 _name=retrosmart-icon-theme
-_gitname=${name}-git
+_gitname=${_name}-git
 
 pkgname=${_name}-local
 pkgver=0.1b
