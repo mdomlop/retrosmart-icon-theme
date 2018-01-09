@@ -39,9 +39,20 @@ Install instructions
 
 - Build and install:
 
-        $ make deb
-        # dpkg -i snapman_*.deb
+        $ make dpkg
+        # dpkg -i retrosmart-icon-theme_*.deb
 
 - Uninstall:
 
         # apt purge retrosmart-icon-theme
+
+### Arch Linux package ###
+
+- Build and install:
+
+        $ make pacman
+        # pacman -U retrosmart-icon-theme-local-*.pkg.tar.xz
+
+- Uninstall:
+
+        # pacman -Rsc retrosmart-icon-theme-local
