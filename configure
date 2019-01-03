@@ -1,44 +1,42 @@
-#!/bin/bash
+#!/bin/sh
 
 name=retrosmart-icon-theme
 path=$name/scalable
 suf='.svg'
 
-icons=()
-preview=()
-links=()
+icons=""
+preview=""
+links=""
 
-for i in $(ls src/*.links)
+for i in src/*.links
 do
-    source=src/$(basename $i .links).svg
-    if [ -f $source ]
+    local source="src/$(basename $i .links).svg"
+    if [ -f "$source" ]
     then
-        links+=($i)
+        links="$links $i"
     else
-        echo File $source not found
+        echo "File $source not found"
         exit 1
     fi
 done
-links=${links[*]}
 
 for i in $(cat src/preview.list)
 do
-    source=src/$i
-    if [ -f $source ]
+    local source="src/$i"
+    if [ -f "$source" ]
         then
-            preview+=($source)
+            preview="$preview $source"
         else
-            echo File $source not found
+            echo "File $source not found"
             exit 1
         fi
 done
-preview=${preview[*]}
 
 function makefile {
 
 echo include makefile.in
 
-echo $name:
+echo "$name:"
 echo -e '\t'mkdir -p $path
 
 echo $name/index.theme: $name
@@ -46,13 +44,13 @@ echo -e '\t'cp src/index.theme $name/
 
 for i in $links
 do
-    source=src/$(basename $i .links).svg
-    bsource=$(basename $source)
+    local source="src/$(basename "$i" .links).svg"
+    local bsource="$(basename "$source")"
     for j in $(cat $i)
     do
-        icons+=($path/$j)
+        icons="$icons $path/$j"
         echo "$path/$j: $name/index.theme"
-        if [ $bsource == $j ]
+        if [ "$bsource" == "$j" ]
         then
             echo -e '\t'cp $source $path/$j
         else
@@ -61,11 +59,11 @@ do
     done
 done
 
-echo icons: ${icons[*]}
+echo "icons: $icons"
 
-echo preview.png: $preview
+echo "preview.png: $preview"
 echo -e '\t'montage -verbose -resize 64 -geometry +16+16 -tile 9x6 $preview preview.png
 
 }
 
-makefile > makefile
+makefile > Makefile
