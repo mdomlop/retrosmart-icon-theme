@@ -6,6 +6,9 @@ VERSION := $(shell head -n1 ChangeLog | cut -d\( -f2 | cut -d\) -f1)
 
 all: preview.png icons
 
+preview.png:  src/anonymous.svg src/haikuos-app_diskusage.svg src/haikuos-app_finance.svg src/application-mbox.svg src/application-x-fictionbook.svg src/application-x-glade.svg src/application-x-ms-dos-executable.svg src/application-x-remote-connection.svg src/application-x-subrip.svg src/application-x-theme.svg src/application-x-troff-man.svg src/application-x-xz.svg src/applications-games.svg src/applications-internet.svg src/applications-multimedia.svg src/audio-volume-high.svg src/autostart.svg src/battery-040-charging.svg src/camera-video.svg src/camera-web.svg src/charmap.svg src/daemon.svg src/desktop.svg src/dialog-question.svg src/display-brightness.svg src/drapes.svg src/drawer.svg src/empathy.svg src/floppy-blue.svg src/folder-pictures.svg src/folder-yellow.svg src/gnome-fs-nfs.svg src/gnome-fs-web.svg src/retrosmart-select-color.svg src/haikuos-prefs_fonts.svg src/home.svg src/retrosmart-image-svg+xml.svg src/input-mouse.svg src/keyboard-brightness.svg src/retrosmart-magnet.svg src/microphone-sensitivity-muted.svg src/network-cellular-connected.svg src/retrosmart-misc-antenna-offline.svg src/nm-adhoc.svg src/nm-device-wireless.svg src/object-flip-horizontal.svg src/pc.svg src/preferences-system.svg src/haikuos-prefs_bluetooth.svg src/haikuos-prefs_keyboard.svg src/retrosmart-socket-black.svg src/haikuos-server_syslog.svg src/text-x-java.svg src/webpositive_r2.svg
+	montage -verbose -resize 64 -geometry +16+16 -tile 9x6 $^ preview.png
+
 
 install:
 	install -d -m 755 $(DESTDIR)/$(PREFIX)/share/icons
