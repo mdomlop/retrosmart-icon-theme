@@ -1,5 +1,11 @@
 #!/bin/sh
 
+if [ -f makefile ]
+then
+    echo "Configuration done. Run 'make'."
+    exit 0
+fi
+
 name=retrosmart-icon-theme
 path=$name/scalable
 suf='.svg'
@@ -10,7 +16,7 @@ links=""
 
 for i in src/*.links
 do
-    local source="src/$(basename $i .links).svg"
+    source="src/$(basename $i .links).svg"
     if [ -f "$source" ]
     then
         links="$links $i"
@@ -22,7 +28,7 @@ done
 
 for i in $(cat src/preview.list)
 do
-    local source="src/$i"
+    source="src/$i"
     if [ -f "$source" ]
         then
             preview="$preview $source"
@@ -66,4 +72,4 @@ echo -e '\t'montage -verbose -resize 64 -geometry +16+16 -tile 9x6 $preview prev
 
 }
 
-makefile > Makefile
+makefile > makefile && echo "Configuration done. Run 'make'." || echo "Configuration failed. Please debug."
