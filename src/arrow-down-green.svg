@@ -6,6 +6,7 @@
 	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
 	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
 	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
 ]>
 <svg  xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
 	 xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" width="48" height="48"
