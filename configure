@@ -38,29 +38,29 @@ do
         fi
 done
 
-function makefile {
+makefile() {
 
-echo include makefile.in
+echo "include makefile.in"
 
 echo "$name:"
-echo -e '\t'mkdir -p $path
+echo "\tmkdir -p $path"
 
-echo $name/index.theme: $name
-echo -e '\t'cp src/index.theme $name/
+echo "$name/index.theme: $name"
+echo "\tcp src/index.theme $name/"
 
 for i in $links
 do
-    local source="src/$(basename "$i" .links).svg"
-    local bsource="$(basename "$source")"
+    source="src/$(basename "$i" .links).svg"
+    bsource="$(basename "$source")"
     for j in $(cat $i)
     do
         icons="$icons $path/$j"
         echo "$path/$j: $name/index.theme"
-        if [ "$bsource" == "$j" ]
+        if [ "$bsource" = "$j" ]
         then
-            echo -e '\t'cp $source $path/$j
+            echo "\tcp $source $path/$j"
         else
-            echo -e '\t'cd $path '&&' ln -s $bsource $j
+            echo "\tcd $path && ln -s $bsource $j"
         fi
     done
 done
@@ -68,7 +68,7 @@ done
 echo "icons: $icons"
 
 echo "preview.png: $preview"
-echo -e '\t'montage -verbose -resize 64 -geometry +16+16 -tile 9x6 $preview preview.png
+echo "\tmontage -verbose -resize 64 -geometry +16+16 -tile 9x6 $preview preview.png"
 
 }
 
