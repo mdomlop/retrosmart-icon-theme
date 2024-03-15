@@ -1,8 +1,13 @@
 PROGRAM_NAME := Retrosmart icon theme
 EXECUTABLE_NAME := retrosmart-icon-theme
-PREFIX='/usr'
 DESTDIR=''
 VERSION := $(shell head -n1 ChangeLog | cut -d\( -f2 | cut -d\) -f1)
+
+ifeq ($(shell uname), Linux)
+    PREFIX='/usr'
+else
+    PREFIX='/usr/local'
+endif
 
 all: preview.png icons
 

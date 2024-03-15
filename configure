@@ -2,7 +2,7 @@
 
 if [ -f makefile ]
 then
-    echo "Configuration done. Run 'make'."
+    echo "Configuration done. Run '$([ "$(uname)" = Linux ] && printf %smake||printf %s "gmake -f makefile")'."
     exit 0
 fi
 
@@ -38,7 +38,7 @@ do
         fi
 done
 
-function makefile {
+makefile() {
 
 echo include makefile.in
 
@@ -72,4 +72,4 @@ echo -e '\t'montage -verbose -resize 64 -geometry +16+16 -tile 9x6 $preview prev
 
 }
 
-makefile > makefile && echo "Configuration done. Run 'make'." || echo "Configuration failed. Please debug."
+makefile > makefile && echo "Configuration done. Run '$([ "$(uname)" = Linux ] && printf %smake||printf %s "gmake -f makefile")'." || echo "Configuration failed. Please debug."
