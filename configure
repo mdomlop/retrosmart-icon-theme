@@ -56,7 +56,7 @@ do
     do
         icons="$icons $path/$j"
         echo "$path/$j: $name/index.theme"
-        if [ "$bsource" == "$j" ]
+        if [ "$bsource" = "$j" ]
         then
             echo -e '\t'cp $source $path/$j
         else
