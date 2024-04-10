@@ -2,17 +2,13 @@
 
 if [ -f makefile ]
 then
-    echo "Configuration done. Run 'make'."
+    echo "Configuration done. Run '$([ "$(uname)" = Linux ] && printf %smake||printf %s "gmake -f makefile")'."
     exit 0
 fi
 
 name=retrosmart-icon-theme
 path=$name/scalable
 suf='.svg'
-
-icons=""
-preview=""
-links=""
 
 for i in src/*.links
 do
@@ -38,15 +34,15 @@ do
         fi
 done
 
-function makefile {
+makefile() {
 
-echo include makefile.in
+echo "include makefile.in"
 
 echo "$name:"
-echo -e '\t'mkdir -p $path
+printf "\tmkdir -p $path"
 
-echo $name/index.theme: $name
-echo -e '\t'cp src/index.theme $name/
+echo "$name/index.theme: $name"
+printf "\tcp src/index.theme $name/"
 
 for i in $links
 do
@@ -56,11 +52,11 @@ do
     do
         icons="$icons $path/$j"
         echo "$path/$j: $name/index.theme"
-        if [ "$bsource" == "$j" ]
+        if [ "$bsource" = "$j" ]
         then
-            echo -e '\t'cp $source $path/$j
+            printf "\tcp $source $path/$j"
         else
-            echo -e '\t'cd $path '&&' ln -s $bsource $j
+            printf "\tcd $path && ln -s $bsource $j"
         fi
     done
 done
@@ -68,8 +64,8 @@ done
 echo "icons: $icons"
 
 echo "preview.png: $preview"
-echo -e '\t'montage -verbose -resize 64 -geometry +16+16 -tile 9x6 $preview preview.png
+printf "\tmontage -verbose -resize 64 -geometry +16+16 -tile 9x6 $preview preview.png"
 
 }
 
-makefile > makefile && echo "Configuration done. Run 'make'." || echo "Configuration failed. Please debug."
+makefile > makefile && echo "Configuration done. Run '$([ "$(uname)" = Linux ] && printf %smake||printf %s "gmake -f makefile")'." || echo "Configuration failed. Please debug."
