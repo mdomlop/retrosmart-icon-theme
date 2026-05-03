@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#010000; fill-opacity:0.4745"
+        d="M22 63L33 61V63L45 61L63 49L60 47L62 45L58 43L64 38L48 29L19 57L22 63z"
+  />
+  <path style="fill:#036ba1"
+        d="M28 60V16L48 8V16L34 22V57L28 60z"
+  />
+  <path style="fill:#00aaff"
+        d="M28 60V16L48 8V16L34 22V57L28 60z"
+        transform="matrix(-1,0,0,1,56,1)"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="-13.51" y1="-62.38" x2="79.67" y2="-39.8">
+   <stop offset="0.3019" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#0694de"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M8 9L28 2L48 9L28 17L8 9z"
+  />
+  <path style="fill:#ffffff"
+        d="M2 13V52L22 62V22L2 13z"
+  />
+  <path style="fill:#bbbbbb"
+        d="M22 22V35L14 19L22 22z"
+  />
+  <path style="fill:none; stroke:#010000; stroke-width:1"
+        d="M2 13V52L22 62V22L2 13z"
+  />
+  <path style="fill:#bababa"
+        d="M2 13V52L22 62V22L2 13z"
+        transform="matrix(-1,0,0,1,56,0)"
+  />
+  <path style="fill:#bbbbbb"
+        d="M22 22V35L14 19L22 22z"
+        transform="matrix(-1,0,0,1,56,0)"
+  />
+  <path style="fill:none; stroke:#010000; stroke-width:1"
+        d="M2 13V52L22 62V22L2 13z"
+        transform="matrix(-1,0,0,1,56,0)"
+  />
+  <path style="fill:none; stroke:#010000; stroke-width:2"
+        d="M2 13V52L22 62V58L28 60L34 58V62L54 51V13L48 15V8L28 2L8 8V15L2 13z"
+  />
+  <path style="fill:none; stroke:#010000; stroke-width:1"
+        d="M6 24L18 30"
+        transform="matrix(1,0,0,1,0,6)"
+  />
+  <path style="fill:none; stroke:#010000; stroke-width:1"
+        d="M6 24L18 30"
+        transform="matrix(-0.9281,0,0,1,55.1376,5)"
+  />
+  <path style="fill:none; stroke:#010000; stroke-width:1"
+        d="M6 24L18 30"
+        transform="matrix(-0.9281,0,0,1,55.1376,11)"
+  />
+  <path style="fill:none; stroke:#010000; stroke-width:1"
+        d="M6 24L18 30"
+        transform="matrix(-0.9281,0,0,1,55.1376,16)"
+  />
+  <path style="fill:none; stroke:#010000; stroke-width:1"
+        d="M6 24L18 30"
+        transform="matrix(-0.9281,0,0,1,55.1376,21)"
+  />
+  <path style="fill:none; stroke:#010000; stroke-width:1"
+        d="M6 24L18 30"
+        transform="matrix(1,0,0,1,0,11)"
+  />
+  <path style="fill:none; stroke:#010000; stroke-width:1"
+        d="M6 24L18 30"
+        transform="matrix(1,0,0,1,0,16)"
+  />
+  <path style="fill:none; stroke:#010000; stroke-width:1"
+        d="M6 24L18 30"
+        transform="matrix(1,0,0,1,0,21)"
+  />
+  <path style="fill:none; stroke:#010000; stroke-width:1"
+        d="M39 35V51"
+        transform="matrix(1,0,0,1,-1,0)"
+  />
+  <path style="fill:none; stroke:#010000; stroke-width:1"
+        d="M39 35V51"
+        transform="matrix(1,0,0,1,11,-6)"
+  />
+  <path style="fill:none; stroke:#010000; stroke-width:1"
+        d="M39 35V51"
+        transform="matrix(1,0,0,1,5,-3)"
+  />
+ </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:none; stroke:#000000; stroke-opacity:0.4; stroke-width:2.818; stroke-linecap:round; stroke-linejoin:round"
+        d="M41.86 5.21C30.95 5.21 22.13 14.68 22.13 26.36C22.13 38.02 30.95 47.49 41.86 47.49C52.75 47.49 61.58 38.02 61.58 26.36C61.58 14.68 52.75 5.21 41.86 5.21z"
+        transform="matrix(0.8709,0,0,0.8709,4.129,4.1271)"
+  />
+  <path style="fill:none; stroke:#005900; stroke-width:2.818; stroke-linecap:round; stroke-linejoin:round"
+        d="M39.04 2.39C28.13 2.39 19.31 11.86 19.31 23.54C19.31 35.21 28.13 44.67 39.04 44.67C49.93 44.67 58.76 35.21 58.76 23.54C58.76 11.86 49.93 2.39 39.04 2.39z"
+        transform="matrix(0.8709,0,0,0.8709,4.129,4.1271)"
+  />
+  <path style="fill:none; stroke:#000000; stroke-opacity:0.4; stroke-width:5.636; stroke-linecap:round; stroke-linejoin:round"
+        d="M19.31 17.9C12.3 17.9 6.63 27.36 6.63 39.04C6.63 50.7 12.3 60.17 19.31 60.17C26.32 60.17 31.99 50.7 31.99 39.04C31.99 27.36 26.32 17.9 19.31 17.9z"
+        transform="matrix(0.8709,0,0,0.8709,4.129,4.1271)"
+  />
+  <path style="fill:none; stroke:#005900; stroke-width:5.636; stroke-linecap:round; stroke-linejoin:round"
+        d="M16.49 15.09C9.48 15.09 3.81 24.54 3.81 36.22C3.81 47.89 9.48 57.36 16.49 57.36C23.5 57.36 29.18 47.89 29.18 36.22C29.18 24.54 23.5 15.09 16.49 15.09z"
+        transform="matrix(0.8709,0,0,0.8709,4.129,4.1271)"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="181.35" y1="3.8" x2="181.35" y2="57.36">
+   <stop offset="0" stop-color="#80ff80"/>
+   <stop offset="1" stop-color="#00b200"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M16.49 15.09C9.48 15.09 3.81 24.54 3.81 36.22C3.81 47.89 9.48 57.36 16.49 57.36C23.5 57.36 29.18 47.89 29.18 36.22C29.18 24.54 23.5 15.09 16.49 15.09z"
+        transform="matrix(0.8709,0,0,0.8709,4.129,4.1271)"
+  />
+ </g>
+</svg>

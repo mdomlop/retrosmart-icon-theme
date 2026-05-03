@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:none; stroke:#000000; stroke-opacity:0.4; stroke-width:4.9664; stroke-linecap:round; stroke-linejoin:round"
+        d="M56.47 28.31L32.62 9.89L10.01 28.31L18 56L47.69 56.54L56.47 28.31z"
+        transform="matrix(0.7384,0,0,0.7472,-0.6586,4.2673)"
+  />
+  <path style="fill:none; stroke:#bf5000; stroke-width:4.9664; stroke-linecap:round; stroke-linejoin:round"
+        d="M53.97 25.85L30.1 7.44L7.5 25.85L16 54L45.17 54.08L53.97 25.85z"
+        transform="matrix(0.7384,0,0,0.7472,-0.6586,4.2673)"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="164.47" y1="7.43" x2="164.47" y2="54.08">
+   <stop offset="0" stop-color="#ffff80"/>
+   <stop offset="1" stop-color="#ffd500"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M53.97 25.85L30.1 7.44L7.5 25.85L16 54L45.17 54.08L53.97 25.85z"
+        transform="matrix(0.7384,0,0,0.7472,-0.6586,4.2673)"
+  />
+  <path style="fill:none; stroke:#000000; stroke-opacity:0.4; stroke-width:4.9664; stroke-linecap:round; stroke-linejoin:round"
+        d="M56.47 28.31L40.15 25.85L32.62 9.89L25.08 25.85L10.01 28.31L20.06 40.58L17.55 56.54L32.62 49.17L47.69 56.54L45.17 40.58L56.47 28.31z"
+        transform="matrix(0.8062,0,0,0.8447,14.4115,8.1627)"
+  />
+  <path style="fill:none; stroke:#bf5000; stroke-width:4.9664; stroke-linecap:round; stroke-linejoin:round"
+        d="M53.97 25.85L37.64 23.39L30.1 7.44L22.57 23.39L7.5 25.85L17.55 38.12L15.03 54.08L30.1 46.71L45.17 54.08L42.66 38.12L53.97 25.85z"
+        transform="matrix(0.8062,0,0,0.8447,14.4115,8.1627)"
+  />
+  <linearGradient id="gradient1" gradientUnits="userSpaceOnUse" x1="164.47" y1="7.43" x2="164.47" y2="54.08">
+   <stop offset="0" stop-color="#ffff80"/>
+   <stop offset="1" stop-color="#ffd500"/>
+  </linearGradient>
+  <path style="fill:url(#gradient1)"
+        d="M53.97 25.85L37.64 23.39L30.1 7.44L22.57 23.39L7.5 25.85L17.55 38.12L15.03 54.08L30.1 46.71L45.17 54.08L42.66 38.12L53.97 25.85z"
+        transform="matrix(0.8062,0,0,0.8447,14.4115,8.1627)"
+  />
+ </g>
+</svg>

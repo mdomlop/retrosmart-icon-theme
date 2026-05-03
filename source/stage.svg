@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#000000; fill-opacity:0.3921"
+        d="M30 31L5 59C5 59 3 59 2 58C1 57 2 55 2 55L30 31z"
+        transform="matrix(0.7496,0,0,0.3741,2.8131,38.0361)"
+  />
+  <path style="fill:#000000; fill-opacity:0.3921"
+        d="M20.74 49.85L7.09 54.25L65.1 76.3C65.1 76.3 78.76 73.36 78.76 68.95C78.76 64.54 20.74 49.85 20.74 49.85z"
+        transform="matrix(0.8105,0,0,0.7984,-0.0764,-0.6201)"
+  />
+  <path style="fill:none; stroke:#000000; stroke-width:4"
+        d="M7.09 49.85L61.69 70.42V24.87C61.69 24.87 66.81 26.51 66.81 20.46C66.81 16.04 61.69 16.04 61.69 16.04L34.4 10.17L7.09 4.29C7.09 4.29 1.98 4.9 1.98 8.7C1.98 13.11 7.33 11.74 7.33 14.67C7.33 20.91 7.09 49.85 7.09 49.85z"
+        transform="matrix(0.8105,0,0,0.7984,-0.0764,-0.6201)"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="39.23" y1="23.55" x2="66.5" y2="35.58">
+   <stop offset="0" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#a5a5a5"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M7.09 11.64V49.85L61.69 70.42V24.87L7.09 11.64z"
+        transform="matrix(0.8105,0,0,0.7984,-0.0764,-0.6201)"
+  />
+  <linearGradient id="gradient1" gradientUnits="userSpaceOnUse" x1="-18.37" y1="-12.57" x2="49.26" y2="-12.57">
+   <stop offset="0" stop-color="#77aff5"/>
+   <stop offset="1" stop-color="#1379eb"/>
+  </linearGradient>
+  <path style="fill:url(#gradient1)"
+        d="M7.09 4.29C7.09 4.29 1.62 4.85 1.9 7.97C1.26 12.3 7.09 13.11 7.09 13.11L61.69 26.34C61.69 26.34 67.79 24.58 67.06 20.11C67.06 16.45 61.69 16.04 61.69 16.04L7.09 4.29z"
+        transform="matrix(0.8105,0,0,0.7984,-0.0764,-0.6201)"
+  />
+  <path style="fill:none; stroke:#000000; stroke-width:2"
+        d="M5.34 13.68L63.53 27.63"
+        transform="matrix(0.8105,0,0,0.7984,-0.0764,-0.6201)"
+  />
+  <path style="fill:none; stroke:#000000; stroke-width:1; stroke-linejoin:bevel"
+        d="M68.72 21.15C68.72 17.98 66.62 15.4 64.04 15.4C61.46 15.4 59.36 17.98 59.36 21.15C59.36 24.34 61.46 26.91 64.04 26.91C66.62 26.91 68.72 24.34 68.72 21.15"
+        transform="matrix(0.8105,0,0,0.7984,-0.0764,-0.6201)"
+  />
+  <path style="fill:none; stroke:#000000; stroke-width:1; stroke-linejoin:bevel"
+        d="M68.72 21.15C68.72 17.98 66.62 15.4 64.04 15.4C61.46 15.4 59.36 17.98 59.36 21.15C59.36 24.34 61.46 26.91 64.04 26.91C66.62 26.91 68.72 24.34 68.72 21.15"
+        transform="matrix(0.8105,0,0,0.7984,-0.0764,-0.6201)"
+  />
+  <path style="fill:none; stroke:#000000; stroke-width:3"
+        d="M25 47C25 47 25 49.26 25 50.74C25 51.46 25 52 25 52C25 52 23 51 23 53C23 55 25 56 25 56C25 56 27 57 27 55C27 53 25 52 25 52"
+        transform="matrix(1.4988,0,0,1.2005,-12.971,-9.4243)"
+  />
+  <linearGradient id="gradient2" gradientUnits="userSpaceOnUse" x1="39.23" y1="23.55" x2="66.5" y2="35.58">
+   <stop offset="0" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#a5a5a5"/>
+  </linearGradient>
+  <path style="fill:none; stroke:url(#gradient2); stroke-width:1"
+        d="M25 47C25 47 25 49.26 25 50.74C25 51.46 25 52 25 52C25 52 23 51 23 53C23 55 25 56 25 56C25 56 27 57 27 55C27 53 25 52 25 52"
+        transform="matrix(1.1607,0,0,1.0392,-4.5183,-1.0448)"
+  />
+  <path style="fill:#00a7ff"
+        d="M14 19V35L20 37V21L14 19z"
+  />
+  <path style="fill:#eb327c"
+        d="M22 26V38L28 40V27L22 26z"
+  />
+  <path style="fill:#689c04"
+        d="M30 23V41L37 44V25L30 23z"
+  />
+  <path style="fill:#000000"
+        d="M30 31L5 59C5 59 3 59 2 58C1 57 2 55 2 55L30 31z"
+  />
+  <linearGradient id="gradient3" gradientUnits="userSpaceOnUse" x1="-16" y1="15" x2="24" y2="15">
+   <stop offset="0" stop-color="#ddac65"/>
+   <stop offset="1" stop-color="#7f4c00"/>
+  </linearGradient>
+  <path style="fill:url(#gradient3)"
+        d="M30 31L5 59C5 59 3 59 2 58C1 57 2 55 2 55L30 31z"
+  />
+  <path style="fill:#000000; fill-opacity:0.3921"
+        d="M30 54C28 54 23 55 23 57C23 59 28 60 30 60C32 60 38 58.99 38 57C38 55 32 54 30 54z"
+  />
+ </g>
+</svg>
