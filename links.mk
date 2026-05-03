@@ -351,6 +351,7 @@ scalable/stock-gtk-remove.svg: source/edit-delete.svg
 scalable/filefind.svg: source/edit-find.svg
 scalable/gtk-find.svg: source/edit-find.svg
 scalable/stock_search.svg: source/edit-find.svg
+scalable/search.svg: source/edit-find.svg
 scalable/find-and-replace.svg: source/edit-find-replace.svg
 scalable/findreplace.svg: source/edit-find-replace.svg
 scalable/gtk-find-and-replace.svg: source/edit-find-replace.svg
@@ -535,7 +536,8 @@ scalable/changes-prevent-symbolic.svg: source/haikuos-action_logout.svg
 scalable/channel-secure.svg: source/haikuos-action_logout.svg
 scalable/channel-secure-symbolic.svg: source/haikuos-action_logout.svg
 scalable/object-locked.svg: source/haikuos-action_logout.svg
-scalable/logviewer.svg: source/haikuos-action_search.svg
+scalable/logviewer.svg: source/retrosmart-logviewer.svg
+scalable/file-search.svg: source/haikuos-action_search.svg
 scalable/process-stop.svg: source/haikuos-action_stop.svg
 scalable/gtk-cancel.svg: source/haikuos-action_stop.svg
 scalable/gtk-stop.svg: source/haikuos-action_stop.svg
