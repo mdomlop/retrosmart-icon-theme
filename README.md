@@ -27,7 +27,6 @@ Install instructions
 
 - Build and install:
 
-        $ ./configure
         $ make
         # make install
 
