@@ -1,6 +1,8 @@
 scalable/kwrite.svg: source/text-editor.svg
 scalable/notepadqq.svg: source/text-editor.svg
 scalable/application-vnd.efi.svg: source/haikuos-misc_uefi.svg
+scalable/application-x-qemu-disk.svg: source/application-x-raw-disk-image.svg
+scalable/application-x-iso9660-image.svg: source/application-x-cd-image.svg
 scalable/application-x-compressed-iso.svg: source/application-x-cd-image.svg
 scalable/application-x-dreamcast.rom.svg: source/zumi.xoom.it-system-iso.svg
 scalable/application-x-gamecube.rom.svg: source/zumi.xoom.it-system-iso.svg
@@ -217,7 +219,6 @@ scalable/xfpm-primary-low.svg: source/battery-low.svg
 scalable/battery-low-symbolic.svg: source/battery-low.svg
 scalable/xfpm-primary-missing.svg: source/battery-missing.svg
 scalable/battery-missing-symbolic.svg: source/battery-missing.svg
-scalable/bluetooth-disabled-symbolic.svg: source/bluetooth-disabled.svg
 scalable/bookmark_add.svg: source/bookmark-new.svg
 scalable/bookmarks_list_add.svg: source/bookmark-new.svg
 scalable/stock_add-bookmark.svg: source/bookmark-new.svg
@@ -736,9 +737,7 @@ scalable/wallpaper.svg: source/haikuos-prefs_backgrounds.svg
 scalable/xfce4-backdrop.svg: source/haikuos-prefs_backgrounds.svg
 scalable/preferences-system-bluetooth.svg: source/haikuos-prefs_bluetooth.svg
 scalable/bluetooth.svg: source/haikuos-prefs_bluetooth.svg
-scalable/bluetooth-active.svg: source/haikuos-prefs_bluetooth.svg
-scalable/bluetooth-active-symbolic.svg: source/haikuos-prefs_bluetooth.svg
-scalable/bluetooth-applet.svg: source/haikuos-prefs_bluetooth.svg
+scalable/bluetooth-applet.svg: source/zumi.xoom.it-system-bluetooth.svg
 scalable/convert.svg: source/haikuos-prefs_datatranslation.svg
 scalable/giver.svg: source/haikuos-prefs_datatranslation.svg
 scalable/gtk-convert.svg: source/haikuos-prefs_datatranslation.svg
@@ -922,6 +921,7 @@ scalable/list-remove.svg: source/minus.svg
 scalable/gtk-remove.svg: source/minus.svg
 scalable/remove.svg: source/minus.svg
 scalable/gnome-modem.svg: source/modem.svg
+scalable/dolphin-emu.svg: source/3deyes-dolphin.svg
 scalable/firefox.svg: source/mozilla.svg
 scalable/iceweasel.svg: source/mozilla.svg
 scalable/mozilla-mail-icon.svg: source/mozilla-mail.svg
@@ -1224,6 +1224,7 @@ scalable/stock_lock-ok.svg: source/security-up.svg
 scalable/security-high-symbolic.svg: source/security-up.svg
 scalable/xfce-sensors.svg: source/sensors.svg
 scalable/ajustes.svg: source/settings.svg
+scalable/systemsettings.svg: source/settings.svg
 scalable/software-update-available-symbolic.svg: source/software-update-available.svg
 scalable/software-update-urgent-symbolic.svg: source/software-update-urgent.svg
 scalable/soundconverter.svg: source/sound-converter.svg

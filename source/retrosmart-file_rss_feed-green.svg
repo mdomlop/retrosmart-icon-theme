@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="64"
+   height="64"
+   color-interpolation="linearRGB"
+   id="svg9"
+   sodipodi:docname="retrosmart-file_rss_feed-green.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="16.28125"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="2560"
+     inkscape:window-height="1295"
+     inkscape:window-x="1280"
+     inkscape:window-y="33"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <g
+     id="g9">
+    <path
+       style="fill:#010101; fill-opacity:0.5019"
+       d="M36 61H41L64 30L58 27L59 31L36 61z"
+       id="path1" />
+    <path
+       style="fill:none; stroke:#010000; stroke-width:4"
+       d="M2 28V41L36 59L58 30V17L25 5L2 28z"
+       id="path2" />
+    <linearGradient
+       id="gradient0"
+       gradientUnits="userSpaceOnUse"
+       x1="13.84"
+       y1="-38.14"
+       x2="58.34"
+       y2="-27.7">
+      <stop
+         offset="0"
+         stop-color="#ffe2ba"
+         id="stop2"
+         style="stop-color:#00e2ba;stop-opacity:1;" />
+      <stop
+         offset="1"
+         stop-color="#ff9500"
+         id="stop3"
+         style="stop-color:#009500;stop-opacity:1;" />
+    </linearGradient>
+    <path
+       style="fill:url(#gradient0)"
+       d="M2 28L36 43L58 17L25 5L2 28z"
+       id="path3" />
+    <linearGradient
+       id="gradient1"
+       gradientUnits="userSpaceOnUse"
+       x1="44.72"
+       y1="-7.9"
+       x2="86.1"
+       y2="10.51">
+      <stop
+         offset="0"
+         stop-color="#992600"
+         id="stop4"
+         style="stop-color:#002600;stop-opacity:1;" />
+      <stop
+         offset="1"
+         stop-color="#bf5000"
+         id="stop5"
+         style="stop-color:#005000;stop-opacity:1;" />
+    </linearGradient>
+    <path
+       style="fill:url(#gradient1)"
+       d="M36 43V59L58 30V17L36 43z"
+       id="path5" />
+    <linearGradient
+       id="gradient2"
+       gradientUnits="userSpaceOnUse"
+       x1="22.97"
+       y1="92.59"
+       x2="-14.6"
+       y2="67.29">
+      <stop
+         offset="0"
+         stop-color="#bf5000"
+         id="stop6"
+         style="stop-color:#005000;stop-opacity:1;" />
+      <stop
+         offset="1"
+         stop-color="#f2a100"
+         id="stop7"
+         style="stop-color:#00a100;stop-opacity:1;" />
+    </linearGradient>
+    <path
+       style="fill:url(#gradient2)"
+       d="M2 28V41L36 59V43L2 28z"
+       id="path7" />
+    <linearGradient
+       id="gradient3"
+       gradientUnits="userSpaceOnUse"
+       x1="13.84"
+       y1="-38.14"
+       x2="58.34"
+       y2="-27.7">
+      <stop
+         offset="0"
+         stop-color="#ffffff"
+         id="stop8" />
+      <stop
+         offset="1"
+         stop-color="#e7e7e7"
+         id="stop9" />
+    </linearGradient>
+    <path
+       style="fill:url(#gradient3)"
+       d="M21 31C26 25 34 25 40 28L44 25C36 21 24 21 17 29L21 31z            M13 28L9 26C20 14 38 13 51 19L47 22C36 17 22 18 13 28z            M31.5 29C29.01 29 27 30.34 27 32C27 33.65 29.01 35 31.5 35C33.98 35 36 33.65 36 32C36 30.34 33.98 29 31.5 29z"
+       id="path9" />
+  </g>
+</svg>
