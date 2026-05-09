@@ -111,6 +111,7 @@ scalable/gnome-mime-application-x-compressed-tar.svg: source/application-x-tgz.s
 scalable/zip.svg: source/application-zip.svg
 scalable/application-x-zip.svg: source/application-zip.svg
 scalable/gnome-mime-application-zip.svg: source/application-zip.svg
+scalable/appointment-reminder.svg: source/haikuos-prefs_sounds.svg
 scalable/stock_appointment-reminder-excl.svg: source/appointment-missed.svg
 scalable/appointment-missed-symbolic.svg: source/appointment-missed.svg
 scalable/appointment.svg: source/appointment-new.svg
@@ -118,6 +119,9 @@ scalable/stock_new-appointment.svg: source/appointment-new.svg
 scalable/appointment-new-symbolic.svg: source/appointment-new.svg
 scalable/stock_appointment-reminder.svg: source/appointment-soon.svg
 scalable/appointment-soon-symbolic.svg: source/appointment-soon.svg
+scalable/visibility.svg: source/retrosmart-eye.svg
+scalable/rox-show-hidden.svg: source/retrosmart-eye.svg
+scalable/redeyes.svg: source/retrosmart-redeye.svg
 scalable/arrow-down.svg: source/arrow-down-green.svg
 scalable/navigation_down.svg: source/arrow-down-green.svg
 scalable/go-down.svg: source/arrow-down-green.svg
@@ -358,11 +362,11 @@ scalable/findreplace.svg: source/edit-find-replace.svg
 scalable/gtk-find-and-replace.svg: source/edit-find-replace.svg
 scalable/replace.svg: source/edit-find-replace.svg
 scalable/stock_search-and-replace.svg: source/edit-find-replace.svg
-scalable/editpaste.svg: source/edit-paste.svg
-scalable/gtk-paste.svg: source/edit-paste.svg
-scalable/parcellite.svg: source/edit-paste.svg
-scalable/paste.svg: source/edit-paste.svg
-scalable/stock_paste.svg: source/edit-paste.svg
+scalable/editpaste.svg: source/haikuos-device_clipboard.svg
+scalable/gtk-paste.svg: source/haikuos-device_clipboard.svg
+scalable/parcellite.svg: source/haikuos-device_clipboard.svg
+scalable/paste.svg: source/haikuos-device_clipboard.svg
+scalable/stock_paste.svg: source/haikuos-device_clipboard.svg
 scalable/gtk-redo-ltr.svg: source/edit-redo.svg
 scalable/redo.svg: source/edit-redo.svg
 scalable/stock_redo.svg: source/edit-redo.svg
@@ -653,6 +657,7 @@ scalable/gnome-dev-disc-cdr.svg: source/haikuos-device_cd.svg
 scalable/gnome-dev-disc-cdrw.svg: source/haikuos-device_cd.svg
 scalable/gtk-cdrom.svg: source/haikuos-device_cd.svg
 scalable/clipboard.svg: source/haikuos-device_clipboard.svg
+scalable/klipper.svg: source/haikuos-device_clipboard.svg
 scalable/clipit.svg: source/haikuos-device_clipboard.svg
 scalable/xfce4-clipman-plugin.svg: source/haikuos-device_clipboard.svg
 scalable/copyq.svg: source/haikuos-device_clipboard.svg
@@ -736,6 +741,7 @@ scalable/background.svg: source/haikuos-prefs_backgrounds.svg
 scalable/wallpaper.svg: source/haikuos-prefs_backgrounds.svg
 scalable/xfce4-backdrop.svg: source/haikuos-prefs_backgrounds.svg
 scalable/preferences-system-bluetooth.svg: source/haikuos-prefs_bluetooth.svg
+scalable/network-bluetooth.svg: source/haikuos-prefs_bluetooth.svg
 scalable/bluetooth.svg: source/haikuos-prefs_bluetooth.svg
 scalable/bluetooth-applet.svg: source/zumi.xoom.it-system-bluetooth.svg
 scalable/convert.svg: source/haikuos-prefs_datatranslation.svg
