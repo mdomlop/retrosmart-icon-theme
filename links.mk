@@ -1382,8 +1382,9 @@ scalable/stock_weather-few-clouds.svg: source/weather-few-clouds.svg
 scalable/weather-few-clouds-symbolic.svg: source/weather-few-clouds.svg
 scalable/stock_weather-night-few-clouds.svg: source/weather-few-clouds-night.svg
 scalable/weather-few-clouds-night-symbolic.svg: source/weather-few-clouds-night.svg
-scalable/stock_weather-fog.svg: source/weather-fog.svg
-scalable/weather-fog-symbolic.svg: source/weather-fog.svg
+scalable/stock_weather-fog.svg: source/weather-mist.svg
+scalable/weather-fog.svg: source/weather-mist.svg
+scalable/weather-fog-symbolic.svg: source/weather-mist.svg
 scalable/stock_weather-cloudy.svg: source/weather-overcast.svg
 scalable/weather-overcast-symbolic.svg: source/weather-overcast.svg
 scalable/weather-severe-alert-symbolic.svg: source/weather-severe-alert.svg
