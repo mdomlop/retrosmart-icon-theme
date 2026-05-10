@@ -691,7 +691,8 @@ scalable/application-x-lzma-compressed-tar.svg: source/haikuos-file_archive.svg
 scalable/application-x-lzma.svg: source/haikuos-file_archive.svg
 scalable/application-x-stuffit.svg: source/haikuos-file_archive.svg
 scalable/deb.svg: source/haikuos-file_archive.svg
-scalable/gnome-mime-application-x-jar.svg: source/haikuos-file_archive.svg
+scalable/compass.svg: source/zumi-misc-compass.svg
+scalable/gnome-mime-application-x-jar.svg: source/application-java-archive.svg
 scalable/gnome-mime-application-x-java-archive.svg: source/haikuos-file_archive.svg
 scalable/rpm.svg: source/haikuos-file_archive.svg
 scalable/package.svg: source/haikuos-file_archive.svg
@@ -831,6 +832,7 @@ scalable/channel-insecure.svg: source/lock-open-alarm.svg
 scalable/channel-insecure-symbolic.svg: source/lock-open-alarm.svg
 scalable/start-here-lxqt.svg: source/lxqt.svg
 scalable/mainmenu.svg: source/lxqt.svg
+scalable/knsnapshot.svg: source/retrosmart-screen-snapshot.svg
 scalable/helix.svg: source/lxqt.svg
 scalable/stock_attach.svg: source/mail-attachment.svg
 scalable/mail-attachment-symbolic.svg: source/mail-attachment.svg
@@ -999,8 +1001,8 @@ scalable/gnome-display-properties.svg: source/preferences-desktop-display.svg
 scalable/gsd-xrandr.svg: source/preferences-desktop-display.svg
 scalable/gnome-settings-keybindings.svg: source/preferences-desktop-keyboard-shortcuts.svg
 scalable/key_bindings.svg: source/preferences-desktop-keyboard-shortcuts.svg
-scalable/config-language.svg: source/preferences-desktop-locale.svg
-scalable/locale.svg: source/preferences-desktop-locale.svg
+scalable/config-language.svg: source/haiku-locale.svg
+scalable/locale.svg: source/haiku-locale.svg
 scalable/input_devices_settings.svg: source/preferences-desktop-peripherals.svg
 scalable/gnome-remote-desktop.svg: source/preferences-desktop-remote-desktop.svg
 scalable/krfb.svg: source/preferences-desktop-remote-desktop.svg
