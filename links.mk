@@ -53,6 +53,7 @@ scalable/package_network.svg: source/applications-internet.svg
 scalable/redhat-internet.svg: source/applications-internet.svg
 scalable/stock_internet.svg: source/applications-internet.svg
 scalable/xfce-internet.svg: source/applications-internet.svg
+scalable/amulegui.svg: source/amule.svg
 scalable/gnome-multimedia.svg: source/applications-multimedia.svg
 scalable/multimedia.svg: source/applications-multimedia.svg
 scalable/package_multimedia.svg: source/applications-multimedia.svg
@@ -80,7 +81,8 @@ scalable/gnome-mime-application-x-bzip-compressed-tar.svg: source/application-x-
 scalable/gnome-mime-application-x-bzip.svg: source/application-x-bzip.svg
 scalable/gnome-mime-application-x-compress.svg: source/application-x-compress.svg
 scalable/application-x-core-file.svg: source/application-x-core.svg
-scalable/gnome-mime-application-x-deb.svg: source/application-x-deb.svg
+scalable/gnome-mime-application-x-deb.svg: source/application-vnd.debian.binary-package.svg
+scalable/application-x-deb.svg: source/application-vnd.debian.binary-package.svg
 scalable/desktop-file.svg: source/application-x-desktop.svg
 scalable/binary.svg: source/application-x-executable.svg
 scalable/exec.svg: source/application-x-executable.svg
@@ -98,7 +100,7 @@ scalable/gnome-mime-application-x-gzip.svg: source/application-x-gzip.svg
 scalable/application-xml.svg: source/application-xhtml+xml.svg
 scalable/text-xml.svg: source/application-xhtml+xml.svg
 scalable/application-x-objectfile.svg: source/application-x-object.svg
-scalable/gnome-mime-application-x-rar.svg: source/application-x-rar.svg
+scalable/gnome-mime-application-x-rar.svg: source/application-vnd.rar.svg
 scalable/gnome-mime-application-x-rpm.svg: source/application-x-rpm.svg
 scalable/gnome-mime-x-application-rpm.svg: source/application-x-rpm.svg
 scalable/application-x-shared-library.svg: source/application-x-sharedlib.svg
@@ -121,6 +123,9 @@ scalable/stock_appointment-reminder.svg: source/appointment-soon.svg
 scalable/appointment-soon-symbolic.svg: source/appointment-soon.svg
 scalable/visibility.svg: source/retrosmart-eye.svg
 scalable/rox-show-hidden.svg: source/retrosmart-eye.svg
+scalable/quickview.svg: source/retrosmart-eye.svg
+scalable/quickview-symbolic.svg: source/retrosmart-eye.svg
+scalable/view-hidden-symbolic.svg: source/retrosmart-eye.svg
 scalable/redeyes.svg: source/retrosmart-redeye.svg
 scalable/arrow-down.svg: source/arrow-down-green.svg
 scalable/navigation_down.svg: source/arrow-down-green.svg
@@ -229,6 +234,9 @@ scalable/stock_add-bookmark.svg: source/bookmark-new.svg
 scalable/stock_help-add-bookmark.svg: source/bookmark-new.svg
 scalable/gnome-fs-bookmark.svg: source/bookmarks.svg
 scalable/user-bookmarks.svg: source/bookmarks.svg
+scalable/emblem-locked.svg: source/dialog-cancel.svg
+scalable/emblem-mounted.svg: source/circle-green.svg
+scalable/emblem-unmounted.svg: source/circle-red.svg
 scalable/blackbox.svg: source/box-black.svg
 scalable/emblem-bin.svg: source/box-black.svg
 scalable/classviewer-var.svg: source/box-grey.svg
@@ -363,6 +371,7 @@ scalable/gtk-find-and-replace.svg: source/edit-find-replace.svg
 scalable/replace.svg: source/edit-find-replace.svg
 scalable/stock_search-and-replace.svg: source/edit-find-replace.svg
 scalable/editpaste.svg: source/haikuos-device_clipboard.svg
+scalable/edit-paste.svg: source/haikuos-device_clipboard.svg
 scalable/gtk-paste.svg: source/haikuos-device_clipboard.svg
 scalable/parcellite.svg: source/haikuos-device_clipboard.svg
 scalable/paste.svg: source/haikuos-device_clipboard.svg
@@ -373,6 +382,7 @@ scalable/stock_redo.svg: source/edit-redo.svg
 scalable/gtk-select-all.svg: source/edit-select-all.svg
 scalable/rox-select.svg: source/edit-select-all.svg
 scalable/stock_select-all.svg: source/edit-select-all.svg
+scalable/edit-select-invert-symbolic.svg: source/edit-select-invert.svg
 scalable/gtk-undo-ltr.svg: source/edit-undo.svg
 scalable/stock_undo.svg: source/edit-undo.svg
 scalable/undo.svg: source/edit-undo.svg
@@ -552,6 +562,8 @@ scalable/navigation_stop.svg: source/haikuos-action_stop.svg
 scalable/close.svg: source/haikuos-action_stop.svg
 scalable/emblem-idea.svg: source/haikuos-alert_idea.svg
 scalable/information.svg: source/haikuos-alert_info.svg
+scalable/docuemeninfo.svg: source/haikuos-alert_info.svg
+scalable/docuemeninfo-symbolic.svg: source/haikuos-alert_info.svg
 scalable/info.svg: source/haikuos-alert_info.svg
 scalable/window-identify.svg: source/haikuos-alert_info.svg
 scalable/emblem-information.svg: source/haikuos-alert_info.svg
@@ -1003,6 +1015,7 @@ scalable/gnome-settings-keybindings.svg: source/preferences-desktop-keyboard-sho
 scalable/key_bindings.svg: source/preferences-desktop-keyboard-shortcuts.svg
 scalable/config-language.svg: source/haiku-locale.svg
 scalable/locale.svg: source/haiku-locale.svg
+scalable/device-notifier.svg: source/devices.svg
 scalable/input_devices_settings.svg: source/preferences-desktop-peripherals.svg
 scalable/gnome-remote-desktop.svg: source/preferences-desktop-remote-desktop.svg
 scalable/krfb.svg: source/preferences-desktop-remote-desktop.svg
@@ -1118,6 +1131,7 @@ scalable/info-contents.svg: source/retrosmart-info-document.svg
 scalable/help-contents.svg: source/retrosmart-info-document.svg
 scalable/text-x-texinfo.svg: source/retrosmart-info-document.svg
 scalable/application-x-gnome-app-info.svg: source/retrosmart-info-document.svg
+scalable/application-vnd.chess-pgn.svg: source/application-x-chess-pgn.svg
 scalable/kgpg.svg: source/retrosmart-lock-wide-close.svg
 scalable/uget-icon.svg: source/retrosmart-magnet.svg
 scalable/kt-magnet.svg: source/retrosmart-magnet.svg
@@ -1424,7 +1438,6 @@ scalable/panel-lockscreen.svg: source/xlock.svg
 scalable/contents2.svg: source/x-office-address-book.svg
 scalable/stock_addressbook.svg: source/x-office-address-book.svg
 scalable/application-vnd.ms-word.document.macroEnabled.12.svg: source/x-office-document.svg
-scalable/application-vnd.openxmlformats-officedocument.wordprocessingml.document.svg: source/x-office-document.svg
 scalable/application-wordperfect.svg: source/x-office-document.svg
 scalable/application-x-applix-word.svg: source/x-office-document.svg
 scalable/application-x-scribus.svg: source/x-office-document.svg
@@ -1438,7 +1451,6 @@ scalable/application-vnd.stardivision.impress.svg: source/x-office-presentation.
 scalable/kpresenter_kpr.svg: source/x-office-presentation.svg
 scalable/application-vnd.lotus-1-2-3.svg: source/x-office-spreadsheet.svg
 scalable/application-vnd.ms-excel.sheet.macroEnabled.12.svg: source/x-office-spreadsheet.svg
-scalable/application-vnd.openxmlformats-officedocument.spreadsheetml.sheet.svg: source/x-office-spreadsheet.svg
 scalable/application-vnd.stardivision.calc.svg: source/x-office-spreadsheet.svg
 scalable/application-x-applix-spreadsheet.svg: source/x-office-spreadsheet.svg
 scalable/spreadsheet.svg: source/x-office-spreadsheet.svg
