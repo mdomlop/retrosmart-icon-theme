@@ -10,8 +10,9 @@ scalable/application-x-saturn.rom.svg: source/zumi.xoom.it-system-iso.svg
 scalable/application-x-sega-cd.rom.svg: source/zumi.xoom.it-system-iso.svg
 scalable/application-x-sega-pico.rom.svg: source/zumi.xoom.it-system-iso.svg
 scalable/application-x-wii.rom.svg: source/zumi.xoom.it-system-iso.svg
+scalable/application-x-musescore3.svg: source/application-x-musescore.svg
+scalable/application-x-musescore3+xml.svg: source/application-x-musescore+xml.svg
 scalable/application-vnd.recordare.musicxml+xml.svg: source/application-vnd.recordare.musicxml.svg
-scalable/application-vnd.recordare.musicxml3.svg: source/application-vnd.recordare.musicxml.svg
 scalable/application-vnd.recordare.musicxml3+xml.svg: source/application-vnd.recordare.musicxml.svg
 scalable/application-vnd.abc.svg: source/text-vnd.abc.svg
 scalable/gnome-character-map.svg: source/accessories-character-map.svg
@@ -130,7 +131,7 @@ scalable/redeyes.svg: source/retrosmart-redeye.svg
 scalable/arrow-down.svg: source/arrow-down-green.svg
 scalable/navigation_down.svg: source/arrow-down-green.svg
 scalable/go-down.svg: source/arrow-down-green.svg
-scalable/down.svg: source/arrow-down-green.svg
+scalable/down.svg: source/haikuos-action_download.svg
 scalable/gtk-go-down.svg: source/arrow-down-green.svg
 scalable/stock_down.svg: source/arrow-down-green.svg
 scalable/go-bottom.svg: source/arrow-down-red.svg
@@ -269,6 +270,10 @@ scalable/checkbox-symbolic.svg: source/check.svg
 scalable/gtk-apply.svg: source/checkmark.svg
 scalable/gtk-ok.svg: source/checkmark.svg
 scalable/ok.svg: source/checkmark.svg
+scalable/yes.svg: source/checkmark.svg
+scalable/dialog-ok-apply.svg: source/checkmark.svg
+scalable/dialog-ok.svg: source/checkmark.svg
+scalable/dialog-yes.svg: source/checkmark.svg
 scalable/checkbox-mixed.svg: source/check-mixed.svg
 scalable/checkbox-mixed-symbolic.svg: source/check-mixed.svg
 scalable/checkbox-checked.svg: source/check-pressed.svg
@@ -301,8 +306,6 @@ scalable/gnome-fs-desktop.svg: source/desktop.svg
 scalable/gnome-ccdesktop.svg: source/desktop.svg
 scalable/cd-autorun.svg: source/dev-autorun.svg
 scalable/autorun.svg: source/dev-autorun.svg
-scalable/dialog-ok.svg: source/dialog-apply.svg
-scalable/dialog-yes.svg: source/dialog-apply.svg
 scalable/rox-mounted.svg: source/dialog-apply.svg
 scalable/dialog_information.svg: source/dialog-information.svg
 scalable/dialog-information-symbolic.svg: source/dialog-information.svg
@@ -320,7 +323,10 @@ scalable/stock_dialog-question.svg: source/dialog-question.svg
 scalable/display-brightness-symbolic.svg: source/display-brightness.svg
 scalable/xfpm-brightness-lcd.svg: source/display-brightness.svg
 scalable/brightnesssettings.svg: source/display-brightness.svg
+scalable/brightness-high.svg: source/display-brightness.svg
+scalable/high-brightnes.svg: source/display-brightness.svg
 scalable/avant-window-navigator.svg: source/dock.svg
+scalable/brightnes.svg: source/display-brightness.svg
 scalable/awn-manager.svg: source/dock.svg
 scalable/filenew.svg: source/document-new.svg
 scalable/gtk-new.svg: source/document-new.svg
@@ -354,6 +360,7 @@ scalable/filebrowser.svg: source/drawer.svg
 scalable/drive-cdrom.svg: source/drive-optical.svg
 scalable/usbpendrive_unmount.svg: source/drive-removable-media.svg
 scalable/xfce-mount.svg: source/drive-removable-media.svg
+scalable/gtk-edit.svg: source/edit.svg
 scalable/editclear.svg: source/edit-clear.svg
 scalable/gtk-clear.svg: source/edit-clear.svg
 scalable/clear.svg: source/edit-clear.svg
@@ -386,11 +393,11 @@ scalable/edit-select-invert-symbolic.svg: source/edit-select-invert.svg
 scalable/gtk-undo-ltr.svg: source/edit-undo.svg
 scalable/stock_undo.svg: source/edit-undo.svg
 scalable/undo.svg: source/edit-undo.svg
-scalable/edit-copy.svg: source/emoji_u1f40f-black.svg
-scalable/copy.svg: source/emoji_u1f40f-black.svg
-scalable/editcopy.svg: source/emoji_u1f40f-black.svg
-scalable/gtk-copy.svg: source/emoji_u1f40f-black.svg
-scalable/stock_copy.svg: source/emoji_u1f40f-black.svg
+scalable/edit-copy.svg: source/haikuos-tracker_copy.svg
+scalable/copy.svg: source/haikuos-tracker_copy.svg
+scalable/editcopy.svg: source/haikuos-tracker_copy.svg
+scalable/gtk-copy.svg: source/haikuos-tracker_copy.svg
+scalable/stock_copy.svg: source/haikuos-tracker_copy.svg
 scalable/gpicview.svg: source/eog.svg
 scalable/ristretto.svg: source/eog.svg
 scalable/logout.svg: source/exit.svg
@@ -555,6 +562,7 @@ scalable/logviewer.svg: source/retrosmart-logviewer.svg
 scalable/file-search.svg: source/haikuos-action_search.svg
 scalable/process-stop.svg: source/haikuos-action_stop.svg
 scalable/gtk-cancel.svg: source/haikuos-action_stop.svg
+scalable/no.svg: source/haikuos-action_stop.svg
 scalable/gtk-stop.svg: source/haikuos-action_stop.svg
 scalable/stock_stop.svg: source/haikuos-action_stop.svg
 scalable/stop.svg: source/haikuos-action_stop.svg
@@ -1050,6 +1058,7 @@ scalable/emblem-system.svg: source/retrosmart-atom-red.svg
 scalable/atom.svg: source/retrosmart-atom-red.svg
 scalable/katomic.svg: source/retrosmart-atom-red.svg
 scalable/application-octet-stream.svg: source/retrosmart-binary-stream.svg
+scalable/application-x-msi.svg: source/application-x-ms-dos-executable.svg
 scalable/application-x-executable-binary.svg: source/retrosmart-binary-stream.svg
 scalable/application-x-macbinary.svg: source/retrosmart-binary-stream.svg
 scalable/media-optical-bluray.svg: source/retrosmart-bluray.svg
@@ -1191,6 +1200,7 @@ scalable/note.svg: source/retrosmart-note.svg
 scalable/gnome-sticky-notes-applet.svg: source/retrosmart-note.svg
 scalable/xfce4-notes-plugin.svg: source/retrosmart-note.svg
 scalable/knotes.svg: source/retrosmart-note.svg
+scalable/window-pin.svg: source/pin.svg
 scalable/gnote.svg: source/retrosmart-note-pin.svg
 scalable/xpad.svg: source/retrosmart-note-pin.svg
 scalable/libreoffice-math.svg: source/retrosmart-office-document-math.svg
@@ -1488,3 +1498,11 @@ scalable/gnome-help.svg: source/zumi.xoom.it-system-help.svg
 scalable/gtk-help.svg: source/zumi.xoom.it-system-help.svg
 scalable/stock_help.svg: source/zumi.xoom.it-system-help.svg
 scalable/filter-note-unfiled.svg: source/zumi.xoom.it-system-note_r2.svg
+scalable/application-x-wine-extension-ini.svg: source/retrosmart-inifile.svg
+scalable/application-x-ms-regedit.svg: source/retrosmart-regfile.svg
+scalable/steam-icon.svg: source/steam.svg
+scalable/steam_tray_mono.svg: source/steam-symbolic.svg
+scalable/com.valvesoftware.Steam.svg: source/steam.svg
+scalable/steampowered.svg: source/steam.svg
+scalable/steam-launcher.svg: source/steam.svg
+scalable/com.valvesoftware.SteamLink.svg: source/steamlink.svg
