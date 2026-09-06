@@ -4,11 +4,11 @@ _pkgver_year=2018
 _pkgver_month=01
 _pkgver_day=09
 
-_name=retrosmart-icon-theme
+_name=
 _gitname=${_name}-git
 
 pkgname=${_name}-local
-pkgver=0.1b
+pkgver=
 pkgrel=1
 pkgdesc="Retrosmart theme for Kvantum."
 url="https://github.com/mdomlop/${_name}.git"

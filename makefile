@@ -36,14 +36,10 @@ scalable/%.svg:
 	$(if $(strip $<),cd scalable; ln -sf $(notdir $<) $(notdir $@),)
 
 clean:
-	rm -f $(ICONS)
-	rm -f scalable
+	rm -rf scalable
 
 uninstall:
-	rm -f $(INSTALLED_ICONS)
-	rm -f $(INSTALLED_THEME)
-	rm -f $(DESTDIR)/$(PREFIX)/share/icons/$(PKGNAME)/scalable
-	rm -f $(DESTDIR)/$(PREFIX)/share/icons/$(PKGNAME)/
+	rm -rf $(DESTDIR)/$(PREFIX)/share/icons/$(PKGNAME)/
 
 
 preview.png:  source/anonymous.svg source/haikuos-app_diskusage.svg source/haikuos-app_finance.svg source/application-mbox.svg source/application-x-fictionbook.svg source/application-x-glade.svg source/application-x-ms-dos-executable.svg source/application-x-remote-connection.svg source/application-x-subrip.svg source/application-x-theme.svg source/application-x-troff-man.svg source/application-x-xz.svg source/applications-games.svg source/applications-internet.svg source/applications-multimedia.svg source/audio-volume-high.svg source/autostart.svg source/battery-040-charging.svg source/camera-video.svg source/camera-web.svg source/charmap.svg source/daemon.svg source/desktop.svg source/dialog-question.svg source/display-brightness.svg source/drapes.svg source/drawer.svg source/empathy.svg source/floppy-blue.svg source/folder-pictures.svg source/folder-yellow.svg source/gnome-fs-nfs.svg source/gnome-fs-web.svg source/retrosmart-select-color.svg source/haikuos-prefs_fonts.svg source/home.svg source/retrosmart-image-svg+xml.svg source/input-mouse.svg source/keyboard-brightness.svg source/retrosmart-magnet.svg source/microphone-sensitivity-muted.svg source/network-cellular-connected.svg source/retrosmart-misc-antenna-offline.svg source/nm-adhoc.svg source/nm-device-wireless.svg source/object-flip-horizontal.svg source/pc.svg source/preferences-system.svg source/haikuos-prefs_bluetooth.svg source/haikuos-prefs_keyboard.svg source/retrosmart-socket-black.svg source/haikuos-server_syslog.svg source/text-x-java.svg source/webpositive_r2.svg
