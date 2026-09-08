@@ -995,7 +995,6 @@ scalable/mail-folder-outbox.svg: source/outbox.svg
 scalable/squeeze.svg: source/package-maker.svg
 scalable/xarchiver.svg: source/package-maker.svg
 scalable/compressor.svg: source/package-maker.svg
-scalable/ark.svg: source/package-maker.svg
 scalable/gnome-mplayer.svg: source/palomitas.svg
 scalable/movie-player.svg: source/palomitas.svg
 scalable/totem.svg: source/palomitas.svg
