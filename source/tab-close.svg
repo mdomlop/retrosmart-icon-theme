@@ -2,14 +2,6 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
    x="0.0000000"
    y="0.0000000"
@@ -17,9 +9,17 @@
    height="48.000000"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="0.91 r13725"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="tab-close.svg"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata66">
     <rdf:RDF>
@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:contributor>
           <cc:Agent>
             <dc:title />
@@ -69,25 +69,32 @@
   </metadata>
   <sodipodi:namedview
      inkscape:window-height="992"
-     inkscape:window-width="1154"
+     inkscape:window-width="1493"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="0.31764706"
      bordercolor="#666"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="2.7234802"
-     inkscape:cx="-54.450998"
-     inkscape:cy="-11.406159"
+     inkscape:zoom="15.406331"
+     inkscape:cx="33.168184"
+     inkscape:cy="20.28387"
      inkscape:window-x="0"
-     inkscape:window-y="41"
+     inkscape:window-y="0"
      inkscape:current-layer="svg11300"
      showgrid="true"
      inkscape:showpageshadow="false"
-     inkscape:window-maximized="0">
+     inkscape:window-maximized="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid3844" />
+       id="grid3844"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <defs
      id="defs3">
@@ -573,7 +580,7 @@
        style="fill:#000099;fill-opacity:1;fill-rule:evenodd;stroke:none" />
   </g>
   <g
-     transform="matrix(0.46023774,0,0,0.46023774,18.7468,21.388762)"
+     transform="matrix(0.73850102,0,0,0.73850102,3.7084029,6.3027385)"
      id="g4250"
      style="color-interpolation:linearRGB">
     <g
@@ -581,7 +588,7 @@
       <path
          inkscape:connector-curvature="0"
          style="fill:none;stroke:#010101;stroke-width:4"
-         d="m 14,44 8,2 7.39,-4.75 L 34,50 42,52 48,46 40,31 50.37,19.75 42,17.37 35,21 32,14 24,12 14,14 24,32 14,44 Z"
+         d="m 14,44 8,2 7.39,-4.75 L 34,50 42,52 48,46 40,31 50.37,19.75 42,17.37 35,21 32,14 24,12 14,14 24,32 Z"
          id="path4215" />
       <linearGradient
          id="linearGradient9500"
@@ -606,12 +613,12 @@
       <path
          inkscape:connector-curvature="0"
          style="fill:url(#gradient0)"
-         d="m 22,17 6,11 4,7 10,17 6,-6 -16,-32 -10,3 z"
+         d="m 22,17 6,11 4,7 10,17 6,-6 -16,-32 z"
          id="path4224" />
       <path
          inkscape:connector-curvature="0"
          style="fill:#750303"
-         d="M 40,31 50.37,19.75 42,24 32,35 40,31 Z m -18,15 8,-6 -2,-1 -6,7 z"
+         d="M 40,31 50.37,19.75 42,24 32,35 Z m -18,15 8,-6 -2,-1 z"
          id="path4226" />
       <linearGradient
          id="linearGradient9510"
@@ -632,7 +639,7 @@
       <path
          inkscape:connector-curvature="0"
          style="fill:url(#gradient1)"
-         d="m 14,44 8,2 6,-7 6,11 8,2 L 32,35 42,24 34,21 28,27.87 22,17 14,14 24,32 14,44 Z"
+         d="m 14,44 8,2 6,-7 6,11 8,2 L 32,35 42,24 34,21 28,27.87 22,17 14,14 24,32 Z"
          id="path4233" />
       <linearGradient
          id="linearGradient9517"
@@ -653,11 +660,11 @@
       <path
          inkscape:connector-curvature="0"
          style="fill:url(#gradient2)"
-         d="m 34,21 8,3 8.37,-4.25 L 42,17.37 34,21 Z m -20,-7 8,3 10,-3 -8,-2 -10,2 z"
+         d="m 34,21 8,3 8.37,-4.25 L 42,17.37 Z m -20,-7 8,3 10,-3 -8,-2 z"
          id="path4240" />
       <path
          inkscape:connector-curvature="0"
-         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-opacity:0.26660001"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-opacity:0.2666"
          d="m 15,14.12 9.5,-1.5 M 28,28 34,22 42,17.75 M 24.25,32.5 14.62,43.87"
          id="path4242" />
     </g>
