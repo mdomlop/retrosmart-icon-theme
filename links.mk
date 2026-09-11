@@ -271,7 +271,7 @@ scalable/gtk-apply.svg: source/checkmark.svg
 scalable/gtk-ok.svg: source/checkmark.svg
 scalable/ok.svg: source/checkmark.svg
 scalable/yes.svg: source/checkmark.svg
-scalable/dialog-ok-apply.svg: source/checkmark.svg
+scalable/dialog-ok-apply.svg: source/checkmark-small-green.svg
 scalable/dialog-ok.svg: source/checkmark.svg
 scalable/dialog-yes.svg: source/checkmark.svg
 scalable/checkbox-mixed.svg: source/check-mixed.svg
@@ -316,6 +316,10 @@ scalable/stock_dialog-info.svg: source/dialog-information.svg
 scalable/dialog-password-symbolic.svg: source/dialog-password.svg
 scalable/gtk-dialog-authentication.svg: source/dialog-password.svg
 scalable/stock_keyring.svg: source/dialog-password.svg
+scalable/notification-active.svg: source/dialog-question.svg
+scalable/notification-inactive.svg: source/dialog-question.svg
+scalable/notification-disabled.svg: source/retrosmart-bell-disabled.svg
+scalable/notifications.svg: source/zumi-ring.svg
 scalable/dialog_question.svg: source/dialog-question.svg
 scalable/dialog-question-symbolic.svg: source/dialog-question.svg
 scalable/gtk-dialog-question.svg: source/dialog-question.svg
@@ -355,6 +359,7 @@ scalable/rox.svg: source/drawer.svg
 scalable/system-file-manager.svg: source/drawer.svg
 scalable/thunar.svg: source/drawer.svg
 scalable/Thunar.svg: source/drawer.svg
+scalable/thunderbird.svg: source/zumi.xoom.it-system-mail_daemon_r3.svg
 scalable/xfce-filemanager.svg: source/drawer.svg
 scalable/filebrowser.svg: source/drawer.svg
 scalable/drive-cdrom.svg: source/drive-optical.svg
@@ -1292,9 +1297,12 @@ scalable/redhat-config-users.svg: source/system-users.svg
 scalable/system-config-users.svg: source/system-users.svg
 scalable/easytag.svg: source/tag-editor.svg
 scalable/tagtool.svg: source/tag-editor.svg
-scalable/tags.svg: source/tag.svg
-scalable/media-tag.svg: source/tag.svg
-scalable/tag-browser.svg: source/tag.svg
+scalable/tags.svg: source/zumi.xoom.it-system-tag.svg
+scalable/media-tag.svg: source/zumi.xoom.it-system-tag.svg
+scalable/mail-tagged.svg: source/retrosmart-mail-tagged.svg
+scalable/tag-browser.svg: source/retrosmart-tag-browser.svg
+scalable/tag-new.svg: source/retrosmart-tag-new.svg
+scalable/tag-recent.svg: source/retrosmart-tag-recent.svg
 scalable/diana.svg: source/target.svg
 scalable/window-center.svg: source/target.svg
 scalable/task-due-symbolic.svg: source/task-due.svg
@@ -1302,7 +1310,7 @@ scalable/task-past-due-symbolic.svg: source/task-past-due.svg
 scalable/telegram_logo.svg: source/telegram.svg
 scalable/telegram-messenger.svg: source/telegram.svg
 scalable/video-television.svg: source/television.svg
-scalable/geany.svg: source/tetera_amarilla.svg
+scalable/geany.svg: source/haikuos-app_tkwish.svg
 scalable/gedit-icon.svg: source/text-editor.svg
 scalable/accessories-text-editor.svg: source/text-editor.svg
 scalable/kedit.svg: source/text-editor.svg
@@ -1366,7 +1374,7 @@ scalable/xfce-trash_full.svg: source/user-trash-full.svg
 scalable/user-trash-full-symbolic.svg: source/user-trash-full.svg
 scalable/edittrash.svg: source/user-trash.svg
 scalable/emptytrash.svg: source/user-trash.svg
-scalable/gnome-fs-trash-empty.svg: source/user-trash.svg
+scalable/trash-empty.svg: source/haikuos-trash_empty.svg
 scalable/gnome-stock-trash.svg: source/user-trash.svg
 scalable/trashcan_empty.svg: source/user-trash.svg
 scalable/trash.svg: source/user-trash.svg
@@ -1442,6 +1450,9 @@ scalable/stock_new-window.svg: source/window-new.svg
 scalable/window_new.svg: source/window-new.svg
 scalable/page.svg: source/window-page.svg
 scalable/ccsm.svg: source/window-preferences.svg
+scalable/tools-wizard.svg: source/zumi.xoom.it-miscellaneous-magic_wand.svg
+scalable/password-generate.svg: source/zumi.xoom.it-btoolbar-draw_magic_wand.svg
+scalable/quickwizard.svg: source/retrosmart-misc_magic_wand.svg
 scalable/welcome_wizard.svg: source/wizard.svg
 scalable/gnome-panel-workspace-switcher.svg: source/workspaces.svg
 scalable/xfce4-workspaces.svg: source/workspaces.svg
