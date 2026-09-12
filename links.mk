@@ -133,7 +133,10 @@ scalable/quickview.svg: source/retrosmart-eye.svg
 scalable/quickview-symbolic.svg: source/retrosmart-eye.svg
 scalable/view-hidden-symbolic.svg: source/retrosmart-eye.svg
 scalable/redeyes.svg: source/retrosmart-redeye.svg
+scalable/arrow-down-tiny.svg: source/haikuos-action_download.svg
+scalable/arrow-down-tiny-symbolic.svg: source/retrosmart-menu.svg
 scalable/arrow-down.svg: source/arrow-down-green.svg
+scalable/arrow-down-symbolic.svg: source/retrosmart-menu.svg
 scalable/navigation_down.svg: source/arrow-down-green.svg
 scalable/go-down.svg: source/arrow-down-green.svg
 scalable/down.svg: source/haikuos-action_download.svg
