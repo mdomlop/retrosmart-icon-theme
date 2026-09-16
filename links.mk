@@ -328,6 +328,7 @@ scalable/notification-active.svg: source/dialog-question.svg
 scalable/notification-inactive.svg: source/dialog-question.svg
 scalable/notification-disabled.svg: source/retrosmart-bell-disabled.svg
 scalable/notifications.svg: source/zumi-ring.svg
+scalable/activities.svg: source/retrosmart-activities.svg
 scalable/dialog_question.svg: source/dialog-question.svg
 scalable/dialog-question-symbolic.svg: source/dialog-question.svg
 scalable/gtk-dialog-question.svg: source/dialog-question.svg
@@ -353,9 +354,10 @@ scalable/filequickprint.svg: source/document-print-preview.svg
 scalable/gtk-print-preview.svg: source/document-print-preview.svg
 scalable/stock_print-preview.svg: source/document-print-preview.svg
 scalable/print-preview.svg: source/document-print-preview.svg
-scalable/properties.svg: source/document-properties.svg
-scalable/stock_file-properites.svg: source/document-properties.svg
-scalable/stock_properties.svg: source/document-properties.svg
+scalable/document-properties.svg: source/retrosmart-question-mark-green.svg
+scalable/properties.svg: source/retrosmart-document-properties.svg
+scalable/stock_file-properites.svg: source/retrosmart-document-properties.svg
+scalable/stock_properties.svg: source/retrosmart-document-properties.svg
 scalable/gtk-revert-to-saved-ltr.svg: source/document-revert.svg
 scalable/gtk-revert-to-saved-rtl.svg: source/document-revert.svg
 scalable/revert.svg: source/document-revert.svg
@@ -378,6 +380,7 @@ scalable/gtk-edit.svg: source/edit.svg
 scalable/editclear.svg: source/edit-clear.svg
 scalable/gtk-clear.svg: source/edit-clear.svg
 scalable/clear.svg: source/edit-clear.svg
+scalable/clear-list.svg: source/edit-clear.svg
 scalable/editdelete.svg: source/edit-delete.svg
 scalable/gtk-delete.svg: source/edit-delete.svg
 scalable/stock_delete.svg: source/edit-delete.svg
@@ -412,6 +415,9 @@ scalable/copy.svg: source/haikuos-tracker_copy.svg
 scalable/editcopy.svg: source/haikuos-tracker_copy.svg
 scalable/gtk-copy.svg: source/haikuos-tracker_copy.svg
 scalable/stock_copy.svg: source/haikuos-tracker_copy.svg
+scalable/edit-duplicate.svg: source/emoji_u1f40f-black.svg
+scalable/edit-move.svg: source/haikuos-tracker_move.svg
+scalable/edit-copy-path.svg: source/haikuos-app_tracker.svg
 scalable/gpicview.svg: source/eog.svg
 scalable/ristretto.svg: source/eog.svg
 scalable/logout.svg: source/exit.svg
@@ -450,6 +456,7 @@ scalable/gnome-dev-floppy.svg: source/floppy-3.svg
 scalable/floppy.svg: source/floppy-black.svg
 scalable/disk-floppy.svg: source/floppy-black.svg
 scalable/document-save.svg: source/floppy-black.svg
+scalable/document-share.svg: source/haikuos-misc_hand.svg
 scalable/filesave.svg: source/floppy-black.svg
 scalable/gtk-save.svg: source/floppy-black.svg
 scalable/stock_save.svg: source/floppy-black.svg
