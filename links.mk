@@ -733,6 +733,7 @@ scalable/application-x-lzma.svg: source/haikuos-file_archive.svg
 scalable/application-x-stuffit.svg: source/haikuos-file_archive.svg
 scalable/deb.svg: source/haikuos-file_archive.svg
 scalable/compass.svg: source/zumi-misc-compass.svg
+scalable/qpwgraph.svg: source/zumi.xoom.it-system-aux_jacks.svg
 scalable/gnome-mime-application-x-jar.svg: source/application-java-archive.svg
 scalable/gnome-mime-application-x-java-archive.svg: source/haikuos-file_archive.svg
 scalable/rpm.svg: source/haikuos-file_archive.svg
@@ -1307,7 +1308,15 @@ scalable/zen-icon.svg: source/system-software-update.svg
 scalable/icon-update.svg: source/system-software-update.svg
 scalable/gnome-inhibit-applet.svg: source/system-suspend.svg
 scalable/xfpm-suspend.svg: source/system-suspend.svg
+scalable/system-switch-user.svg: source/retrosmart-switch-user.svg
+scalable/im-user-away.svg: source/user-away.svg
+scalable/list-add-user.svg: source/retrosmart-add-user.svg
+scalable/list-remove-user.svg: source/retrosmart-remove-user.svg
+scalable/im-user-online.svg: source/user-online.svg
+scalable/im-user-offline.svg: source/user-offline.svg
+scalable/im-user.svg: source/haikuos-file_person.svg
 scalable/config-users.svg: source/system-users.svg
+scalable/preferences-desktop-user.svg: source/preferences-desktop-personal.svg
 scalable/kuser.svg: source/system-users.svg
 scalable/redhat-config-users.svg: source/system-users.svg
 scalable/system-config-users.svg: source/system-users.svg
