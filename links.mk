@@ -734,6 +734,7 @@ scalable/application-x-stuffit.svg: source/haikuos-file_archive.svg
 scalable/deb.svg: source/haikuos-file_archive.svg
 scalable/compass.svg: source/zumi-misc-compass.svg
 scalable/qpwgraph.svg: source/zumi.xoom.it-system-aux_jacks.svg
+scalable/org.rncbc.qpwgraph.svg: source/zumi.xoom.it-system-aux_jacks.svg
 scalable/gnome-mime-application-x-jar.svg: source/application-java-archive.svg
 scalable/gnome-mime-application-x-java-archive.svg: source/haikuos-file_archive.svg
 scalable/rpm.svg: source/haikuos-file_archive.svg
@@ -832,6 +833,7 @@ scalable/hwinfo.svg: source/hardware-info.svg
 scalable/abiword.svg: source/hbbi-abiword.svg
 scalable/abiword_48.svg: source/hbbi-abiword.svg
 scalable/audacious.svg: source/hbbi-aplayer.svg
+scalable/org.fooyin.fooyin.svg: source/retrosmart-fooyin.svg
 scalable/document-viewer.svg: source/hbbi-bepdf.svg
 scalable/evince.svg: source/hbbi-bepdf.svg
 scalable/okular.svg: source/hbbi-bepdf.svg
