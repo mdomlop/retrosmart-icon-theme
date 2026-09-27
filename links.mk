@@ -456,6 +456,8 @@ scalable/gnome-dev-floppy.svg: source/floppy-3.svg
 scalable/floppy.svg: source/floppy-black.svg
 scalable/disk-floppy.svg: source/floppy-black.svg
 scalable/document-save.svg: source/floppy-black.svg
+scalable/document-replace.svg: source/floppy-red.svg
+scalable/document-save-session.svg: source/floppy-black.svg
 scalable/document-share.svg: source/haikuos-misc_hand.svg
 scalable/filesave.svg: source/floppy-black.svg
 scalable/gtk-save.svg: source/floppy-black.svg
@@ -741,12 +743,12 @@ scalable/rpm.svg: source/haikuos-file_archive.svg
 scalable/package.svg: source/haikuos-file_archive.svg
 scalable/emblem-package.svg: source/haikuos-file_archive.svg
 scalable/celestia.svg: source/haikuos-file_chart.svg
-scalable/image.svg: source/haikuos-file_image_1.svg
-scalable/gnome-mime-image.svg: source/haikuos-file_image_1.svg
-scalable/emblem-photos.svg: source/haikuos-file_image_1.svg
-scalable/emblem-pictures.svg: source/haikuos-file_image_1.svg
-scalable/image-x-generic.svg: source/haikuos-file_image_1.svg
-scalable/emblem-images.svg: source/haikuos-file_image_1.svg
+scalable/image.svg: source/retrosmart-file_image.svg
+scalable/gnome-mime-image.svg: source/retrosmart-file_image.svg
+scalable/emblem-photos.svg: source/retrosmart-file_image.svg
+scalable/emblem-pictures.svg: source/retrosmart-file_image.svg
+scalable/image-x-generic.svg: source/retrosmart-file_image.svg
+scalable/emblem-images.svg: source/retrosmart-file_image.svg
 scalable/image-bmp.svg: source/haikuos-file_image_2.svg
 scalable/gnome-mime-image-bmp.svg: source/haikuos-file_image_2.svg
 scalable/inode-fifo.svg: source/haikuos-file_pipe.svg
