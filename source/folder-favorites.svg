@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="64"
    height="64"
    color-interpolation="linearRGB"
    id="svg2"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="folder-favorites.svg">
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="folder-favorites.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata44">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -546,17 +546,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="936"
-     inkscape:window-height="829"
+     inkscape:window-width="2560"
+     inkscape:window-height="1295"
      id="namedview40"
      showgrid="false"
-     inkscape:zoom="2.3069877"
-     inkscape:cx="0.60519909"
-     inkscape:cy="5.0661525"
-     inkscape:window-x="168"
-     inkscape:window-y="185"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2" />
+     inkscape:zoom="9.2279508"
+     inkscape:cx="3.5760919"
+     inkscape:cy="46.164095"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <path
      id="path6"
      d="m 42,61 h 6 l 4,-4 h 4 l 6,-6 -14,-4 -6,14 z"
@@ -588,22 +591,22 @@
   <g
      style="color-interpolation:linearRGB"
      id="g9331"
-     transform="matrix(0.61547186,0,0,0.61547186,-1.0909061,24.966648)">
+     transform="matrix(0.58575832,0,0,0.58575832,1.2931654,25.893002)">
     <g
        id="g9259">
       <path
          id="path9261"
-         d="m 39,47 23,1 -19,-9 6,-11 -16,6 -15,-8 4,12 -20,6 23,2 5,16 9,-15 z"
+         d="m 39,47 23,1 -19,-9 6,-11 -16,6 -15,-8 4,12 -20,6 23,2 5,16 z"
          style="fill:#000000;fill-opacity:0.4"
          inkscape:connector-curvature="0" />
       <path
          id="path9263"
-         d="M 30,62 21,41 2,44 16,29 9,11 25,19 41,2 37,24 58,34 34.14,38.15 30,62 Z"
+         d="M 30,62 21,41 2,44 16,29 9,11 25,19 41,2 37,24 58,34 34.14,38.15 Z"
          style="fill:none;stroke:#000000;stroke-width:4;stroke-linejoin:round"
          inkscape:connector-curvature="0" />
       <path
          id="path9265"
-         d="M 20,27 25,19 41,2 20,27 Z"
+         d="M 20,27 25,19 41,2 Z"
          style="fill:#ffff80"
          inkscape:connector-curvature="0" />
       <linearGradient
@@ -624,7 +627,7 @@
       </linearGradient>
       <path
          id="path9272"
-         d="M 20,27 25,19 9,11 20,27 Z"
+         d="M 20,27 25,19 9,11 Z"
          style="fill:url(#gradient0-1)"
          inkscape:connector-curvature="0" />
       <linearGradient
@@ -645,12 +648,12 @@
       </linearGradient>
       <path
          id="path9279"
-         d="M 20,27 16,29 9,11 20,27 Z"
+         d="M 20,27 16,29 9,11 Z"
          style="fill:url(#gradient1-8)"
          inkscape:connector-curvature="0" />
       <path
          id="path9281"
-         d="M 20,27 16,29 2,44 20,27 Z"
+         d="M 20,27 16,29 2,44 Z"
          style="fill:#ffff80"
          inkscape:connector-curvature="0" />
       <linearGradient
@@ -671,7 +674,7 @@
       </linearGradient>
       <path
          id="path9288"
-         d="M 20,27 21,41 2,44 20,27 Z"
+         d="M 20,27 21,41 2,44 Z"
          style="fill:url(#gradient2-7)"
          inkscape:connector-curvature="0" />
       <linearGradient
@@ -692,7 +695,7 @@
       </linearGradient>
       <path
          id="path9295"
-         d="M 20,27 21,41 30,62 20,27 Z"
+         d="m 20,27 1,14 9,21 z"
          style="fill:url(#gradient3-9)"
          inkscape:connector-curvature="0" />
       <linearGradient
@@ -713,7 +716,7 @@
       </linearGradient>
       <path
          id="path9302"
-         d="M 20,27 34,38 30,62 20,27 Z"
+         d="M 20,27 34,38 30,62 Z"
          style="fill:url(#gradient4)"
          inkscape:connector-curvature="0" />
       <linearGradient
@@ -734,7 +737,7 @@
       </linearGradient>
       <path
          id="path9309"
-         d="M 20,27 34,38 58,34 20,27 Z"
+         d="M 20,27 34,38 58,34 Z"
          style="fill:url(#gradient5)"
          inkscape:connector-curvature="0" />
       <linearGradient
@@ -755,7 +758,7 @@
       </linearGradient>
       <path
          id="path9316"
-         d="M 20,27 37,24 58,34 20,27 Z"
+         d="M 20,27 37,24 58,34 Z"
          style="fill:url(#gradient6)"
          inkscape:connector-curvature="0" />
       <linearGradient
@@ -776,7 +779,7 @@
       </linearGradient>
       <path
          id="path9323"
-         d="M 20,27 37,24 41,2 20,27 Z"
+         d="M 20,27 37,24 41,2 Z"
          style="fill:url(#gradient7)"
          inkscape:connector-curvature="0" />
     </g>

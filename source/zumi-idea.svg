@@ -1,0 +1,55 @@
+<svg width="64" height="64" viewBox="0 0 6528 6528" xmlns="http://www.w3.org/2000/svg">
+<g>
+<defs>
+<radialGradient id="grad1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.281250 0.000000 0.000000 0.281250 2652.00 3264.00)" cx="0" cy="0" r="6528">
+<stop offset="49.02%" stop-color="#010000" stop-opacity="0.35" />
+<stop offset="100.00%" stop-color="#010000" stop-opacity="0.00" />
+</radialGradient>
+</defs>
+<path id="shape_0" d="M 3264 1428 C 2244 1428 1428 2244 1428 3264 C 1428 4284 2244 5100 3264 5100 C 4284 5100 5100 4284 5100 3264 C 5100 2244 4284 1428 3264 1428 Z " transform="matrix(1.111107 0.000000 0.000000 0.444443 861.33 4261.31)" style="fill:url(#grad1);stroke:none" />
+</g>
+<path id="shape_1" d="M 3264 1428 C 2244 1428 1428 2244 1428 3264 C 1428 4284 2244 5100 3264 5100 C 4284 5100 5100 4284 5100 3264 C 5100 2244 4284 1428 3264 1428 Z " transform="matrix(0.555553 0.000000 0.000000 0.666664 1450.66 2924.00)" style="fill:#000000;stroke:none" />
+<g>
+<defs>
+<radialGradient id="grad2" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.444054 0.080435 -0.052954 0.292339 2409.24 3109.31)" cx="0" cy="0" r="6528">
+<stop offset="43.92%" stop-color="#dedede" />
+<stop offset="64.31%" stop-color="#707070" />
+<stop offset="83.14%" stop-color="#dedede" />
+<stop offset="100.00%" stop-color="#707070" />
+</radialGradient>
+</defs>
+<path id="shape_3" d="M 3264 1428 C 2244 1428 1428 2244 1428 3264 C 1428 4284 2244 5100 3264 5100 C 4284 5100 5100 4284 5100 3264 C 5100 2244 4284 1428 3264 1428 Z " transform="matrix(0.444443 0.000000 0.000000 0.555553 1813.33 3286.66)" style="fill:url(#grad2);stroke:none" />
+</g>
+<path id="shape_5" d="M 3264 1428 C 2244 1428 1428 2244 1428 3264 C 1428 4284 2244 5100 3264 5100 C 4284 5100 5100 4284 5100 3264 C 5100 2244 4284 1428 3264 1428 Z " transform="matrix(1.222221 0.000000 0.000000 1.222221 -725.33 -1541.33)" style="fill:#000000;stroke:none" />
+<path id="shape_7" d="M 3264 1428 C 2244 1428 1428 2244 1428 3264 C 1428 4284 2244 5100 3264 5100 C 4284 5100 5100 4284 5100 3264 C 5100 2244 4284 1428 3264 1428 Z " transform="matrix(0.666664 0.000000 0.000000 0.666664 1088.00 2108.00)" style="fill:#000000;stroke:none" />
+<path id="shape_8" d="M 3264 1428 C 2244 1428 1428 2244 1428 3264 C 1428 4284 2244 5100 3264 5100 C 4284 5100 5100 4284 5100 3264 C 5100 2244 4284 1428 3264 1428 Z " transform="matrix(0.555553 0.000000 0.000000 0.555553 1450.66 2470.66)" style="fill:#ffd500;stroke:none" />
+<g>
+<defs>
+<radialGradient id="grad3" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.343750 0.000000 0.000000 0.343750 2856.00 2856.00)" cx="0" cy="0" r="6528">
+<stop offset="19.22%" stop-color="#ffffff" />
+<stop offset="81.57%" stop-color="#ffd500" />
+<stop offset="100.00%" stop-color="#ffea00" />
+</radialGradient>
+</defs>
+<path id="shape_9" d="M 3264 1428 C 2244 1428 1428 2244 1428 3264 C 1428 4284 2244 5100 3264 5100 C 4284 5100 5100 4284 5100 3264 C 5100 2244 4284 1428 3264 1428 Z " transform="matrix(1.111107 0.000000 0.000000 1.111107 -362.67 -1178.67)" style="fill:url(#grad3);stroke:none" />
+</g>
+<g>
+<defs>
+<linearGradient id="grad4" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.000000 0.125000 -1.000000 0.000000 6528.00 3672.00)" x1="-6528" x2="6528" y1="-6528" y2="-6528">
+<stop offset="0.00%" stop-color="#ffffff" />
+<stop offset="100.00%" stop-color="#ffbf00" />
+</linearGradient>
+</defs>
+<path id="shape_10" d="M 3264 4896 C 3264 4896 3264 3468 3264 3468 " style="fill:none;stroke:url(#grad4);stroke-width:408;stroke-linejoin:round;stroke-linecap:round" />
+</g>
+<g>
+<defs>
+<linearGradient id="grad5" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.000000 0.125000 -1.000000 0.000000 6528.00 3672.00)" x1="-6528" x2="6528" y1="-6528" y2="-6528">
+<stop offset="0.00%" stop-color="#ffffff" />
+<stop offset="100.00%" stop-color="#ffbf00" />
+</linearGradient>
+</defs>
+<path id="shape_11" d="M 2856 2856 C 2856 2448 3060 2244 3264 2244 C 3468 2244 3672 2448 3672 2856 C 3672 3264 3468 3468 3264 3468 C 3060 3468 2856 3264 2856 2856 Z " style="fill:none;stroke:url(#grad5);stroke-width:408;stroke-linejoin:round;stroke-linecap:round" />
+</g>
+<path id="shape_12" d="M 4376 4215 C 4155 4357 3903 4451 3634 4501 C 3634 4501 4098 4501 4376 4311 C 4376 4311 4376 4215 4376 4215 Z " style="fill:#010000;stroke:none" />
+</svg>
