@@ -1,4 +1,7 @@
 scalable/3floppy_unmount.svg: source/floppy-2.svg
+scalable/wine.svg: source/arti-wine.svg
+scalable/q4wine.svg: source/retrosmart-qt-wine.svg
+scalable/qtcreator.svg: source/retrosmart-qt-creator.svg
 scalable/abiword_48.svg: source/hbbi-abiword.svg
 scalable/abiword.svg: source/hbbi-abiword.svg
 scalable/accesorios.svg: source/accessories.svg
@@ -8,6 +11,7 @@ scalable/accessories-text-editor.svg: source/text-editor.svg
 scalable/access.svg: source/retrosmart-accessibility.svg
 scalable/acrobat.svg: source/hbbi-bepdf.svg
 scalable/acroread.svg: source/hbbi-bepdf.svg
+scalable/org.keepassxc.KeePassXC-application-x-keepassxc.svg: source/application-x-keepass2.svg
 scalable/activities.svg: source/retrosmart-activities.svg
 scalable/add.svg: source/plus.svg
 scalable/adjustlevels.svg: source/haikuos-prefs_media.svg
@@ -351,6 +355,8 @@ scalable/emblem-mounted.svg: source/circle-green.svg
 scalable/emblem-package.svg: source/haikuos-file_archive.svg
 scalable/emblem-pause.svg: source/media-playback-pause.svg
 scalable/emblem-photos.svg: source/retrosmart-file_image.svg
+scalable/kmag.svg: source/retrosmart-kmag.svg
+scalable/linguist.svg: source/retrosmart-qt-linguist.svg
 scalable/emblem-pictures.svg: source/retrosmart-file_image.svg
 scalable/emblem-sound.svg: source/audio.svg
 scalable/emblem-special.svg: source/star.svg
@@ -488,6 +494,7 @@ scalable/gnome-dev-wavelan.svg: source/retrosmart-misc-antenna-receive.svg
 scalable/gnome-display-properties.svg: source/preferences-desktop-display.svg
 scalable/gnome-eyes-applet.svg: source/gnome-eyes.svg
 scalable/gnome-favorites.svg: source/heart.svg
+scalable/love-amarok.svg: source/heart.svg
 scalable/gnome-fs-blockdev.svg: source/haikuos-device_harddisk_development.svg
 scalable/gnome-fs-bookmark.svg: source/bookmarks.svg
 scalable/gnome-fs-chardev.svg: source/haikuos-prefs_virtualmemory.svg
@@ -520,7 +527,9 @@ scalable/gnome-mime-application-msword.svg: source/application-msword.svg
 scalable/gnome-mime-application-ogg.svg: source/audio-x-vorbis+ogg.svg
 scalable/gnome-mime-application-pdf.svg: source/application-pdf.svg
 scalable/gnome-mime-application-postscript.svg: source/application-postscript.svg
-scalable/gnome-mime-application-rtf.svg: source/application-rtf.svg
+scalable/application-rtf.svg: source/retrosmart-rtf.svg
+scalable/text-rtf.svg: source/retrosmart-rtf.svg
+scalable/gnome-mime-application-rtf.svg: source/retrosmart-rtf.svg
 scalable/gnome-mime-application-vnd.ms-excel.svg: source/application-vnd.ms-excel.svg
 scalable/gnome-mime-application-vnd.sun.xml.calc.svg: source/application-vnd.oasis.opendocument.spreadsheet.svg
 scalable/gnome-mime-application-vnd.sun.xml.writer.svg: source/application-vnd.oasis.opendocument.text.svg
@@ -633,6 +642,7 @@ scalable/graphics.svg: source/haikuos-app_imageeditor.svg
 scalable/grun.svg: source/haikuos-app_launchbox.svg
 scalable/gsd-xrandr.svg: source/preferences-desktop-display.svg
 scalable/gtk-add.svg: source/plus.svg
+scalable/kmix.svg: source/retrosmart-kmix.svg
 scalable/gtk-apply.svg: source/checkmark.svg
 scalable/gtk-bold.svg: source/format-text-bold.svg
 scalable/gtk-cancel.svg: source/haikuos-action_stop.svg
@@ -703,6 +713,8 @@ scalable/gtk-preferences.svg: source/tools.svg
 scalable/gtk-print-preview.svg: source/document-print-preview.svg
 scalable/gtk-print.svg: source/document-print.svg
 scalable/gtk-quit.svg: source/exit.svg
+scalable/xfce-mixer-record.svg: source/retrosmart-ball-red.svg
+scalable/xfce-mixer-no-record.svg: source/retrosmart-ball-grey.svg
 scalable/gtk-redo-ltr.svg: source/edit-redo.svg
 scalable/gtk-refresh.svg: source/zumi.xoom.it-3rd_party_apps-wayback.svg
 scalable/gtk-remove.svg: source/minus.svg
@@ -974,6 +986,7 @@ scalable/network-transmit-receive.svg: source/retrosmart-network-transmit-receiv
 scalable/network-transmit-receive-symbolic.svg: source/retrosmart-network-transmit-receive.svg
 scalable/network-transmit.svg: source/retrosmart-network-transmit.svg
 scalable/network-transmit-symbolic.svg: source/retrosmart-network-transmit.svg
+scalable/network-wired-activated.svg: source/haikuos-tray_network_ready.svg
 scalable/network-wired-disconnected.svg: source/retrosmart-rj45-offline.svg
 scalable/network-wired-disconnected-symbolic.svg: source/retrosmart-rj45-offline.svg
 scalable/network-wired-offline.svg: source/retrosmart-rj45-offline.svg
@@ -1579,6 +1592,8 @@ scalable/xfce-trash_empty.svg: source/user-trash.svg
 scalable/xfce-trash_full.svg: source/user-trash-full.svg
 scalable/xfce-utils.svg: source/applications-accessories.svg
 scalable/xfmpc.svg: source/retrosmart-music-daemon.svg
+scalable/daemon.svg: source/retrosmart-user-daemon.svg
+scalable/mpd.svg: source/retrosmart-music-daemon.svg
 scalable/x-font-afm.svg: source/font-x-generic.svg
 scalable/xfpm-ac-adapter.svg: source/retrosmart-socket-white.svg
 scalable/xfpm-brightness-lcd.svg: source/retrosmart-candle.svg
